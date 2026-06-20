@@ -2,18 +2,20 @@ let level = 1;
 let index = 0;
 let score = 0;
 let lives = 3;
-let timer = 30;
-let interval;
+
 let questions = [];
 
-// FILE MAP (3 LEVELS)
+let examTime = 50 * 60;
+let timerInterval;
+
+// FILES
 const files = {
   1: "data/equilibrium.json",
   2: "data/kinetics.json",
   3: "data/electrochemistry.json"
 };
 
-// ================= UI =================
+// UI ELEMENTS
 const qEl = document.getElementById("question");
 const a = document.getElementById("btnA");
 const b = document.getElementById("btnB");
@@ -23,12 +25,16 @@ const scoreEl = document.getElementById("score");
 const qNum = document.getElementById("questionNumber");
 const timerEl = document.getElementById("timer");
 
-// ================= START GAME =================
+const buttons = [a, b, c, d];
+
+// ================= START EXAM =================
 function startGame() {
   level = 1;
+  index = 0;
   score = 0;
   lives = 3;
 
+  startTimer();
   loadLevel();
 }
 
@@ -41,14 +47,13 @@ function loadLevel() {
     .then(data => {
       questions = data;
 
-      if (!questions || questions.length === 0) {
-        qEl.textContent = "❌ No questions found!";
+      if (!Array.isArray(questions)) {
+        qEl.textContent = "❌ Invalid JSON format";
         return;
       }
 
       showQuestion();
       updateUI();
-      startTimer();
     })
     .catch(err => {
       console.log(err);
@@ -56,7 +61,7 @@ function loadLevel() {
     });
 }
 
-// ================= SHOW QUESTION =================
+// ================= SHOW QUESTION (SAFE - NO ANSWER DISPLAY) =================
 function showQuestion() {
   let q = questions[index];
 
@@ -65,6 +70,9 @@ function showQuestion() {
     return;
   }
 
+  resetButtons(); // IMPORTANT: clears previous colors FIRST
+
+  // SHOW ONLY QUESTION + OPTIONS
   qEl.textContent = q.question;
 
   a.textContent = q.options[0];
@@ -72,49 +80,67 @@ function showQuestion() {
   c.textContent = q.options[2];
   d.textContent = q.options[3];
 
-  qNum.textContent = `Level ${level} | Q${index + 1}/${questions.length}`;
+  qNum.textContent =
+    `Level ${level} | Question ${index + 1} / ${questions.length}`;
 }
 
-// ================= CHECK ANSWER =================
-function checkAnswer(i) {
+// ================= ANSWER CHECK (ONLY HERE SHOW ANSWER) =================
+function checkAnswer(selected) {
   let q = questions[index];
-
   if (!q) return;
 
-  if (i === q.answer) {
+  lockButtons();
+
+  const correct = q.answer;
+
+  // SHOW CORRECT ONLY AFTER CLICK
+  if (selected === correct) {
+    buttons[selected].style.background = "#28a745";
     score++;
   } else {
+    buttons[selected].style.background = "#dc3545";
+    buttons[correct].style.background = "#28a745";
     lives--;
   }
 
   updateUI();
-  nextQuestion();
+
+  setTimeout(() => {
+    index++;
+
+    if (lives <= 0) {
+      endExam();
+      return;
+    }
+
+    if (index >= questions.length) {
+      nextLevel();
+      return;
+    }
+
+    showQuestion();
+  }, 800);
 }
 
-// ================= NEXT QUESTION =================
-function nextQuestion() {
-  index++;
-
-  if (lives <= 0) {
-    endGame();
-    return;
-  }
-
-  if (index >= questions.length) {
-    nextLevel();
-    return;
-  }
-
-  resetTimer();
-  showQuestion();
+// ================= BUTTON CONTROL =================
+function lockButtons() {
+  buttons.forEach(btn => btn.disabled = true);
 }
 
-// ================= NEXT LEVEL =================
+function resetButtons() {
+  buttons.forEach(btn => {
+    btn.disabled = false;
+    btn.style.background = "#1e1e1e";
+    btn.style.color = "white";
+  });
+}
+
+// ================= LEVEL SYSTEM =================
 function nextLevel() {
   level++;
 
   if (level > 3) {
-    endGame();
+    endExam();
     return;
   }
 
@@ -124,47 +150,42 @@ function nextLevel() {
 // ================= UI UPDATE =================
 function updateUI() {
   scoreEl.textContent =
-    `⭐ Score: ${score} | ❤️ Lives: ${lives} | Level: ${level}`;
+    `⭐ Score: ${score} | ❤️ Lives: ${lives} | 📘 Level: ${level}`;
 }
 
-// ================= TIMER =================
+// ================= 50 MIN TIMER =================
 function startTimer() {
-  timer = 30;
+  timerInterval = setInterval(() => {
+    examTime--;
 
-  interval = setInterval(() => {
-    timer--;
+    let min = Math.floor(examTime / 60);
+    let sec = examTime % 60;
 
-    timerEl.textContent = `⏱ ${timer}`;
+    timerEl.textContent =
+      `⏱ ${min}:${sec < 10 ? "0" + sec : sec}`;
 
-    if (timer <= 0) {
-      lives--;
-      updateUI();
-      nextQuestion();
+    if (examTime <= 0) {
+      endExam();
     }
   }, 1000);
 }
 
-function resetTimer() {
-  clearInterval(interval);
-  startTimer();
-}
-
-// ================= END GAME =================
-function endGame() {
-  clearInterval(interval);
+// ================= END EXAM =================
+function endExam() {
+  clearInterval(timerInterval);
 
   qEl.textContent = `🎉 Exam Finished! Final Score: ${score}`;
-  qNum.textContent = "Finished";
+  qNum.textContent = "EXAM COMPLETED";
 
-  a.textContent = "";
-  b.textContent = "";
-  c.textContent = "";
-  d.textContent = "";
+  buttons.forEach(btn => {
+    btn.disabled = true;
+    btn.textContent = "";
+  });
 
-  timerEl.textContent = "";
+  timerEl.textContent = "⛔ TIME UP";
 }
 
-// ================= BUTTON EVENTS =================
+// ================= EVENT LISTENERS =================
 a.onclick = () => checkAnswer(0);
 b.onclick = () => checkAnswer(1);
 c.onclick = () => checkAnswer(2);
