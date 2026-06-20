@@ -23,10 +23,24 @@ const scoreEl = document.getElementById("score");
 const qNum = document.getElementById("questionNumber");
 
 // ================= START =================
+function startGame() let level = 1;
+let index = 0;
+let score = 0;
+let lives = 3;
+let questions = [];
+
+const files = {
+  1: "data/equilibrium.json",
+  2: "data/kinetics.json",
+  3: "data/electrochemistry.json"
+};
+
+// ================= START =================
 function startGame() {
   level = 1;
   score = 0;
   lives = 3;
+
   loadLevel();
 }
 
@@ -38,41 +52,40 @@ function loadLevel() {
     .then(res => res.json())
     .then(data => {
       questions = data;
+
+      if (!questions || questions.length === 0) {
+        qEl.textContent = "No questions found!";
+        return;
+      }
+
       showQuestion();
+      updateScore();
     })
-    .catch(() => {
-      qEl.textContent = "Error loading file";
+    .catch(err => {
+      console.log(err);
+      qEl.textContent = "❌ Error loading file";
     });
+}
 }
 
 // ================= SHOW QUESTION =================
-function showQuestion() {
+ function showQuestion() {
+  let q = questions[index];
 
-  answered = false;
-
-  if (index >= questions.length) {
-    levelComplete();
+  if (!q) {
+    nextLevel();
     return;
   }
 
-  clearInterval(timer);
+  qEl.textContent = q.question;
 
-  let q = questions[index];
+  a.textContent = q.options[0];
+  b.textContent = q.options[1];
+  c.textContent = q.options[2];
+  d.textContent = q.options[3];
 
-  qEl.textContent = q.question  
-    // enable buttons
-  a.disabled = false;
-  b.disabled = false;
-  c.disabled = false;
-  d.disabled = false;
-
-  qNum.textContent =
-    `EXAM MODE | Level ${level} | Q ${index + 1}/${questions.length}`;
-
-  scoreEl.textContent =
-    `⭐ Score: ${score} | ❤️ Lives: ${lives}`;
-
-  startTimer();
+  qNum.textContent = `Level ${level} | Question ${index + 1}`;
+      }
 }
 
 // ================= TIMER =================
