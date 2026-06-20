@@ -1,0 +1,459 @@
+[
+  {
+    "question": "Chemical kinetics is the study of:",
+    "options": [
+      "Energy changes during reactions",
+      "Speed of chemical reactions and mechanisms",
+      "Equilibrium only",
+      "Atomic structure"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The rate of a chemical reaction is defined as:",
+    "options": [
+      "Amount of catalyst used",
+      "Change in concentration per unit time",
+      "Temperature change",
+      "Mass change"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "SI unit of reaction rate is:",
+    "options": [
+      "mol",
+      "mol dm⁻³",
+      "mol dm⁻³ s⁻¹",
+      "s⁻¹"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which factor does NOT affect reaction rate?",
+    "options": [
+      "Temperature",
+      "Concentration",
+      "Catalyst",
+      "Color"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Increasing concentration usually:",
+    "options": [
+      "Decreases rate",
+      "No effect",
+      "Increases rate",
+      "Stops reaction"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Collision theory states reactions occur when particles:",
+    "options": [
+      "Touch only",
+      "Have sufficient energy and correct orientation",
+      "Have same mass",
+      "Are stationary"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Minimum energy required is called:",
+    "options": [
+      "Heat of reaction",
+      "Activation energy",
+      "Bond energy",
+      "Kinetic energy"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Catalyst works by:",
+    "options": [
+      "Increasing activation energy",
+      "Decreasing activation energy",
+      "Increasing ΔH",
+      "Stopping reaction"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Arrhenius equation is:",
+    "options": [
+      "PV=nRT",
+      "k = Ae⁻Ea/RT",
+      "E = mc²",
+      "F = ma"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "A in Arrhenius equation is:",
+    "options": [
+      "Activation energy",
+      "Frequency factor",
+      "Temperature",
+      "Rate constant"
+    ],
+    "answer": 1
+  },
+
+  {
+    "question": "Increasing temperature generally:",
+    "options": [
+      "Decreases rate constant",
+      "Increases rate constant",
+      "Stops reaction",
+      "No effect"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "If rate = k[A]²[B], order of A is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "0"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Overall order of reaction above is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Zero-order reaction rate is:",
+    "options": [
+      "Concentration dependent",
+      "Independent of concentration",
+      "Temperature dependent only",
+      "Pressure dependent only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Unit of rate constant for first-order reaction:",
+    "options": [
+      "mol dm⁻³ s⁻¹",
+      "s⁻¹",
+      "dm³ mol⁻¹ s⁻¹",
+      "mol² dm⁻⁶"
+    ],
+    "answer": 1
+  },
+
+  {
+    "question": "Unit of second-order rate constant:",
+    "options": [
+      "s⁻¹",
+      "mol dm⁻³ s⁻¹",
+      "dm³ mol⁻¹ s⁻¹",
+      "mol²"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Half-life of first-order reaction:",
+    "options": [
+      "Depends on concentration",
+      "Constant",
+      "Increases with catalyst",
+      "Zero"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Half-life of zero-order reaction:",
+    "options": [
+      "Constant",
+      "Depends on concentration",
+      "Independent",
+      "Infinite"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Linear graph for first-order reaction:",
+    "options": [
+      "[A] vs t",
+      "ln[A] vs t",
+      "1/[A] vs t",
+      "Rate vs t"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Linear graph for second-order reaction:",
+    "options": [
+      "ln[A] vs t",
+      "[A] vs t",
+      "1/[A] vs t",
+      "Rate vs time"
+    ],
+    "answer": 2
+  },
+
+  {
+    "question": "Slope of ln[A] vs time:",
+    "options": [
+      "k",
+      "-k",
+      "1/k",
+      "k²"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Molecularity is always:",
+    "options": [
+      "Fractional",
+      "Whole number",
+      "Negative",
+      "Zero"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Order can be:",
+    "options": [
+      "Fractional",
+      "Zero",
+      "Whole number",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Slowest step is called:",
+    "options": [
+      "Fast step",
+      "Rate-determining step",
+      "Equilibrium step",
+      "Final step"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Intermediate is:",
+    "options": [
+      "Reactant",
+      "Product",
+      "Formed then consumed",
+      "Catalyst"
+    ],
+    "answer": 2
+  },
+
+  {
+    "question": "Catalyst is regenerated because it:",
+    "options": [
+      "Is consumed",
+      "Remains unchanged",
+      "Becomes product",
+      "Increases mass"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Increasing surface area:",
+    "options": [
+      "Decreases rate",
+      "Increases rate",
+      "No effect",
+      "Stops reaction"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Enzymes are:",
+    "options": [
+      "Inhibitors",
+      "Biological catalysts",
+      "Reactants",
+      "Products"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Rate law is determined:",
+    "options": [
+      "Theoretically",
+      "Experimentally",
+      "From equation only",
+      "From mass"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Doubling concentration doubles rate means order is:",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": 1
+  },
+
+  {
+    "question": "Doubling concentration quadruples rate means order is:",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Doubling concentration has no effect means:",
+    "options": [
+      "0 order",
+      "1 order",
+      "2 order",
+      "3 order"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Activation energy increases when:",
+    "options": [
+      "Catalyst is added",
+      "No catalyst",
+      "Temperature increases",
+      "Pressure increases"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Arrhenius plot is:",
+    "options": [
+      "k vs T",
+      "ln k vs 1/T",
+      "k vs 1/T",
+      "ln k vs T"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Slope of Arrhenius plot is:",
+    "options": [
+      "Ea/R",
+      "-Ea/R",
+      "RT",
+      "-RT"
+    ],
+    "answer": 1
+  },
+
+  {
+    "question": "Temperature increase increases:",
+    "options": [
+      "Activation energy",
+      "Molecular energy",
+      "Rate constant",
+      "Mass"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Maxwell-Boltzmann curve shows:",
+    "options": [
+      "Energy distribution",
+      "Mass distribution",
+      "Pressure",
+      "Volume"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Catalyst effect on Maxwell-Boltzmann:",
+    "options": [
+      "Changes shape",
+      "Lowers Ea",
+      "Raises energy",
+      "Stops reaction"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Reaction mechanism is:",
+    "options": [
+      "Single step",
+      "Series of steps",
+      "Only products",
+      "Only reactants"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Elementary reaction rate law is:",
+    "options": [
+      "Experimental only",
+      "From stoichiometry",
+      "Constant",
+      "Zero order always"
+    ],
+    "answer": 1
+  },
+
+  {
+    "question": "First-order integrated law is:",
+    "options": [
+      "[A]=[A]₀-kt",
+      "ln[A]=ln[A]₀-kt",
+      "1/[A]=1/[A]₀+kt",
+      "Rate=k[A]²"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Zero-order integrated law is:",
+    "options": [
+      "[A]=[A]₀-kt",
+      "ln[A]=ln[A]₀-kt",
+      "1/[A]=1/[A]₀+kt",
+      "Rate=k"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Second-order half-life:",
+    "options": [
+      "Constant",
+      "Independent of concentration",
+      "Depends on initial concentration",
+      "Zero"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Catalyst effect:",
+    "options": [
+      "Changes ΔH",
+      "Increases yield",
+      "Speeds both directions",
+      "Changes K"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Slow reactions often have:",
+    "options": [
+      "Low Ea",
+      "High Ea",
+      "No Ea",
+      "Negative Ea"
+    ],
+    "answer": 1
+  }
+]
