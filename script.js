@@ -1,120 +1,147 @@
+let questions = [];
+let current = 0;
+let score = 0;
+let lives = 3;
+let timer = 30;
+let interval;
 
-// ================= TIMER =================
-function startTimer() {
+// ========================
+// START GAME
+// ========================
+function startGame() {
+    score = 0;
+    current = 0;
+    lives = 3;
 
-  timeLeft = 30;
+    document.getElementById("score").innerText =
+        `⭐ Score: ${score} | ❤️ Lives: ${lives} | Level: 1`;
 
-  clearInterval(timer);
+    loadQuestions();
+}
 
-  timer = setInterval(() => {
+// ========================
+// LOAD QUESTIONS
+// ========================
+async function loadQuestions() {
+    try {
+        const res = await fetch("data/equilibrium.json");
+        questions = await res.json();
+        showQuestion();
+        startTimer();
+    } catch (error) {
+        alert("❌ Error loading questions. Check JSON path!");
+        console.log(error);
+    }
+}
 
-    timeLeft--;
-
-    if (timeLeft <= 0) {
-      clearInterval(timer);
-
-      if (!answered) {
-        wrongAnswer();
-      }
+// ========================
+// SHOW QUESTION
+// ========================
+function showQuestion() {
+    if (current >= questions.length) {
+        endGame();
+        return;
     }
 
-  }, 1000);
+    let q = questions[current];
+
+    document.getElementById("question").innerText = q.question;
+    document.getElementById("questionNumber").innerText =
+        `Question ${current + 1} of ${questions.length}`;
+
+    document.getElementById("btnA").innerText = q.options[0];
+    document.getElementById("btnB").innerText = q.options[1];
+    document.getElementById("btnC").innerText = q.options[2];
+    document.getElementById("btnD").innerText = q.options[3];
 }
 
-// ================= ANSWER =================
-function checkAnswer(i) {
+// ========================
+// ANSWER CHECK
+// ========================
+function checkAnswer(index) {
+    let q = questions[current];
 
-  if (answered) return; // ❌ BLOCK MULTIPLE CLICK
+    if (index === q.answer) {
+        score++;
+    } else {
+        lives--;
+    }
 
-  answered = true;
-  clearInterval(timer);
+    updateScore();
+    nextQuestion();
+}
 
-  let correct = questions[index].answer;
+// ========================
+// NEXT QUESTION
+// ========================
+function nextQuestion() {
+    current++;
 
-  if (i === correct) {
-    score += 10;
-  } else {
-    wrongAnswer();
-    return;
-  }
+    if (lives <= 0) {
+        endGame();
+        return;
+    }
 
-  disableButtons();
+    if (current >= questions.length) {
+        endGame();
+        return;
+    }
 
-  setTimeout(() => {
-    index++;
+    resetTimer();
     showQuestion();
-  }, 800);
 }
 
-// ================= WRONG =================
-function wrongAnswer() {
-
-  lives--;
-
-  if (lives <= 0) {
-    gameOver();
-    return;
-  }
-
-  disableButtons();
-
-  setTimeout(() => {
-    index++;
-    showQuestion();
-  }, 800);
+// ========================
+// SCORE UPDATE
+// ========================
+function updateScore() {
+    document.getElementById("score").innerText =
+        `⭐ Score: ${score} | ❤️ Lives: ${lives} | Level: 1`;
 }
 
-// ================= DISABLE BUTTONS =================
-function disableButtons() {
-  a.disabled = true;
-  b.disabled = true;
-  c.disabled = true;
-  d.disabled = true;
+// ========================
+// TIMER
+// ========================
+function startTimer() {
+    timer = 30;
+
+    interval = setInterval(() => {
+        timer--;
+
+        document.getElementById("timer").innerText = `⏱ ${timer}`;
+
+        if (timer <= 0) {
+            nextQuestion();
+        }
+    }, 1000);
 }
 
-// ================= LEVEL COMPLETE =================
-function levelComplete() {
-
-  clearInterval(timer);
-
-  alert(`Level ${level} completed! Score: ${score}`);
-
-  if (level < 3) {
-    level++;
-    loadLevel();
-  } else {
-    showFinalResult();
-  }
+function resetTimer() {
+    clearInterval(interval);
+    startTimer();
 }
 
-// ================= FINAL RESULT =================
-function showFinalResult() {
+// ========================
+// END GAME
+// ========================
+function endGame() {
+    clearInterval(interval);
 
-  qEl.textContent = "🏆 EXAM COMPLETED";
+    document.getElementById("question").innerText =
+        `🎉 Exam Finished! Score: ${score}/${questions.length}`;
 
-  alert(
-    "Final Score: " + score +
-    "\nWell done!"
-  );
+    document.getElementById("questionNumber").innerText = "Finished";
+
+    document.getElementById("btnA").innerText = "";
+    document.getElementById("btnB").innerText = "";
+    document.getElementById("btnC").innerText = "";
+    document.getElementById("btnD").innerText = "";
 }
 
-// ================= GAME OVER =================
-function gameOver() {
-
-  clearInterval(timer);
-
-  alert("Exam Failed! Restarting level...");
-
-  loadLevel();
-}
-
-// ================= BUTTONS =================
-a.onclick = () => checkAnswer(0);
-b.onclick = () => checkAnswer(1);
-c.onclick = () => checkAnswer(2);
-d.onclick = () => checkAnswer(3);
-
-// ================= INIT =================
-window.onload = () => {
-  qEl.textContent = "Click START to begin EXAM MODE";
-};
+// ========================
+// BUTTON EVENTS
+// ========================
+document.getElementById("btnA").onclick = () => checkAnswer(0);
+document.getElementById("btnB").onclick = () => checkAnswer(1);
+document.getElementById("btnC").onclick = () => checkAnswer(2);
+document.getElementById("btnD").onclick = () => checkAnswer(3);
