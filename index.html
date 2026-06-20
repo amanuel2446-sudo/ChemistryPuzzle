@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chemistry Puzzle Game</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div class="app">
+
+    <div class="header">
+        <h1>🧪 Chemistry Exam Mode</h1>
+        <p id="questionNumber">Press Start to Begin</p>
+    </div>
+
+    <div class="card">
+
+        <h2 id="question">Welcome to Exam</h2>
+
+        <div class="timer" id="timer">⏱ 30</div>
+
+        <div class="options">
+            <button id="btnA" class="option"></button>
+            <button id="btnB" class="option"></button>
+            <button id="btnC" class="option"></button>
+            <button id="btnD" class="option"></button>
+        </div>
+
+        <div class="controls">
+            <button onclick="startGame()" class="start">▶ START EXAM</button>
+        </div>
+
+        <div id="score" class="score">
+            ⭐ Score: 0 | ❤️ Lives: 3 | Level: 1
+        </div>
+
+    </div>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
