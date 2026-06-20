@@ -70,7 +70,6 @@ body {
   color: white;
   transition: 0.2s;
 }
-
 .option:hover {
   background: #00ffcc;
   color: black;
