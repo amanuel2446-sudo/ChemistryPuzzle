@@ -1,0 +1,234 @@
+[
+  {
+    "question": "A system at chemical equilibrium is:",
+    "options": ["Static", "Dynamic", "Incomplete", "Irreversible"],
+    "answer": 1
+  },
+  {
+    "question": "Which statement is true about chemical equilibrium?",
+    "options": ["Forward reaction stops", "Reverse reaction stops", "Forward and reverse reactions occur at equal rates", "Products stop forming"],
+    "answer": 2
+  },
+  {
+    "question": "Which reaction can establish equilibrium?",
+    "options": ["Combustion of methane", "Neutralization", "N₂ + 3H₂ ⇌ 2NH₃", "Rusting of iron"],
+    "answer": 2
+  },
+  {
+    "question": "The equilibrium constant depends only on:",
+    "options": ["Pressure", "Concentration", "Temperature", "Catalyst"],
+    "answer": 2
+  },
+  {
+    "question": "Large Kc means:",
+    "options": ["Reactants favored", "Products favored", "No reaction", "Irreversible reaction"],
+    "answer": 1
+  },
+  {
+    "question": "Small Kc means:",
+    "options": ["Products dominate", "Reactants dominate", "No equilibrium", "High temperature"],
+    "answer": 1
+  },
+  {
+    "question": "Increasing reactant concentration shifts equilibrium:",
+    "options": ["Left", "Right", "No change", "Stops reaction"],
+    "answer": 1
+  },
+  {
+    "question": "Removing products shifts equilibrium:",
+    "options": ["Left", "Right", "No change", "Stops reaction"],
+    "answer": 1
+  },
+  {
+    "question": "Catalyst effect on equilibrium:",
+    "options": ["Changes Kc", "Shifts equilibrium", "Speeds both directions equally", "Stops reaction"],
+    "answer": 2
+  },
+  {
+    "question": "Which factor changes Kc?",
+    "options": ["Catalyst", "Concentration", "Pressure", "Temperature"],
+    "answer": 3
+  },
+
+  {
+    "question": "Increasing temperature in exothermic reaction shifts equilibrium:",
+    "options": ["Right", "Left", "No effect", "Unknown"],
+    "answer": 1
+  },
+  {
+    "question": "Increasing temperature in endothermic reaction:",
+    "options": ["Favors products", "Favors reactants", "No effect", "Stops reaction"],
+    "answer": 0
+  },
+  {
+    "question": "Increasing pressure favors:",
+    "options": ["More gas moles", "Fewer gas moles", "No effect", "Liquids only"],
+    "answer": 1
+  },
+  {
+    "question": "Pressure has no effect when:",
+    "options": ["Different moles", "Equal gas moles", "Solids present", "Catalyst present"],
+    "answer": 1
+  },
+  {
+    "question": "Le Chatelier’s principle states:",
+    "options": ["System resists change", "Reaction stops", "Products always form", "Reactants always form"],
+    "answer": 0
+  },
+
+  {
+    "question": "Qc < Kc means:",
+    "options": ["Shift left", "Shift right", "Equilibrium", "Stop reaction"],
+    "answer": 1
+  },
+  {
+    "question": "Qc > Kc means:",
+    "options": ["Shift left", "Shift right", "Equilibrium", "No reaction"],
+    "answer": 0
+  },
+  {
+    "question": "Haber process increases ammonia yield by:",
+    "options": ["Low pressure", "High pressure", "Low temperature", "No catalyst"],
+    "answer": 1
+  },
+  {
+    "question": "Haber process is:",
+    "options": ["Irreversible", "Dynamic equilibrium", "Electrolysis", "Neutralization"],
+    "answer": 1
+  },
+  {
+    "question": "Contact process produces:",
+    "options": ["NH₃", "SO₃", "HCl", "NO₂"],
+    "answer": 1
+  },
+
+  {
+    "question": "Contact process catalyst:",
+    "options": ["Fe", "Ni", "V₂O₅", "Pt"],
+    "answer": 2
+  },
+  {
+    "question": "Pure solids in equilibrium expressions:",
+    "options": ["Included", "Ignored", "Dominant", "Variable"],
+    "answer": 1
+  },
+  {
+    "question": "Pure liquids are:",
+    "options": ["Included", "Ignored", "Reactive only", "Unstable"],
+    "answer": 1
+  },
+  {
+    "question": "At equilibrium:",
+    "options": ["Reaction stops", "Rates equal", "Products = reactants", "No collision"],
+    "answer": 1
+  },
+  {
+    "question": "If Kc = 1:",
+    "options": ["Products dominate", "Reactants dominate", "Neither dominates", "No reaction"],
+    "answer": 2
+  },
+
+  {
+    "question": "Very large Kc means:",
+    "options": ["Reactants dominate", "Products dominate", "No equilibrium", "Zero reaction"],
+    "answer": 1
+  },
+  {
+    "question": "Very small Kc means:",
+    "options": ["Products dominate", "Reactants dominate", "Equal amounts", "No reaction"],
+    "answer": 1
+  },
+  {
+    "question": "Removing ammonia in Haber process:",
+    "options": ["Left shift", "Right shift", "No change", "Stops reaction"],
+    "answer": 1
+  },
+  {
+    "question": "Increasing volume shifts equilibrium toward:",
+    "options": ["Fewer moles", "More moles", "Solids", "Liquids"],
+    "answer": 1
+  },
+  {
+    "question": "Decreasing volume shifts equilibrium toward:",
+    "options": ["More moles", "Fewer moles", "No effect", "Solids"],
+    "answer": 1
+  },
+
+  {
+    "question": "Equilibrium constant depends on:",
+    "options": ["Catalyst", "Temperature", "Pressure", "Volume"],
+    "answer": 1
+  },
+  {
+    "question": "Catalyst in equilibrium:",
+    "options": ["Changes Kc", "Speeds both directions", "Stops reaction", "Shifts equilibrium"],
+    "answer": 1
+  },
+  {
+    "question": "Dynamic equilibrium means:",
+    "options": ["Reaction stopped", "Forward and reverse equal rates", "No products", "No reactants"],
+    "answer": 1
+  },
+  {
+    "question": "At equilibrium concentrations:",
+    "options": ["Equal", "Constant", "Zero", "Random"],
+    "answer": 1
+  },
+  {
+    "question": "Increasing product concentration shifts:",
+    "options": ["Right", "Left", "No change", "Stops reaction"],
+    "answer": 1
+  },
+
+  {
+    "question": "Removing reactants shifts:",
+    "options": ["Right", "Left", "No change", "Stops reaction"],
+    "answer": 1
+  },
+  {
+    "question": "Equilibrium is reached when:",
+    "options": ["Reactants finish", "Rates equal", "Products stop", "No collisions"],
+    "answer": 1
+  },
+  {
+    "question": "In equilibrium system:",
+    "options": ["Only forward reaction", "Only reverse reaction", "Both reactions continue", "No reaction"],
+    "answer": 2
+  },
+  {
+    "question": "Reaction quotient compares:",
+    "options": ["Pressure", "Current concentrations", "Energy", "Mass"],
+    "answer": 1
+  },
+  {
+    "question": "If system is disturbed:",
+    "options": ["Stops", "Adjusts to restore equilibrium", "Becomes irreversible", "Explodes"],
+    "answer": 1
+  },
+
+  {
+    "question": "Industrial equilibrium aims to:",
+    "options": ["Stop reactions", "Maximize yield", "Decrease pressure", "Increase temperature always"],
+    "answer": 1
+  },
+  {
+    "question": "Adding inert gas at constant volume:",
+    "options": ["Shifts equilibrium", "No effect", "Stops reaction", "Changes Kc"],
+    "answer": 1
+  },
+  {
+    "question": "Kc is affected by:",
+    "options": ["Catalyst", "Temperature", "Concentration", "Pressure"],
+    "answer": 1
+  },
+  {
+    "question": "Equilibrium constant for reverse reaction:",
+    "options": ["Same", "1/K", "K²", "Zero"],
+    "answer": 1
+  },
+  {
+    "question": "Doubling coefficients changes K to:",
+    "options": ["K", "K²", "1/K", "√K"],
+    "answer": 1
+  }
+]
