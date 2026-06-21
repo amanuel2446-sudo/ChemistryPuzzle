@@ -1,234 +1,502 @@
 [
   {
-    "question": "A system at chemical equilibrium is:",
-    "options": ["Static", "Dynamic", "Incomplete", "Irreversible"],
+    "question": "A closed reaction vessel contains the reversible reaction N₂(g) + 3H₂(g) ⇌ 2NH₃(g). After some time, the concentrations of nitrogen, hydrogen, and ammonia become constant, although both the forward and reverse reactions continue. Which statement best describes this condition?",
+    "options": [
+      "The reaction has stopped completely.",
+      "The system has reached dynamic chemical equilibrium.",
+      "Only the reverse reaction is occurring.",
+      "The reactants have been completely converted into products."
+    ],
     "answer": 1
   },
   {
-    "question": "Which statement is true about chemical equilibrium?",
-    "options": ["Forward reaction stops", "Reverse reaction stops", "Forward and reverse reactions occur at equal rates", "Products stop forming"],
+    "question": "Which statement correctly explains the nature of chemical equilibrium in a reversible reaction carried out in a closed system?",
+    "options": [
+      "The forward reaction stops before the reverse reaction begins.",
+      "The forward and reverse reactions occur at equal rates while concentrations remain constant.",
+      "The products and reactants must have equal concentrations.",
+      "The reaction becomes irreversible."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following reactions is capable of establishing a true chemical equilibrium under suitable conditions?",
+    "options": [
+      "Combustion of methane in oxygen.",
+      "Rusting of iron in moist air.",
+      "N₂(g) + 3H₂(g) ⇌ 2NH₃(g).",
+      "Explosion of hydrogen gas."
+    ],
     "answer": 2
   },
   {
-    "question": "Which reaction can establish equilibrium?",
-    "options": ["Combustion of methane", "Neutralization", "N₂ + 3H₂ ⇌ 2NH₃", "Rusting of iron"],
+    "question": "For a particular reversible reaction, the equilibrium constant (Kc) changes only when which factor is altered?",
+    "options": [
+      "Pressure",
+      "Concentration",
+      "Temperature",
+      "Catalyst"
+    ],
     "answer": 2
   },
   {
-    "question": "The equilibrium constant depends only on:",
-    "options": ["Pressure", "Concentration", "Temperature", "Catalyst"],
+    "question": "For the equilibrium 2SO₂(g) + O₂(g) ⇌ 2SO₃(g), which equilibrium constant expression is correct?",
+    "options": [
+      "[SO₃]/([SO₂][O₂])",
+      "[SO₃]²/([SO₂]²[O₂])",
+      "[SO₂]²[O₂]/[SO₃]²",
+      "[SO₂][O₂]/[SO₃]"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "A chemical reaction has Kc = 4.8 × 10⁷ at a given temperature. What does this value indicate about the position of equilibrium?",
+    "options": [
+      "Reactants are strongly favored.",
+      "Products are strongly favored.",
+      "Reactants and products are present in exactly equal amounts.",
+      "The reaction cannot reach equilibrium."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "A reversible reaction has Kc = 3.5 × 10⁻⁸ at a certain temperature. Which conclusion is correct?",
+    "options": [
+      "Products are strongly favored.",
+      "Reactants are strongly favored.",
+      "The reaction is complete.",
+      "The reaction is impossible."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "If the concentration of one or more reactants is increased while temperature remains constant, how will the equilibrium respond according to Le Chatelier's Principle?",
+    "options": [
+      "Shift toward the reactants.",
+      "Shift toward the products.",
+      "Remain unchanged.",
+      "Stop immediately."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When some of the products are continuously removed from a reversible reaction at equilibrium, the system responds by:",
+    "options": [
+      "Shifting toward the reactants.",
+      "Producing more products until a new equilibrium is established.",
+      "Stopping both reactions.",
+      "Changing the value of Kc."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the principal effect of adding a catalyst to a reversible reaction that is already at equilibrium?",
+    "options": [
+      "It increases the value of Kc.",
+      "It shifts the equilibrium toward the products.",
+      "It increases the rates of both forward and reverse reactions equally without changing the equilibrium position.",
+      "It shifts the equilibrium toward the reactants."
+    ],
     "answer": 2
   },
   {
-    "question": "Large Kc means:",
-    "options": ["Reactants favored", "Products favored", "No reaction", "Irreversible reaction"],
-    "answer": 1
-  },
-  {
-    "question": "Small Kc means:",
-    "options": ["Products dominate", "Reactants dominate", "No equilibrium", "High temperature"],
-    "answer": 1
-  },
-  {
-    "question": "Increasing reactant concentration shifts equilibrium:",
-    "options": ["Left", "Right", "No change", "Stops reaction"],
-    "answer": 1
-  },
-  {
-    "question": "Removing products shifts equilibrium:",
-    "options": ["Left", "Right", "No change", "Stops reaction"],
-    "answer": 1
-  },
-  {
-    "question": "Catalyst effect on equilibrium:",
-    "options": ["Changes Kc", "Shifts equilibrium", "Speeds both directions equally", "Stops reaction"],
-    "answer": 2
-  },
-  {
-    "question": "Which factor changes Kc?",
-    "options": ["Catalyst", "Concentration", "Pressure", "Temperature"],
+    "question": "Which of the following changes can alter both the position of equilibrium and the numerical value of the equilibrium constant?",
+    "options": [
+      "Adding a catalyst",
+      "Changing the pressure",
+      "Changing the concentration",
+      "Changing the temperature"
+    ],
     "answer": 3
   },
-
   {
-    "question": "Increasing temperature in exothermic reaction shifts equilibrium:",
-    "options": ["Right", "Left", "No effect", "Unknown"],
+    "question": "Consider an exothermic reversible reaction. What happens when the temperature of the system is increased?",
+    "options": [
+      "Equilibrium shifts toward the products.",
+      "Equilibrium shifts toward the reactants because heat behaves as a product.",
+      "There is no effect on equilibrium.",
+      "The catalyst becomes inactive."
+    ],
     "answer": 1
   },
   {
-    "question": "Increasing temperature in endothermic reaction:",
-    "options": ["Favors products", "Favors reactants", "No effect", "Stops reaction"],
+    "question": "For an endothermic reversible reaction, increasing the temperature causes the equilibrium to:",
+    "options": [
+      "Shift toward the products because heat behaves as a reactant.",
+      "Shift toward the reactants.",
+      "Remain unchanged.",
+      "Become irreversible."
+    ],
     "answer": 0
   },
   {
-    "question": "Increasing pressure favors:",
-    "options": ["More gas moles", "Fewer gas moles", "No effect", "Liquids only"],
+    "question": "For the gaseous equilibrium 2SO₂(g) + O₂(g) ⇌ 2SO₃(g), what will be the effect of increasing the total pressure of the system while keeping the temperature constant?",
+    "options": [
+      "The equilibrium shifts toward the reactants because they occupy more volume.",
+      "The equilibrium shifts toward the products because there are fewer moles of gas on the product side.",
+      "The equilibrium remains unchanged because pressure does not affect equilibrium.",
+      "The equilibrium constant (Kc) increases."
+    ],
     "answer": 1
   },
   {
-    "question": "Pressure has no effect when:",
-    "options": ["Different moles", "Equal gas moles", "Solids present", "Catalyst present"],
+    "question": "Pressure changes have no effect on the position of equilibrium when:",
+    "options": [
+      "A catalyst is present.",
+      "The number of moles of gaseous reactants equals the number of moles of gaseous products.",
+      "The reaction is exothermic.",
+      "Only solid reactants are present."
+    ],
     "answer": 1
   },
   {
-    "question": "Le Chatelier’s principle states:",
-    "options": ["System resists change", "Reaction stops", "Products always form", "Reactants always form"],
+    "question": "Which one of the following factors changes the rate at which equilibrium is reached but does not change the equilibrium position or the value of Kc?",
+    "options": [
+      "Temperature",
+      "Pressure",
+      "Catalyst",
+      "Concentration"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Le Chatelier's Principle states that when a system at equilibrium is disturbed by changing concentration, pressure, or temperature, the system will:",
+    "options": [
+      "Completely stop reacting.",
+      "Adjust itself in a direction that opposes the disturbance until a new equilibrium is established.",
+      "Always shift toward the products.",
+      "Always shift toward the reactants."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "For a gaseous equilibrium, decreasing the volume of the reaction vessel while maintaining a constant temperature will initially cause:",
+    "options": [
+      "A decrease in pressure.",
+      "An increase in pressure.",
+      "No change in pressure.",
+      "The reaction to become irreversible."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which species is omitted when writing the equilibrium constant expression (Kc)?",
+    "options": [
+      "Aqueous ions",
+      "Gaseous substances",
+      "Pure liquids and pure solids",
+      "Dissolved molecules"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Why are pure solids and pure liquids not included in equilibrium constant expressions?",
+    "options": [
+      "Their concentrations remain constant throughout the reaction.",
+      "They do not participate in chemical reactions.",
+      "They are always catalysts.",
+      "Their concentrations cannot be measured."
+    ],
     "answer": 0
   },
-
   {
-    "question": "Qc < Kc means:",
-    "options": ["Shift left", "Shift right", "Equilibrium", "Stop reaction"],
+    "question": "The unit of the equilibrium constant (Kc) depends primarily on:",
+    "options": [
+      "The catalyst used.",
+      "The stoichiometric coefficients in the balanced chemical equation.",
+      "The reaction temperature only.",
+      "The reaction time."
+    ],
     "answer": 1
   },
   {
-    "question": "Qc > Kc means:",
-    "options": ["Shift left", "Shift right", "Equilibrium", "No reaction"],
+    "question": "If the equilibrium constant Kc is exactly equal to 1.0 at a particular temperature, which conclusion is most appropriate?",
+    "options": [
+      "Products are greatly favored.",
+      "Reactants are greatly favored.",
+      "Neither reactants nor products are strongly favored at equilibrium.",
+      "The reaction cannot proceed."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The reaction quotient (Qc) is calculated using:",
+    "options": [
+      "The concentrations present at any instant before equilibrium is established.",
+      "Only the initial concentrations of reactants.",
+      "The concentrations at equilibrium only.",
+      "The reaction temperature only."
+    ],
     "answer": 0
   },
   {
-    "question": "Haber process increases ammonia yield by:",
-    "options": ["Low pressure", "High pressure", "Low temperature", "No catalyst"],
+    "question": "For a reversible reaction, if Qc < Kc, the system will respond by:",
+    "options": [
+      "Shifting toward the reactants until equilibrium is reached.",
+      "Shifting toward the products until equilibrium is reached.",
+      "Remaining unchanged because equilibrium already exists.",
+      "Stopping the reaction completely."
+    ],
     "answer": 1
   },
   {
-    "question": "Haber process is:",
-    "options": ["Irreversible", "Dynamic equilibrium", "Electrolysis", "Neutralization"],
+    "question": "If the calculated reaction quotient (Qc) is greater than the equilibrium constant (Kc), the reaction mixture will:",
+    "options": [
+      "Shift toward the reactants to establish equilibrium.",
+      "Shift toward the products to establish equilibrium.",
+      "Remain unchanged because equilibrium has already been reached.",
+      "Require a catalyst before equilibrium can be established."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "For the Haber Process, N₂(g) + 3H₂(g) ⇌ 2NH₃(g), what is the effect of increasing the concentration of hydrogen gas while keeping temperature and pressure constant?",
+    "options": [
+      "The equilibrium shifts toward the reactants.",
+      "The equilibrium shifts toward the products, producing more ammonia.",
+      "The equilibrium constant increases.",
+      "The equilibrium remains unchanged."
+    ],
     "answer": 1
   },
   {
-    "question": "Contact process produces:",
-    "options": ["NH₃", "SO₃", "HCl", "NO₂"],
+    "question": "In the Haber Process, ammonia gas is continuously removed from the reaction vessel as it is produced. According to Le Chatelier's Principle, what will happen?",
+    "options": [
+      "The equilibrium shifts toward the reactants.",
+      "The equilibrium shifts toward the products to replace the removed ammonia.",
+      "The reaction stops completely.",
+      "The equilibrium constant decreases."
+    ],
     "answer": 1
   },
-
   {
-    "question": "Contact process catalyst:",
-    "options": ["Fe", "Ni", "V₂O₅", "Pt"],
+    "question": "Which combination of conditions gives the highest practical yield of ammonia in the Haber Process?",
+    "options": [
+      "Low pressure and high temperature",
+      "High pressure and moderate temperature",
+      "Low pressure and low temperature",
+      "High temperature and low pressure"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The Haber Process is an industrial application of which important chemical principle?",
+    "options": [
+      "Electrolysis",
+      "Dynamic chemical equilibrium",
+      "Neutralization",
+      "Oxidation only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The Contact Process is mainly used in industry for the manufacture of:",
+    "options": [
+      "Ammonia",
+      "Nitric acid",
+      "Sulfur trioxide for sulfuric acid production",
+      "Hydrochloric acid"
+    ],
     "answer": 2
   },
   {
-    "question": "Pure solids in equilibrium expressions:",
-    "options": ["Included", "Ignored", "Dominant", "Variable"],
+    "question": "For the equilibrium 2SO₂(g) + O₂(g) ⇌ 2SO₃(g), why does increasing pressure increase the yield of sulfur trioxide?",
+    "options": [
+      "Because products have more moles of gas.",
+      "Because products have fewer moles of gas.",
+      "Because Kc increases.",
+      "Because the catalyst becomes more active."
+    ],
     "answer": 1
   },
   {
-    "question": "Pure liquids are:",
-    "options": ["Included", "Ignored", "Reactive only", "Unstable"],
-    "answer": 1
-  },
-  {
-    "question": "At equilibrium:",
-    "options": ["Reaction stops", "Rates equal", "Products = reactants", "No collision"],
-    "answer": 1
-  },
-  {
-    "question": "If Kc = 1:",
-    "options": ["Products dominate", "Reactants dominate", "Neither dominates", "No reaction"],
-    "answer": 2
-  },
-
-  {
-    "question": "Very large Kc means:",
-    "options": ["Reactants dominate", "Products dominate", "No equilibrium", "Zero reaction"],
-    "answer": 1
-  },
-  {
-    "question": "Very small Kc means:",
-    "options": ["Products dominate", "Reactants dominate", "Equal amounts", "No reaction"],
-    "answer": 1
-  },
-  {
-    "question": "Removing ammonia in Haber process:",
-    "options": ["Left shift", "Right shift", "No change", "Stops reaction"],
-    "answer": 1
-  },
-  {
-    "question": "Increasing volume shifts equilibrium toward:",
-    "options": ["Fewer moles", "More moles", "Solids", "Liquids"],
-    "answer": 1
-  },
-  {
-    "question": "Decreasing volume shifts equilibrium toward:",
-    "options": ["More moles", "Fewer moles", "No effect", "Solids"],
-    "answer": 1
-  },
-
-  {
-    "question": "Equilibrium constant depends on:",
-    "options": ["Catalyst", "Temperature", "Pressure", "Volume"],
-    "answer": 1
-  },
-  {
-    "question": "Catalyst in equilibrium:",
-    "options": ["Changes Kc", "Speeds both directions", "Stops reaction", "Shifts equilibrium"],
-    "answer": 1
-  },
-  {
-    "question": "Dynamic equilibrium means:",
-    "options": ["Reaction stopped", "Forward and reverse equal rates", "No products", "No reactants"],
-    "answer": 1
-  },
-  {
-    "question": "At equilibrium concentrations:",
-    "options": ["Equal", "Constant", "Zero", "Random"],
-    "answer": 1
-  },
-  {
-    "question": "Increasing product concentration shifts:",
-    "options": ["Right", "Left", "No change", "Stops reaction"],
-    "answer": 1
-  },
-
-  {
-    "question": "Removing reactants shifts:",
-    "options": ["Right", "Left", "No change", "Stops reaction"],
-    "answer": 1
-  },
-  {
-    "question": "Equilibrium is reached when:",
-    "options": ["Reactants finish", "Rates equal", "Products stop", "No collisions"],
-    "answer": 1
-  },
-  {
-    "question": "In equilibrium system:",
-    "options": ["Only forward reaction", "Only reverse reaction", "Both reactions continue", "No reaction"],
+    "question": "Which catalyst is used in the Contact Process to increase the reaction rate without changing the equilibrium position?",
+    "options": [
+      "Iron",
+      "Nickel",
+      "Vanadium(V) oxide (V₂O₅)",
+      "Copper"
+    ],
     "answer": 2
   },
   {
-    "question": "Reaction quotient compares:",
-    "options": ["Pressure", "Current concentrations", "Energy", "Mass"],
+    "question": "If the balanced chemical equation is reversed, the equilibrium constant for the new reaction becomes:",
+    "options": [
+      "K²",
+      "2K",
+      "1/K",
+      "√K"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "If every coefficient in a balanced equilibrium equation is multiplied by 2, the new equilibrium constant becomes:",
+    "options": [
+      "K",
+      "K²",
+      "2K",
+      "K/2"
+    ],
     "answer": 1
   },
   {
-    "question": "If system is disturbed:",
-    "options": ["Stops", "Adjusts to restore equilibrium", "Becomes irreversible", "Explodes"],
-    "answer": 1
-  },
-
-  {
-    "question": "Industrial equilibrium aims to:",
-    "options": ["Stop reactions", "Maximize yield", "Decrease pressure", "Increase temperature always"],
-    "answer": 1
-  },
-  {
-    "question": "Adding inert gas at constant volume:",
-    "options": ["Shifts equilibrium", "No effect", "Stops reaction", "Changes Kc"],
+    "question": "A reaction has Kc = 6.2 × 10⁵. Which statement best describes the equilibrium mixture?",
+    "options": [
+      "Reactants are present in much greater amounts than products.",
+      "Products are strongly favored over reactants.",
+      "Reactants and products are present in equal amounts.",
+      "The reaction cannot reach equilibrium."
+    ],
     "answer": 1
   },
   {
-    "question": "Kc is affected by:",
-    "options": ["Catalyst", "Temperature", "Concentration", "Pressure"],
+    "question": "Which statement correctly describes a reaction with Kc = 4.5 × 10⁻⁹?",
+    "options": [
+      "Products dominate the equilibrium mixture.",
+      "Reactants dominate the equilibrium mixture.",
+      "The reaction is irreversible.",
+      "The equilibrium constant changes with pressure."
+    ],
     "answer": 1
   },
   {
-    "question": "Equilibrium constant for reverse reaction:",
-    "options": ["Same", "1/K", "K²", "Zero"],
+    "question": "Which statement about chemical equilibrium is FALSE?",
+    "options": [
+      "Chemical equilibrium can only be established in a closed system.",
+      "The forward and reverse reactions continue at equal rates.",
+      "The concentrations of reactants and products remain constant at equilibrium.",
+      "At equilibrium, all reactants are completely consumed."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which change favors the endothermic direction of a reversible reaction according to Le Chatelier's Principle?",
+    "options": [
+      "Increasing temperature",
+      "Decreasing temperature",
+      "Adding a catalyst",
+      "Increasing pressure only"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A reversible reaction has an equilibrium constant Kc = 2.0 × 10⁻⁷ at a given temperature. Which conclusion is correct?",
+    "options": [
+      "Products are strongly favored at equilibrium.",
+      "Reactants are strongly favored at equilibrium.",
+      "The reaction is irreversible.",
+      "Equal concentrations of reactants and products are present."
+    ],
     "answer": 1
   },
   {
-    "question": "Doubling coefficients changes K to:",
-    "options": ["K", "K²", "1/K", "√K"],
+    "question": "At chemical equilibrium, which statement is always true?",
+    "options": [
+      "The concentrations of reactants and products are equal.",
+      "The forward and reverse reaction rates are equal.",
+      "The reaction has stopped completely.",
+      "The reactants have been completely consumed."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "For a reversible reaction in which the number of gaseous moles decreases from reactants to products, increasing the pressure will:",
+    "options": [
+      "Shift the equilibrium toward the products.",
+      "Shift the equilibrium toward the reactants.",
+      "Have no effect on the equilibrium position.",
+      "Decrease the equilibrium constant."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which factor affects the position of equilibrium only when gases are involved?",
+    "options": [
+      "Pressure",
+      "Temperature",
+      "Concentration",
+      "Catalyst"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A reversible reaction is considered to have reached equilibrium when:",
+    "options": [
+      "The reactants have been completely converted into products.",
+      "The forward and reverse reaction rates become equal.",
+      "The concentrations of all substances become zero.",
+      "The products stop forming."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following gaseous equilibria is least affected by a change in pressure?",
+    "options": [
+      "H₂(g) + I₂(g) ⇌ 2HI(g)",
+      "N₂(g) + 3H₂(g) ⇌ 2NH₃(g)",
+      "2SO₂(g) + O₂(g) ⇌ 2SO₃(g)",
+      "CO(g) + 2H₂(g) ⇌ CH₃OH(g)"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Why is the concentration of a pure solid not included in the equilibrium constant expression?",
+    "options": [
+      "Because its concentration remains constant throughout the reaction.",
+      "Because solids do not participate in chemical reactions.",
+      "Because solids cannot be measured experimentally.",
+      "Because solids always act as catalysts."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Consider the equilibrium: CaCO₃(s) ⇌ CaO(s) + CO₂(g). What is the effect of adding more solid calcium carbonate to the system at constant temperature?",
+    "options": [
+      "The equilibrium shifts to the right.",
+      "The equilibrium shifts to the left.",
+      "The equilibrium position remains unchanged.",
+      "The value of Kc increases."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "For an exothermic industrial reaction, which operating condition gives the highest equilibrium yield of products?",
+    "options": [
+      "High temperature",
+      "Low temperature",
+      "Low pressure",
+      "No catalyst"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the primary reason industries study chemical equilibrium when designing large-scale chemical processes?",
+    "options": [
+      "To stop reactions completely.",
+      "To maximize product yield while minimizing production cost.",
+      "To eliminate the need for catalysts.",
+      "To ensure every reaction becomes irreversible."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which statement correctly describes the effect of a catalyst on a reversible reaction at equilibrium?",
+    "options": [
+      "It increases the equilibrium constant.",
+      "It shifts the equilibrium toward the products.",
+      "It decreases the equilibrium constant.",
+      "It speeds up both forward and reverse reactions equally without changing the equilibrium position."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "A chemical engineer wishes to maximize the yield of ammonia in the Haber Process. Which combination of conditions provides the best practical compromise between reaction rate and equilibrium yield?",
+    "options": [
+      "Very low pressure and very high temperature",
+      "High pressure, moderate temperature, and an iron catalyst",
+      "Low pressure, low temperature, and no catalyst",
+      "Very high temperature only"
+    ],
     "answer": 1
   }
 ]
