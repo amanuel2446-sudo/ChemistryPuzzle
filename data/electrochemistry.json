@@ -1,26 +1,276 @@
 [
   {
-    "question": "Electrochemistry studies:",
+    "question": "Electrochemistry is the study of:",
     "options": [
-      "Heat changes only",
-      "Electricity and chemical reactions",
-      "Organic compounds",
-      "Atomic structure"
+      "Heat changes in reactions",
+      "Relationship between electricity and chemical reactions",
+      "Gas laws only",
+      "Reaction rates only"
     ],
     "answer": 1
   },
   {
-    "question": "A galvanic cell is:",
+    "question": "In a galvanic cell, chemical energy is converted into:",
+    "options": [
+      "Heat energy",
+      "Light energy",
+      "Electrical energy",
+      "Nuclear energy"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The anode in a galvanic cell is where:",
+    "options": [
+      "Reduction occurs",
+      "Oxidation occurs",
+      "Electrons are gained",
+      "Neutralization occurs"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The cathode in an electrochemical cell is where:",
+    "options": [
+      "Oxidation occurs",
+      "Reduction occurs",
+      "Electrons are lost",
+      "Salt bridge forms"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Electrons in a galvanic cell flow from:",
+    "options": [
+      "Cathode to anode",
+      "Anode to cathode",
+      "Salt bridge to solution",
+      "Solution to salt bridge"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The function of a salt bridge is to:",
+    "options": [
+      "Produce electrons",
+      "Stop reaction",
+      "Maintain electrical neutrality",
+      "Increase voltage"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In a standard hydrogen electrode, the electrode is made of:",
+    "options": [
+      "Copper",
+      "Zinc",
+      "Platinum",
+      "Iron"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Standard electrode potential is measured under:",
+    "options": [
+      "High pressure only",
+      "Standard conditions (1 atm, 1M, 25°C)",
+      "Low temperature",
+      "Variable conditions"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "A positive cell potential means the reaction is:",
     "options": [
       "Non-spontaneous",
-      "Spontaneous electrochemical cell",
-      "Electrolytic only",
-      "Powered externally"
+      "Spontaneous",
+      "At equilibrium",
+      "Impossible"
     ],
     "answer": 1
   },
   {
-    "question": "Oxidation occurs at:",
+    "question": "Which is an example of an electrolytic cell?",
+    "options": [
+      "Dry cell battery",
+      "Lead-acid battery",
+      "Electrolysis of water",
+      "Voltaic cell"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In electrolysis, the anode is:",
+    "options": [
+      "Negative electrode",
+      "Positive electrode",
+      "Neutral electrode",
+      "Salt bridge"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In electrolysis of molten NaCl, the product at cathode is:",
+    "options": [
+      "Chlorine gas",
+      "Sodium metal",
+      "Oxygen gas",
+      "Hydrogen gas"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Oxidation is:",
+    "options": [
+      "Gain of electrons",
+      "Loss of electrons",
+      "Gain of protons",
+      "Loss of neutrons"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The standard electrode potential (E°) of a half-cell is measured relative to:",
+    "options": [
+      "Copper electrode",
+      "Zinc electrode",
+      "Standard hydrogen electrode",
+      "Carbon electrode"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In a galvanic cell, the electrode with higher reduction potential acts as:",
+    "options": [
+      "Anode",
+      "Cathode",
+      "Salt bridge",
+      "Electrolyte"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which factor increases the cell potential of a galvanic cell?",
+    "options": [
+      "Increasing reactant concentration",
+      "Decreasing temperature only",
+      "Increasing pressure only",
+      "Adding salt bridge only"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The EMF of a cell is calculated as:",
+    "options": [
+      "E°cathode − E°anode",
+      "E°anode − E°cathode",
+      "E°cathode + E°anode",
+      "E°anode × E°cathode"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which statement about galvanic cells is correct?",
+    "options": [
+      "External energy is required to drive the reaction",
+      "Chemical energy produces electrical energy",
+      "They consume electricity continuously",
+      "They do not involve redox reactions"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In electrolysis of water, hydrogen gas is produced at:",
+    "options": [
+      "Anode",
+      "Cathode",
+      "Salt bridge",
+      "Electrolyte surface only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which substance increases conductivity in electrolysis of pure water?",
+    "options": [
+      "Sugar",
+      "NaCl",
+      "Distilled water only",
+      "Oil"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Faraday's first law of electrolysis states that:",
+    "options": [
+      "Mass deposited is independent of current",
+      "Mass deposited is proportional to charge passed",
+      "Mass depends only on voltage",
+      "Mass is constant for all substances"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In electroplating, the object to be plated is placed at:",
+    "options": [
+      "Anode",
+      "Cathode",
+      "Salt bridge",
+      "Power source"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which metal is commonly used in electroplating jewelry?",
+    "options": [
+      "Iron",
+      "Copper",
+      "Gold",
+      "Zinc"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Oxidation occurs at the anode because:",
+    "options": [
+      "Electrons are gained",
+      "Electrons are lost",
+      "Protons are formed",
+      "Neutrons are lost"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is NOT a component of an electrochemical cell?",
+    "options": [
+      "Electrodes",
+      "Electrolyte",
+      "Salt bridge",
+      "Nuclear fuel"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Faraday's second law of electrolysis states that:",
+    "options": [
+      "Mass deposited is independent of charge",
+      "Mass deposited is proportional to equivalent weight for same charge",
+      "Mass is always constant",
+      "Mass depends only on voltage"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which factor does NOT affect the amount of substance deposited during electrolysis?",
+    "options": [
+      "Current",
+      "Time",
+      "Temperature",
+      "Charge passed"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In a Daniell cell, zinc acts as:",
     "options": [
       "Cathode",
       "Anode",
@@ -30,180 +280,27 @@
     "answer": 1
   },
   {
-    "question": "Reduction occurs at:",
+    "question": "In a Daniell cell, copper acts as:",
     "options": [
       "Anode",
       "Cathode",
-      "Salt bridge",
-      "Wire"
+      "Oxidizing agent",
+      "Salt bridge"
     ],
     "answer": 1
   },
   {
-    "question": "Electrons flow from:",
+    "question": "Which process involves conversion of electrical energy into chemical energy?",
     "options": [
-      "Cathode to anode",
-      "Anode to cathode",
-      "Salt bridge to electrode",
-      "Electrolyte to wire"
+      "Galvanic cell",
+      "Electrolysis",
+      "Combustion",
+      "Neutralization"
     ],
     "answer": 1
   },
   {
-    "question": "Salt bridge function is to:",
-    "options": [
-      "Produce electrons",
-      "Maintain charge neutrality",
-      "Increase voltage",
-      "Stop reaction"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Standard hydrogen electrode potential is:",
-    "options": [
-      "1 V",
-      "-1 V",
-      "0 V",
-      "2 V"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Most reactive metal to lose electrons:",
-    "options": [
-      "Ag",
-      "Cu",
-      "Zn",
-      "Au"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Positive cell potential means:",
-    "options": [
-      "Non-spontaneous",
-      "Spontaneous",
-      "Equilibrium",
-      "No reaction"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Unit of potential difference:",
-    "options": [
-      "Ampere",
-      "Volt",
-      "Ohm",
-      "Coulomb"
-    ],
-    "answer": 1
-  },
-
-  {
-    "question": "Gibbs free energy relation is:",
-    "options": [
-      "ΔG = nFE°",
-      "ΔG = -nFE°",
-      "ΔG = RT",
-      "ΔG = H - TS only"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Oxidizing agent:",
-    "options": [
-      "Loses electrons",
-      "Gains electrons",
-      "Always metal",
-      "Always gas"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Reducing agent:",
-    "options": [
-      "Gains electrons",
-      "Loses electrons",
-      "Always oxidized",
-      "No change"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Highest reduction potential:",
-    "options": [
-      "Li⁺/Li",
-      "Zn²⁺/Zn",
-      "Ag⁺/Ag",
-      "Mg²⁺/Mg"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Increasing Cu²⁺ concentration in Daniell cell:",
-    "options": [
-      "Decreases voltage",
-      "Increases voltage",
-      "Stops reaction",
-      "No effect"
-    ],
-    "answer": 1
-  },
-
-  {
-    "question": "Nernst equation is used to calculate:",
-    "options": [
-      "Heat energy",
-      "Non-standard cell potential",
-      "Mass",
-      "Pressure"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Faraday constant is:",
-    "options": [
-      "96500 C/mol",
-      "8.314 J/molK",
-      "6.02×10²³",
-      "1.6×10⁻¹⁹"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "One Faraday equals:",
-    "options": [
-      "1 mole electrons",
-      "2 moles electrons",
-      "1 mole ions",
-      "1 mole atoms"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Faraday’s first law relates:",
-    "options": [
-      "Mass and electricity",
-      "Energy and heat",
-      "Volume and pressure",
-      "Time and temperature"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Charge formula is:",
-    "options": [
-      "Q = IR",
-      "Q = It",
-      "Q = V/R",
-      "Q = Pt"
-    ],
-    "answer": 1
-  },
-
-  {
-    "question": "Unit of charge:",
+    "question": "The unit of electrical charge used in Faraday’s law is:",
     "options": [
       "Volt",
       "Ampere",
@@ -213,196 +310,193 @@
     "answer": 2
   },
   {
-    "question": "In electrolysis of NaCl, discharged ion:",
+    "question": "Which equation correctly represents charge passed in electrolysis?",
     "options": [
-      "Na⁺",
-      "Cl⁻",
-      "H⁺",
-      "OH⁻"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Electrolysis of water produces:",
-    "options": [
-      "H₂ and O₂",
-      "Na and Cl₂",
-      "CO₂",
-      "NH₃"
+      "Q = I × t",
+      "Q = V × I",
+      "Q = I / t",
+      "Q = R × I"
     ],
     "answer": 0
   },
   {
-    "question": "Electroplating uses:",
+    "question": "Which gas is produced at the anode during electrolysis of aqueous NaCl?",
     "options": [
-      "Galvanic cell",
-      "Electrolytic cell",
-      "Fuel cell",
-      "Dry cell"
+      "Hydrogen",
+      "Oxygen",
+      "Chlorine",
+      "Nitrogen"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In electrochemical series, the strongest oxidizing agent is:",
+    "options": [
+      "Species with highest positive E°",
+      "Species with lowest E°",
+      "Neutral species",
+      "Metals only"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A negative standard electrode potential means:",
+    "options": [
+      "Strong tendency to gain electrons",
+      "Weak tendency to gain electrons",
+      "Strong oxidizing agent",
+      "No reaction occurs"
     ],
     "answer": 1
   },
   {
-    "question": "Object to be plated is:",
+    "question": "Which statement is correct about electrochemical series?",
     "options": [
-      "Anode",
+      "It arranges metals randomly",
+      "It ranks species by reduction potential",
+      "It only includes gases",
+      "It is unrelated to redox reactions"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Corrosion of metals is an example of:",
+    "options": [
+      "Electrolysis",
+      "Redox reaction",
+      "Neutralization",
+      "Precipitation"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Rusting of iron requires:",
+    "options": [
+      "Only oxygen",
+      "Only water",
+      "Oxygen and water",
+      "Only acid"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which factor increases the rate of corrosion?",
+    "options": [
+      "Dry environment",
+      "Presence of oxygen and moisture",
+      "Low temperature only",
+      "Absence of ions"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Sacrificial protection of iron involves coating with:",
+    "options": [
+      "Copper",
+      "Gold",
+      "Zinc",
+      "Silver"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which metal is most easily oxidized?",
+    "options": [
+      "Gold",
+      "Silver",
+      "Zinc",
+      "Platinum"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a primary cell?",
+    "options": [
+      "Lead-acid battery",
+      "Dry cell",
+      "Rechargeable battery",
+      "Fuel cell"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Rechargeable batteries are also called:",
+    "options": [
+      "Primary cells",
+      "Secondary cells",
+      "Fuel cells",
+      "Voltaic cells only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which statement about fuel cells is correct?",
+    "options": [
+      "They store electrical energy",
+      "They convert chemical energy continuously as long as fuel is supplied",
+      "They cannot produce electricity",
+      "They are non-redox systems"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In electrolysis, increasing current increases:",
+    "options": [
+      "Voltage only",
+      "Amount of substance deposited",
+      "Resistance",
+      "Cell potential"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which equation is used in Faraday's law of electrolysis?",
+    "options": [
+      "m = ZIt",
+      "PV = nRT",
+      "E = mc²",
+      "F = ma"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The value of 1 Faraday is approximately:",
+    "options": [
+      "96500 C",
+      "1000 C",
+      "1 C",
+      "10 C"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Electroplating is mainly used to:",
+    "options": [
+      "Destroy metals",
+      "Protect metals and improve appearance",
+      "Increase rusting",
+      "Decrease conductivity"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In electrochemical cells, oxidation always occurs at:",
+    "options": [
       "Cathode",
+      "Anode",
       "Salt bridge",
       "Electrolyte"
     ],
     "answer": 1
   },
-
   {
-    "question": "Galvanizing uses:",
+    "question": "The main purpose of salt bridge is to:",
     "options": [
-      "Copper",
-      "Silver",
-      "Zinc",
-      "Gold"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Rust formula is:",
-    "options": [
-      "FeO",
-      "Fe₂O₃·xH₂O",
-      "FeCl₂",
-      "FeS"
+      "Stop electron flow",
+      "Complete circuit and maintain charge balance",
+      "Increase voltage",
+      "Produce electrons"
     ],
     "answer": 1
-  },
-  {
-    "question": "Corrosion is:",
-    "options": [
-      "Reduction only",
-      "Oxidation only",
-      "Redox process",
-      "Neutralization"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Sacrificial anode is:",
-    "options": [
-      "Cu",
-      "Zn",
-      "Ag",
-      "Pt"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Cathodic protection works by:",
-    "options": [
-      "Heating metal",
-      "Making iron cathode",
-      "Increasing oxidation",
-      "Adding water"
-    ],
-    "answer": 1
-  },
-
-  {
-    "question": "Electrolytic cell uses:",
-    "options": [
-      "Chemical energy → electrical energy",
-      "Electrical energy → chemical change",
-      "Heat energy only",
-      "Light energy only"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Anode in electrolytic cell is:",
-    "options": [
-      "Negative",
-      "Positive",
-      "Neutral",
-      "Variable"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Cathode in galvanic cell is:",
-    "options": [
-      "Positive",
-      "Negative",
-      "Neutral",
-      "Zero"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "E°cell negative means:",
-    "options": [
-      "Spontaneous",
-      "Non-spontaneous",
-      "Equilibrium",
-      "No electrons"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Rechargeable battery:",
-    "options": [
-      "Dry cell",
-      "Lead-acid battery",
-      "Zinc-carbon",
-      "None"
-    ],
-    "answer": 1
-  },
-
-  {
-    "question": "Electrolyte in lead-acid battery:",
-    "options": [
-      "NaOH",
-      "H₂SO₄",
-      "HCl",
-      "NH₄Cl"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Fuel cell converts:",
-    "options": [
-      "Heat → electricity",
-      "Chemical → electricity",
-      "Electricity → heat",
-      "Light → electricity"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Standard conditions include:",
-    "options": [
-      "25°C, 1 atm, 1 M",
-      "0°C, 2 atm",
-      "100°C, 1 M",
-      "50°C, 1 atm"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Cell potential formula:",
-    "options": [
-      "Ecell = Eanode + Ecathode",
-      "Ecell = Ecathode − Eanode",
-      "Ecell = IR",
-      "Ecell = P/V"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Strongest reducing agent:",
-    "options": [
-      "Li",
-      "Ag",
-      "Au",
-      "Pt"
-    ],
-    "answer": 0
   }
-]
+    ]
