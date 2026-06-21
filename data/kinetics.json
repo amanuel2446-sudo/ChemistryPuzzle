@@ -1,459 +1,504 @@
 [
   {
-    "question": "Chemical kinetics is the study of:",
+    "question": "The rate of a chemical reaction is best defined as:",
     "options": [
-      "Energy changes during reactions",
-      "Speed of chemical reactions and mechanisms",
-      "Equilibrium only",
-      "Atomic structure"
+      "The total amount of product formed.",
+      "The change in concentration of reactants or products per unit time.",
+      "The mass of reactants consumed.",
+      "The time required for the reaction to stop."
     ],
     "answer": 1
   },
   {
-    "question": "The rate of a chemical reaction is defined as:",
-    "options": [
-      "Amount of catalyst used",
-      "Change in concentration per unit time",
-      "Temperature change",
-      "Mass change"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "SI unit of reaction rate is:",
-    "options": [
-      "mol",
-      "mol dm⁻³",
-      "mol dm⁻³ s⁻¹",
-      "s⁻¹"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Which factor does NOT affect reaction rate?",
+    "question": "Which of the following factors does NOT directly affect the rate of a chemical reaction?",
     "options": [
       "Temperature",
-      "Concentration",
+      "Concentration of reactants",
       "Catalyst",
-      "Color"
+      "Color of the reaction vessel"
     ],
     "answer": 3
   },
   {
-    "question": "Increasing concentration usually:",
+    "question": "According to collision theory, a chemical reaction occurs only when reactant particles:",
     "options": [
-      "Decreases rate",
-      "No effect",
-      "Increases rate",
-      "Stops reaction"
+      "Have the same mass.",
+      "Collide with sufficient energy and proper orientation.",
+      "Move at the same speed.",
+      "Remain in constant contact."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The minimum amount of energy required for reacting particles to form products is called:",
+    "options": [
+      "Bond energy",
+      "Activation energy",
+      "Ionization energy",
+      "Potential energy"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Increasing the temperature generally increases the reaction rate because:",
+    "options": [
+      "Particles become larger.",
+      "More particles possess energy greater than the activation energy.",
+      "The activation energy increases.",
+      "The catalyst becomes stronger."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "A catalyst speeds up a chemical reaction by:",
+    "options": [
+      "Increasing the activation energy.",
+      "Providing an alternative reaction pathway with lower activation energy.",
+      "Changing the equilibrium constant.",
+      "Increasing the concentration of reactants."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which factor has the greatest effect on the rate of reaction between two gases?",
+    "options": [
+      "Pressure",
+      "Color",
+      "Shape of the container",
+      "Mass of the container"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Increasing the concentration of reactants usually increases the reaction rate because:",
+    "options": [
+      "The activation energy decreases.",
+      "There are more frequent effective collisions.",
+      "The products become unstable.",
+      "The equilibrium constant increases."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The SI unit of reaction rate is commonly expressed as:",
+    "options": [
+      "mol",
+      "mol dm⁻³ s⁻¹",
+      "kg s⁻¹",
+      "m s⁻¹"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "For the reaction A → Products, if doubling the concentration of A doubles the reaction rate, the reaction is:",
+    "options": [
+      "Zero order",
+      "First order",
+      "Second order",
+      "Third order"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The rate constant (k) of a reaction mainly depends on:",
+    "options": [
+      "Temperature",
+      "Pressure only",
+      "Concentration only",
+      "Volume only"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which statement about catalysts is correct?",
+    "options": [
+      "Catalysts are consumed during the reaction.",
+      "Catalysts lower the activation energy without being permanently consumed.",
+      "Catalysts change the value of Kc.",
+      "Catalysts slow down both forward and reverse reactions."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "A reaction proceeds more rapidly when the surface area of a solid reactant is increased because:",
+    "options": [
+      "The activation energy increases.",
+      "More reactant particles are exposed for effective collisions.",
+      "The equilibrium constant changes.",
+      "The catalyst becomes more active."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which statement correctly describes a zero-order reaction?",
+    "options": [
+      "Rate is proportional to concentration of reactant",
+      "Rate is independent of reactant concentration",
+      "Rate increases exponentially with concentration",
+      "Rate depends on temperature only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "For a first-order reaction, the half-life (t1/2) is:",
+    "options": [
+      "Dependent on initial concentration",
+      "Independent of initial concentration",
+      "Equal to zero",
+      "Always decreasing with time"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "If a reaction is second order with respect to A, the rate law is:",
+    "options": [
+      "Rate = k[A]",
+      "Rate = k[A]^2",
+      "Rate = k[A][B]",
+      "Rate = k"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which method is commonly used to determine the order of a reaction experimentally?",
+    "options": [
+      "Balancing equations",
+      "Method of initial rates",
+      "Titration only",
+      "Spectroscopy only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In a reaction, doubling concentration of A increases rate by a factor of 4. The order with respect to A is:",
+    "options": [
+      "Zero order",
+      "First order",
+      "Second order",
+      "Third order"
     ],
     "answer": 2
   },
   {
-    "question": "Collision theory states reactions occur when particles:",
+    "question": "The integrated rate law for a first-order reaction involves:",
     "options": [
-      "Touch only",
-      "Have sufficient energy and correct orientation",
-      "Have same mass",
-      "Are stationary"
+      "Linear relationship between concentration and time",
+      "Exponential decay of concentration",
+      "Constant concentration over time",
+      "Increase in concentration over time"
     ],
     "answer": 1
   },
   {
-    "question": "Minimum energy required is called:",
-    "options": [
-      "Heat of reaction",
-      "Activation energy",
-      "Bond energy",
-      "Kinetic energy"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Catalyst works by:",
+    "question": "A catalyst affects reaction kinetics by:",
     "options": [
       "Increasing activation energy",
       "Decreasing activation energy",
-      "Increasing ΔH",
-      "Stopping reaction"
+      "Increasing equilibrium constant",
+      "Changing product composition"
     ],
     "answer": 1
   },
   {
-    "question": "Arrhenius equation is:",
+    "question": "Which factor has no effect on reaction rate?",
     "options": [
-      "PV=nRT",
-      "k = Ae⁻Ea/RT",
-      "E = mc²",
-      "F = ma"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "A in Arrhenius equation is:",
-    "options": [
-      "Activation energy",
-      "Frequency factor",
-      "Temperature",
-      "Rate constant"
-    ],
-    "answer": 1
-  },
-
-  {
-    "question": "Increasing temperature generally:",
-    "options": [
-      "Decreases rate constant",
-      "Increases rate constant",
-      "Stops reaction",
-      "No effect"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "If rate = k[A]²[B], order of A is:",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "0"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Overall order of reaction above is:",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Zero-order reaction rate is:",
-    "options": [
-      "Concentration dependent",
-      "Independent of concentration",
-      "Temperature dependent only",
-      "Pressure dependent only"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Unit of rate constant for first-order reaction:",
-    "options": [
-      "mol dm⁻³ s⁻¹",
-      "s⁻¹",
-      "dm³ mol⁻¹ s⁻¹",
-      "mol² dm⁻⁶"
-    ],
-    "answer": 1
-  },
-
-  {
-    "question": "Unit of second-order rate constant:",
-    "options": [
-      "s⁻¹",
-      "mol dm⁻³ s⁻¹",
-      "dm³ mol⁻¹ s⁻¹",
-      "mol²"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Half-life of first-order reaction:",
-    "options": [
-      "Depends on concentration",
-      "Constant",
-      "Increases with catalyst",
-      "Zero"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Half-life of zero-order reaction:",
-    "options": [
-      "Constant",
-      "Depends on concentration",
-      "Independent",
-      "Infinite"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Linear graph for first-order reaction:",
-    "options": [
-      "[A] vs t",
-      "ln[A] vs t",
-      "1/[A] vs t",
-      "Rate vs t"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Linear graph for second-order reaction:",
-    "options": [
-      "ln[A] vs t",
-      "[A] vs t",
-      "1/[A] vs t",
-      "Rate vs time"
-    ],
-    "answer": 2
-  },
-
-  {
-    "question": "Slope of ln[A] vs time:",
-    "options": [
-      "k",
-      "-k",
-      "1/k",
-      "k²"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Molecularity is always:",
-    "options": [
-      "Fractional",
-      "Whole number",
-      "Negative",
-      "Zero"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Order can be:",
-    "options": [
-      "Fractional",
-      "Zero",
-      "Whole number",
-      "All of the above"
+      "Surface area",
+      "Catalyst",
+      "Concentration",
+      "Molar mass of product"
     ],
     "answer": 3
   },
   {
-    "question": "Slowest step is called:",
+    "question": "The slope of a concentration vs time graph for a first-order reaction is:",
     "options": [
-      "Fast step",
-      "Rate-determining step",
-      "Equilibrium step",
-      "Final step"
+      "Positive linear",
+      "Negative linear",
+      "Curved upward",
+      "Constant zero"
     ],
     "answer": 1
   },
   {
-    "question": "Intermediate is:",
+    "question": "Activation energy is best described as:",
     "options": [
-      "Reactant",
-      "Product",
-      "Formed then consumed",
-      "Catalyst"
-    ],
-    "answer": 2
-  },
-
-  {
-    "question": "Catalyst is regenerated because it:",
-    "options": [
-      "Is consumed",
-      "Remains unchanged",
-      "Becomes product",
-      "Increases mass"
+      "Energy released during reaction",
+      "Energy required to break bonds in reactants",
+      "Energy of products",
+      "Heat of reaction"
     ],
     "answer": 1
   },
   {
-    "question": "Increasing surface area:",
+    "question": "In Arrhenius equation, rate constant k increases when:",
     "options": [
-      "Decreases rate",
-      "Increases rate",
-      "No effect",
-      "Stops reaction"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Enzymes are:",
-    "options": [
-      "Inhibitors",
-      "Biological catalysts",
-      "Reactants",
-      "Products"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Rate law is determined:",
-    "options": [
-      "Theoretically",
-      "Experimentally",
-      "From equation only",
-      "From mass"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Doubling concentration doubles rate means order is:",
-    "options": [
-      "0",
-      "1",
-      "2",
-      "3"
-    ],
-    "answer": 1
-  },
-
-  {
-    "question": "Doubling concentration quadruples rate means order is:",
-    "options": [
-      "0",
-      "1",
-      "2",
-      "3"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Doubling concentration has no effect means:",
-    "options": [
-      "0 order",
-      "1 order",
-      "2 order",
-      "3 order"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Activation energy increases when:",
-    "options": [
-      "Catalyst is added",
-      "No catalyst",
+      "Temperature decreases",
       "Temperature increases",
-      "Pressure increases"
+      "Concentration decreases",
+      "Pressure decreases"
     ],
     "answer": 1
   },
   {
-    "question": "Arrhenius plot is:",
+    "question": "A reaction mechanism is:",
     "options": [
-      "k vs T",
-      "ln k vs 1/T",
-      "k vs 1/T",
-      "ln k vs T"
+      "Overall balanced equation only",
+      "Step-by-step sequence of elementary reactions",
+      "Energy diagram only",
+      "Final products only"
     ],
     "answer": 1
   },
   {
-    "question": "Slope of Arrhenius plot is:",
+    "question": "The rate-determining step in a reaction mechanism is:",
     "options": [
-      "Ea/R",
-      "-Ea/R",
-      "RT",
-      "-RT"
+      "The fastest step",
+      "The slowest step",
+      "The final step only",
+      "The step with no energy change"
     ],
     "answer": 1
   },
-
   {
-    "question": "Temperature increase increases:",
+    "question": "If a reaction mechanism has a slow first step, the overall reaction rate depends mainly on:",
     "options": [
-      "Activation energy",
-      "Molecular energy",
-      "Rate constant",
-      "Mass"
+      "Final step",
+      "Intermediate formation",
+      "First step",
+      "Product stability"
     ],
     "answer": 2
   },
   {
-    "question": "Maxwell-Boltzmann curve shows:",
+    "question": "A reaction mechanism consists of:",
     "options": [
-      "Energy distribution",
-      "Mass distribution",
+      "Only one step",
+      "A series of elementary steps",
+      "Only product formation",
+      "Only energy changes"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "An intermediate in a reaction mechanism is:",
+    "options": [
+      "Final product",
+      "Reactant",
+      "Species formed and consumed during steps",
+      "Catalyst only"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is true about catalysts in reaction mechanisms?",
+    "options": [
+      "They are consumed permanently",
+      "They appear in final equation",
+      "They provide an alternative pathway with lower activation energy",
+      "They increase product energy"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The Arrhenius equation shows the relationship between:",
+    "options": [
+      "Pressure and volume",
+      "Temperature and rate constant",
+      "Concentration and time",
+      "Energy and mass"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "A higher temperature generally increases reaction rate because:",
+    "options": [
+      "Molecules lose energy",
+      "More molecules exceed activation energy",
+      "Catalyst becomes inactive",
+      "Pressure decreases"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which graph is linear for a first-order reaction?",
+    "options": [
+      "Concentration vs time",
+      "ln(concentration) vs time",
+      "1/concentration vs time",
+      "Rate vs pressure"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "For a zero-order reaction, the concentration vs time graph is:",
+    "options": [
+      "Curved upward",
+      "Straight line decreasing",
+      "Horizontal line",
+      "Exponential increase"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which factor does NOT affect the rate constant k?",
+    "options": [
+      "Temperature",
+      "Nature of reactants",
+      "Catalyst",
+      "Concentration"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Increasing surface area affects reaction rate by:",
+    "options": [
+      "Reducing collisions",
+      "Increasing effective collisions",
+      "Changing activation energy",
+      "Changing equilibrium constant"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The order of a reaction is determined from:",
+    "options": [
+      "Balanced equation only",
+      "Experimental data",
+      "Product color",
+      "Temperature only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which statement is true for catalysts?",
+    "options": [
+      "They increase activation energy",
+      "They decrease reaction rate",
+      "They remain chemically unchanged at the end",
+      "They change equilibrium constant"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "A reaction has a very high activation energy. What can be said about its rate at room temperature?",
+    "options": [
+      "It is very fast",
+      "It is very slow",
+      "It is independent of temperature",
+      "It is instantaneous"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which statement best describes a second-order reaction?",
+    "options": [
+      "Rate is independent of concentration",
+      "Rate is proportional to the square of concentration of one reactant or product of two concentrations",
+      "Rate is constant",
+      "Rate decreases with temperature only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The half-life of a second-order reaction depends on:",
+    "options": [
+      "Temperature only",
+      "Initial concentration",
+      "Pressure only",
+      "Catalyst only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following best describes a fast reaction?",
+    "options": [
+      "Few effective collisions per second",
+      "High frequency of effective collisions",
+      "High activation energy",
+      "Low temperature always"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "A catalyst increases the rate of reaction by:",
+    "options": [
+      "Increasing collision energy",
+      "Lowering activation energy barrier",
+      "Increasing concentration",
+      "Increasing pressure"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which condition always increases reaction rate?",
+    "options": [
+      "Lower temperature",
+      "Lower concentration",
+      "Higher temperature",
+      "No catalyst"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which statement about reaction mechanism is correct?",
+    "options": [
+      "It must be the same as balanced equation",
+      "It shows step-by-step elementary reactions",
+      "It only shows final products",
+      "It ignores intermediates"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "An intermediate species is:",
+    "options": [
+      "Stable final product",
+      "Formed and used up during mechanism",
+      "Always a catalyst",
+      "Reactant only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which graph confirms first-order kinetics?",
+    "options": [
+      "Rate vs time is linear",
+      "ln[A] vs time is linear",
+      "[A] vs time is constant",
+      "1/[A] vs time is constant"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which factor affects both rate and rate constant?",
+    "options": [
+      "Temperature",
+      "Concentration",
       "Pressure",
-      "Volume"
+      "Surface area"
     ],
     "answer": 0
   },
   {
-    "question": "Catalyst effect on Maxwell-Boltzmann:",
+    "question": "In industrial chemistry, catalysts are important because they:",
     "options": [
-      "Changes shape",
-      "Lowers Ea",
-      "Raises energy",
-      "Stops reaction"
+      "Increase activation energy",
+      "Reduce cost and increase rate",
+      "Stop reactions at equilibrium",
+      "Change products completely"
     ],
     "answer": 1
   },
   {
-    "question": "Reaction mechanism is:",
+    "question": "Which of the following best describes collision theory?",
     "options": [
-      "Single step",
-      "Series of steps",
-      "Only products",
-      "Only reactants"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Elementary reaction rate law is:",
-    "options": [
-      "Experimental only",
-      "From stoichiometry",
-      "Constant",
-      "Zero order always"
-    ],
-    "answer": 1
-  },
-
-  {
-    "question": "First-order integrated law is:",
-    "options": [
-      "[A]=[A]₀-kt",
-      "ln[A]=ln[A]₀-kt",
-      "1/[A]=1/[A]₀+kt",
-      "Rate=k[A]²"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Zero-order integrated law is:",
-    "options": [
-      "[A]=[A]₀-kt",
-      "ln[A]=ln[A]₀-kt",
-      "1/[A]=1/[A]₀+kt",
-      "Rate=k"
+      "Particles must collide with correct energy and orientation to react",
+      "Particles never collide in gases",
+      "All collisions produce products",
+      "Temperature has no effect on collisions"
     ],
     "answer": 0
-  },
-  {
-    "question": "Second-order half-life:",
-    "options": [
-      "Constant",
-      "Independent of concentration",
-      "Depends on initial concentration",
-      "Zero"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Catalyst effect:",
-    "options": [
-      "Changes ΔH",
-      "Increases yield",
-      "Speeds both directions",
-      "Changes K"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Slow reactions often have:",
-    "options": [
-      "Low Ea",
-      "High Ea",
-      "No Ea",
-      "Negative Ea"
-    ],
-    "answer": 1
   }
 ]
+
+    
