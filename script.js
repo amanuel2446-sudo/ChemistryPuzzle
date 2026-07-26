@@ -231,7 +231,248 @@ function showQuestion(){
     }
 
 }
+// =======================================
+// CHEMISTRY PUZZLE GAME
+// ADVANCED PART 2
+// QUESTION + ANSWER SYSTEM
+// =======================================
 
+
+// Current selected answer lock
+let answered = false;
+
+
+// -------------------------------
+// Display Question
+// -------------------------------
+function showQuestion(){
+
+    if(currentQuestion >= questions.length){
+
+        finishExam();
+        return;
+    }
+
+
+    answered = false;
+
+
+    let q = questions[currentQuestion];
+
+
+    questionNumber.innerHTML =
+    "Question " +
+    (currentQuestion + 1) +
+    " / " +
+    questions.length;
+
+
+    // ONLY SHOW QUESTION
+    question.innerHTML = q.question;
+
+
+    // ONLY SHOW OPTIONS
+    btnA.innerHTML = q.options[0];
+    btnB.innerHTML = q.options[1];
+    btnC.innerHTML = q.options[2];
+    btnD.innerHTML = q.options[3];
+
+
+    // Remove old colors
+    resetButtons();
+
+
+    enableButtons();
+
+}
+
+
+
+// -------------------------------
+// Button Click Events
+// -------------------------------
+btnA.onclick = () => checkAnswer(0);
+
+btnB.onclick = () => checkAnswer(1);
+
+btnC.onclick = () => checkAnswer(2);
+
+btnD.onclick = () => checkAnswer(3);
+
+
+
+// -------------------------------
+// Check Answer
+// -------------------------------
+function checkAnswer(selected){
+
+
+    // Prevent double click
+    if(answered) return;
+
+
+    answered = true;
+
+
+    let correct =
+    questions[currentQuestion].answer;
+
+
+    disableButtons();
+
+
+
+    if(selected === correct){
+
+
+        score++;
+
+
+        correctSound.play();
+
+
+        highlightCorrect(selected);
+
+
+    }
+    else{
+
+
+        lives--;
+
+
+        wrongSound.play();
+
+
+        highlightWrong(selected);
+
+
+        // Show correct option AFTER wrong choice
+        highlightCorrect(correct);
+
+    }
+
+
+
+    updateScore();
+
+
+
+    setTimeout(()=>{
+
+
+        currentQuestion++;
+
+
+        if(lives <= 0){
+
+            finishExam();
+
+        }
+        else{
+
+            showQuestion();
+
+        }
+
+
+    },1200);
+
+
+
+}
+
+
+
+// -------------------------------
+// Disable Buttons
+// -------------------------------
+function disableButtons(){
+
+    btnA.disabled = true;
+    btnB.disabled = true;
+    btnC.disabled = true;
+    btnD.disabled = true;
+
+}
+
+
+
+// -------------------------------
+// Enable Buttons
+// -------------------------------
+function enableButtons(){
+
+    btnA.disabled = false;
+    btnB.disabled = false;
+    btnC.disabled = false;
+    btnD.disabled = false;
+
+}
+
+
+
+// -------------------------------
+// Reset Button Style
+// -------------------------------
+function resetButtons(){
+
+    let buttons=[
+        btnA,
+        btnB,
+        btnC,
+        btnD
+    ];
+
+
+    buttons.forEach(btn=>{
+
+        btn.classList.remove(
+            "correct",
+            "wrong"
+        );
+
+    });
+
+}
+
+
+
+// -------------------------------
+// Highlight Correct Answer
+// -------------------------------
+function highlightCorrect(index){
+
+    let buttons=[
+        btnA,
+        btnB,
+        btnC,
+        btnD
+    ];
+
+
+    buttons[index].classList.add("correct");
+
+}
+
+
+
+// -------------------------------
+// Highlight Wrong Answer
+// -------------------------------
+function highlightWrong(index){
+
+    let buttons=[
+        btnA,
+        btnB,
+        btnC,
+        btnD
+    ];
+
+
+    buttons[index].classList.add("wrong");
+
+        };
 
     
 // =======================================
