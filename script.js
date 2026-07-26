@@ -410,3 +410,227 @@ window.onbeforeunload=function(){
     }
 
 }
+// =======================================
+// CHEMISTRY PUZZLE GAME
+// PART 3
+// =======================================
+
+
+// -------------------------------
+// Finish Exam
+// -------------------------------
+function finishExam(){
+
+    clearInterval(timerInterval);
+
+    examStarted = false;
+
+
+    let total = questions.length;
+
+    let percentage = 0;
+
+
+    if(total > 0){
+
+        percentage =
+        Math.round((score / total) * 100);
+
+    }
+
+
+
+    let badge = getBadge(percentage);
+
+
+
+    questionNumber.innerHTML =
+    "🏁 Exam Completed";
+
+
+    question.innerHTML = `
+
+        <div class="result">
+
+        <h2>🎉 Your Result</h2>
+
+        <p>⭐ Score: ${score}/${total}</p>
+
+        <p>📊 Percentage: ${percentage}%</p>
+
+        <p>🏅 Achievement: ${badge}</p>
+
+        </div>
+
+    `;
+
+
+
+    btnA.style.display="none";
+    btnB.style.display="none";
+    btnC.style.display="none";
+    btnD.style.display="none";
+
+
+    startBtn.style.display="block";
+
+    startBtn.innerHTML=
+    "🔄 Restart Exam";
+
+
+    startBtn.onclick = restartGame;
+
+
+
+    sendScoreToTelegram(score, percentage);
+
+}
+
+
+
+// -------------------------------
+// Badge System
+// -------------------------------
+function getBadge(percent){
+
+
+    if(percent >= 90){
+
+        return "🥇 Chemistry Master";
+
+    }
+
+
+    else if(percent >= 75){
+
+        return "🥈 Chemistry Expert";
+
+    }
+
+
+    else if(percent >= 50){
+
+        return "🥉 Chemistry Learner";
+
+    }
+
+
+    else{
+
+        return "📚 Keep Practicing";
+
+    }
+
+
+}
+
+
+
+// -------------------------------
+// Restart Game
+// -------------------------------
+function restartGame(){
+
+
+    selectedLevel="";
+
+
+    questions=[];
+
+
+    currentQuestion=0;
+
+    score=0;
+
+    lives=3;
+
+
+    timer=1800;
+
+
+    btnA.style.display="block";
+    btnB.style.display="block";
+    btnC.style.display="block";
+    btnD.style.display="block";
+
+
+    startBtn.innerHTML=
+    "▶ START EXAM";
+
+
+    startBtn.onclick=startGame;
+
+
+    gameArea.style.display="none";
+
+    levelSelect.style.display="block";
+
+
+    updateScore();
+
+}
+
+
+
+// -------------------------------
+// Send Result to Telegram
+// -------------------------------
+function sendScoreToTelegram(score, percentage){
+
+
+    if(tg){
+
+
+        tg.sendData(JSON.stringify({
+
+            game:"Chemistry Puzzle",
+
+            level:selectedLevel,
+
+            score:score,
+
+            percentage:percentage
+
+        }));
+
+
+    }
+
+}
+
+
+
+// -------------------------------
+// Save Best Score Locally
+// -------------------------------
+function saveBestScore(){
+
+
+    let best =
+    localStorage.getItem("bestScore");
+
+
+    if(!best || score > best){
+
+
+        localStorage.setItem(
+            "bestScore",
+            score
+        );
+
+
+    }
+
+
+}
+
+
+
+// -------------------------------
+// Initialize Game
+// -------------------------------
+window.onload=function(){
+
+    updateScore();
+
+};
