@@ -409,7 +409,7 @@ window.onbeforeunload=function(){
 
     }
 
-}
+};
 // =======================================
 // CHEMISTRY PUZZLE GAME
 // PART 3
