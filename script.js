@@ -1,3 +1,18 @@
+// =============================
+// Telegram Web App
+// =============================
+const tg = window.Telegram.WebApp;
+
+tg.ready();
+tg.expand();
+
+// Optional: Get Telegram user information
+const user = tg.initDataUnsafe?.user;
+
+if (user) {
+    console.log("User:", user.first_name);
+}
+
 // =============================================
 // CHEMISTRY PUZZLE EXAM MODE
 // PROFESSIONAL SCRIPT.JS
