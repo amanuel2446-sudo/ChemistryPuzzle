@@ -199,5 +199,105 @@
     ],
     "answer": "B"
   },
+  {
+    "question": "Which of the following is a secondary alcohol?",
+    "options": [
+      "A) CH3CH2OH",
+      "B) CH3CHOHCH3",
+      "C) (CH3)3COH",
+      "D) CH3OH"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the product when ethanol is oxidized using acidified potassium dichromate under controlled conditions?",
+    "options": [
+      "A) Ethanal",
+      "B) Ethene",
+      "C) Ethanoic acid",
+      "D) Methanol"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following compounds contains a carbonyl group?",
+    "options": [
+      "A) Alcohols only",
+      "B) Aldehydes and ketones",
+      "C) Ethers only",
+      "D) Alkanes only"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The general formula of aldehydes is:",
+    "options": [
+      "A) R-O-R",
+      "B) R-COOH",
+      "C) R-CHO",
+      "D) R-OH"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which compound is used as a solvent and fuel additive?",
+    "options": [
+      "A) Ethanol",
+      "B) Methanoic acid",
+      "C) Propanone",
+      "D) Ethanoic acid"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "What is the main intermolecular force between alcohol molecules?",
+    "options": [
+      "A) Ionic bonding",
+      "B) Hydrogen bonding",
+      "C) Metallic bonding",
+      "D) Covalent bonding"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is a carboxylic acid?",
+    "options": [
+      "A) CH3CH2OH",
+      "B) CH3COOH",
+      "C) CH3CHO",
+      "D) CH3OCH3"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Ketones are produced by the oxidation of:",
+    "options": [
+      "A) Primary alcohols",
+      "B) Secondary alcohols",
+      "C) Tertiary alcohols",
+      "D) Alkanes"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the functional group of esters?",
+    "options": [
+      "A) -COO-",
+      "B) -OH",
+      "C) -CHO",
+      "D) -NH2"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "The pleasant smell of many fruits is due to the presence of:",
+    "options": [
+      "A) Alcohols",
+      "B) Esters",
+      "C) Ketones",
+      "D) Aldehydes"
+    ],
+    "answer": "B"
+  },
   
 
