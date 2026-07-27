@@ -52,10 +52,10 @@ h1{
 /* Question */
 
 #question{
-    font-size:22px;
+    font-size:25px;
     font-weight:bold;
-    color:#222;
-    margin-bottom:20px;
+    color:lightblue;
+    margin-bottom:26px;
     line-height:1.5;
 }
 
