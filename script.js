@@ -145,7 +145,7 @@ async function loadQuestions(){
             break;
             
         case "Physical state of matter":
-            file = "data/Pysical state of matter.json";
+            file = "data/Physical state of matter.json";
             break;
             
         case "Solutions":
