@@ -88,5 +88,94 @@
       {"text":"Valence electrons","correct":true},
       {"text":"Nucleus","correct":false}
     ]
-  }
-]
+  },
+{
+  "question": "Which scientist proposed the nuclear model of the atom?",
+  "answers": [
+    {"text":"John Dalton","correct":false},
+    {"text":"J. J. Thomson","correct":false},
+    {"text":"Ernest Rutherford","correct":true},
+    {"text":"Niels Bohr","correct":false}
+  ]
+},
+{
+  "question": "According to Bohr's model, electrons move in:",
+  "answers": [
+    {"text":"Random paths","correct":false},
+    {"text":"Fixed energy levels","correct":true},
+    {"text":"The nucleus","correct":false},
+    {"text":"Straight lines","correct":false}
+  ]
+},
+{
+  "question": "Which quantum number determines the principal energy level of an electron?",
+  "answers": [
+    {"text":"Magnetic quantum number","correct":false},
+    {"text":"Spin quantum number","correct":false},
+    {"text":"Principal quantum number","correct":true},
+    {"text":"Azimuthal quantum number","correct":false}
+  ]
+},
+{
+  "question": "The maximum number of electrons that can occupy the first energy level is:",
+  "answers": [
+    {"text":"2","correct":true},
+    {"text":"8","correct":false},
+    {"text":"18","correct":false},
+    {"text":"32","correct":false}
+  ]
+},
+{
+  "question": "Which orbital has a spherical shape?",
+  "answers": [
+    {"text":"p orbital","correct":false},
+    {"text":"d orbital","correct":false},
+    {"text":"f orbital","correct":false},
+    {"text":"s orbital","correct":true}
+  ]
+},
+{
+  "question": "The p-subshell can hold a maximum of:",
+  "answers": [
+    {"text":"2 electrons","correct":false},
+    {"text":"6 electrons","correct":true},
+    {"text":"10 electrons","correct":false},
+    {"text":"14 electrons","correct":false}
+  ]
+},
+{
+  "question": "Which principle states that electrons occupy the lowest available energy level first?",
+  "answers": [
+    {"text":"Hund's Rule","correct":false},
+    {"text":"Pauli Exclusion Principle","correct":false},
+    {"text":"Aufbau Principle","correct":true},
+    {"text":"Heisenberg Principle","correct":false}
+  ]
+},
+{
+  "question": "According to Hund's rule, electrons occupy orbitals:",
+  "answers": [
+    {"text":"In pairs first","correct":false},
+    {"text":"Randomly","correct":false},
+    {"text":"Singly before pairing","correct":true},
+    {"text":"Only after all orbitals are full","correct":false}
+  ]
+},
+{
+  "question": "The Pauli Exclusion Principle states that:",
+  "answers": [
+    {"text":"Electrons always move in circles","correct":false},
+    {"text":"No two electrons in an atom have the same four quantum numbers","correct":true},
+    {"text":"Atoms are indivisible","correct":false},
+    {"text":"Electrons have no mass","correct":false}
+  ]
+},
+{
+  "question": "The electron configuration of oxygen (atomic number 8) is:",
+  "answers": [
+    {"text":"1s² 2s² 2p⁴","correct":true},
+    {"text":"1s² 2s² 2p⁶","correct":false},
+    {"text":"1s² 2s¹ 2p⁵","correct":false},
+    {"text":"1s² 2p⁶","correct":false}
+  ]
+    }
