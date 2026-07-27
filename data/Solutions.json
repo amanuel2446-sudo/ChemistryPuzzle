@@ -199,5 +199,205 @@
     ],
     "answer": "B"
   },
+  {
+    "question": "Which concentration unit is defined as moles of solute per kilogram of solvent?",
+    "options": [
+      "A) Molarity",
+      "B) Molality",
+      "C) Mole fraction",
+      "D) Mass percent"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The SI unit of molality is:",
+    "options": [
+      "A) mol/L",
+      "B) mol/kg",
+      "C) g/L",
+      "D) kg/mol"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Mole fraction is calculated by dividing:",
+    "options": [
+      "A) Mass of solute by mass of solvent",
+      "B) Moles of a component by total moles of all components",
+      "C) Volume of solute by volume of solution",
+      "D) Mass of solution by mass of solvent"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is a colligative property?",
+    "options": [
+      "A) Density",
+      "B) Color",
+      "C) Boiling point elevation",
+      "D) Viscosity"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Adding a nonvolatile solute to a solvent causes the boiling point to:",
+    "options": [
+      "A) Decrease",
+      "B) Increase",
+      "C) Remain unchanged",
+      "D) Become zero"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Adding a nonvolatile solute to a solvent causes the freezing point to:",
+    "options": [
+      "A) Increase",
+      "B) Decrease",
+      "C) Remain unchanged",
+      "D) Equal the boiling point"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The lowering of vapor pressure is an example of:",
+    "options": [
+      "A) Chemical property",
+      "B) Colligative property",
+      "C) Radioactivity",
+      "D) Oxidation"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Henry's law applies mainly to:",
+    "options": [
+      "A) Solids in solids",
+      "B) Gases dissolved in liquids",
+      "C) Liquids in liquids",
+      "D) Solids in gases"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "According to Henry's law, increasing pressure increases:",
+    "options": [
+      "A) The solubility of gases in liquids",
+      "B) The boiling point of solids",
+      "C) The melting point of metals",
+      "D) The density of liquids only"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is an example of a solid solution?",
+    "options": [
+      "A) Salt water",
+      "B) Air",
+      "C) Brass",
+      "D) Carbonated water"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Air is an example of:",
+    "options": [
+      "A) Solid in liquid solution",
+      "B) Gas in gas solution",
+      "C) Liquid in solid solution",
+      "D) Solid in gas solution"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Brass is an alloy of:",
+    "options": [
+      "A) Iron and carbon",
+      "B) Copper and zinc",
+      "C) Copper and tin",
+      "D) Aluminum and magnesium"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Increasing the surface area of a solid solute generally:",
+    "options": [
+      "A) Decreases the rate of dissolving",
+      "B) Increases the rate of dissolving",
+      "C) Has no effect",
+      "D) Prevents dissolution"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Stirring a solution mainly affects the:",
+    "options": [
+      "A) Solubility",
+      "B) Rate of dissolving",
+      "C) Chemical composition",
+      "D) Density"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which factor does NOT significantly affect the solubility of solids in liquids?",
+    "options": [
+      "A) Temperature",
+      "B) Nature of solute and solvent",
+      "C) Pressure",
+      "D) Concentration"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which concentration unit is independent of temperature?",
+    "options": [
+      "A) Molarity",
+      "B) Molality",
+      "C) Volume percent",
+      "D) Normality"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The concentration of a solution increases when:",
+    "options": [
+      "A) More solvent is added",
+      "B) Solvent evaporates",
+      "C) Water is added",
+      "D) The solution is diluted"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which statement about saturated solutions is correct?",
+    "options": [
+      "A) They can dissolve unlimited solute",
+      "B) They are always dilute",
+      "C) They contain the maximum amount of dissolved solute at a given temperature",
+      "D) They contain no solvent"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "The amount of solute that dissolves in a given amount of solvent at a specified temperature is called:",
+    "options": [
+      "A) Concentration",
+      "B) Solubility",
+      "C) Molarity",
+      "D) Molality"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following best describes a supersaturated solution?",
+    "options": [
+      "A) Contains less solute than a saturated solution",
+      "B) Contains exactly the maximum amount of solute",
+      "C) Contains more dissolved solute than a saturated solution at the same temperature",
+      "D) Contains only a solvent"
+    ],
+    "answer": "C"
+  },
   
 
