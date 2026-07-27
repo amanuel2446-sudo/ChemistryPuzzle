@@ -16,7 +16,6 @@ if (tg) {
     tg.enableClosingConfirmation();
 }
 
-
 // ------------------------------------------------------
 // Game Variables
 // ------------------------------------------------------
@@ -76,16 +75,12 @@ function selectLevel(level){
         clickSound.play().catch(()=>{});
     }
 
-
     // Stop any previous exam timer
     clearInterval(timerInterval);
 
 
-
     // Clear previous questions
     questions = [];
-
-
 
     // Reset all exam data
     selectedLevel = level;
