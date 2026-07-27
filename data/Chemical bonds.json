@@ -89,4 +89,93 @@
       {"text":"Dipole-dipole force","correct":false}
     ]
   },
-  
+{
+  "question": "The electrons involved in chemical bonding are called:",
+  "answers": [
+    {"text":"Core electrons","correct":false},
+    {"text":"Valence electrons","correct":true},
+    {"text":"Nuclear electrons","correct":false},
+    {"text":"Free electrons","correct":false}
+  ]
+},
+{
+  "question": "Which structure is used to represent valence electrons in molecules?",
+  "answers": [
+    {"text":"Bohr model","correct":false},
+    {"text":"Lewis structure","correct":true},
+    {"text":"Rutherford model","correct":false},
+    {"text":"Atomic spectrum","correct":false}
+  ]
+},
+{
+  "question": "How many valence electrons does carbon have?",
+  "answers": [
+    {"text":"2","correct":false},
+    {"text":"4","correct":true},
+    {"text":"6","correct":false},
+    {"text":"8","correct":false}
+  ]
+},
+{
+  "question": "A bond formed when one atom donates both electrons to form a shared pair is called:",
+  "answers": [
+    {"text":"Ionic bond","correct":false},
+    {"text":"Coordinate covalent bond","correct":true},
+    {"text":"Metallic bond","correct":false},
+    {"text":"Hydrogen bond","correct":false}
+  ]
+},
+{
+  "question": "Which molecule contains a coordinate covalent bond?",
+  "answers": [
+    {"text":"CH₄","correct":false},
+    {"text":"NH₄⁺","correct":true},
+    {"text":"Cl₂","correct":false},
+    {"text":"O₂","correct":false}
+  ]
+},
+{
+  "question": "Metallic bonding occurs between:",
+  "answers": [
+    {"text":"Metal atoms","correct":true},
+    {"text":"Nonmetal atoms only","correct":false},
+    {"text":"Hydrogen atoms only","correct":false},
+    {"text":"Noble gases","correct":false}
+  ]
+},
+{
+  "question": "The ability of an atom to attract bonding electrons is called:",
+  "answers": [
+    {"text":"Ionization energy","correct":false},
+    {"text":"Electronegativity","correct":true},
+    {"text":"Electron affinity","correct":false},
+    {"text":"Atomic radius","correct":false}
+  ]
+},
+{
+  "question": "Which element has the highest electronegativity?",
+  "answers": [
+    {"text":"Fluorine","correct":true},
+    {"text":"Sodium","correct":false},
+    {"text":"Magnesium","correct":false},
+    {"text":"Aluminum","correct":false}
+  ]
+},
+{
+  "question": "As the difference in electronegativity between two atoms increases, the bond becomes more:",
+  "answers": [
+    {"text":"Nonpolar covalent","correct":false},
+    {"text":"Ionic in character","correct":true},
+    {"text":"Metallic","correct":false},
+    {"text":"Weaker always","correct":false}
+  ]
+},
+{
+  "question": "Which molecule has a linear molecular shape?",
+  "answers": [
+    {"text":"H₂O","correct":false},
+    {"text":"NH₃","correct":false},
+    {"text":"CO₂","correct":true},
+    {"text":"CH₄","correct":false}
+  ]
+},
