@@ -1,1 +1,203 @@
+[
+  {
+    "question": "Which of the following is an inorganic compound?",
+    "options": [
+      "A) CH4",
+      "B) C2H5OH",
+      "C) NaCl",
+      "D) C6H12O6"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Inorganic compounds are generally compounds that do not contain:",
+    "options": [
+      "A) Oxygen",
+      "B) Carbon-hydrogen bonds",
+      "C) Metals",
+      "D) Nitrogen"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is an oxide?",
+    "options": [
+      "A) NaOH",
+      "B) CO2",
+      "C) HCl",
+      "D) NaCl"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "An oxide formed by a metal reacting with oxygen is called:",
+    "options": [
+      "A) Acidic oxide",
+      "B) Basic oxide",
+      "C) Neutral oxide",
+      "D) Organic oxide"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is a strong acid?",
+    "options": [
+      "A) CH3COOH",
+      "B) HCl",
+      "C) H2CO3",
+      "D) NH4OH"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The pH value of an acidic solution is:",
+    "options": [
+      "A) Greater than 7",
+      "B) Equal to 7",
+      "C) Less than 7",
+      "D) Equal to 14"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which ion is responsible for acidic properties?",
+    "options": [
+      "A) OH−",
+      "B) H+",
+      "C) Na+",
+      "D) Cl−"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which ion is responsible for basic properties?",
+    "options": [
+      "A) H+",
+      "B) OH−",
+      "C) Cl−",
+      "D) NO3−"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the chemical formula of sodium chloride?",
+    "options": [
+      "A) NaCl",
+      "B) NaOH",
+      "C) Na2CO3",
+      "D) Na2O"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "The reaction between an acid and a base is called:",
+    "options": [
+      "A) Oxidation",
+      "B) Neutralization",
+      "C) Reduction",
+      "D) Decomposition"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The products of neutralization are usually:",
+    "options": [
+      "A) Salt and water",
+      "B) Acid and oxygen",
+      "C) Base and hydrogen",
+      "D) Carbon and water"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is a base?",
+    "options": [
+      "A) HCl",
+      "B) H2SO4",
+      "C) NaOH",
+      "D) CO2"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is an alkaline earth metal oxide?",
+    "options": [
+      "A) MgO",
+      "B) CO2",
+      "C) SO2",
+      "D) NO2"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which gas is produced when acids react with carbonates?",
+    "options": [
+      "A) Oxygen",
+      "B) Hydrogen",
+      "C) Carbon dioxide",
+      "D) Nitrogen"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which compound is known as sulfuric acid?",
+    "options": [
+      "A) HCl",
+      "B) HNO3",
+      "C) H2SO4",
+      "D) H2CO3"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which compound is a nitrate salt?",
+    "options": [
+      "A) NaCl",
+      "B) KNO3",
+      "C) CaCO3",
+      "D) MgO"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What type of bond is commonly found in inorganic salts?",
+    "options": [
+      "A) Covalent bond",
+      "B) Ionic bond",
+      "C) Metallic bond",
+      "D) Hydrogen bond"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is an acidic oxide?",
+    "options": [
+      "A) Na2O",
+      "B) CaO",
+      "C) SO2",
+      "D) MgO"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is a neutral oxide?",
+    "options": [
+      "A) CO",
+      "B) SO3",
+      "C) Na2O",
+      "D) CaO"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which compound is commonly used as table salt?",
+    "options": [
+      "A) NaOH",
+      "B) NaCl",
+      "C) KOH",
+      "D) CaO"
+    ],
+    "answer": "B"
+  },
+  
 
