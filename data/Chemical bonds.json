@@ -179,3 +179,93 @@
     {"text":"CH₄","correct":false}
   ]
 },
+{
+  "question": "The VSEPR theory is used to predict:",
+  "answers": [
+    {"text":"Atomic mass","correct":false},
+    {"text":"Molecular shape","correct":true},
+    {"text":"Number of neutrons","correct":false},
+    {"text":"Reaction rate","correct":false}
+  ]
+},
+{
+  "question": "According to VSEPR theory, electron pairs around a central atom:",
+  "answers": [
+    {"text":"Attract each other strongly","correct":false},
+    {"text":"Repel each other and arrange to minimize repulsion","correct":true},
+    {"text":"Remain fixed in the nucleus","correct":false},
+    {"text":"Have no effect on shape","correct":false}
+  ]
+},
+{
+  "question": "The molecular shape of methane (CH₄) is:",
+  "answers": [
+    {"text":"Linear","correct":false},
+    {"text":"Bent","correct":false},
+    {"text":"Tetrahedral","correct":true},
+    {"text":"Trigonal planar","correct":false}
+  ]
+},
+{
+  "question": "The bond angle in a tetrahedral molecule is approximately:",
+  "answers": [
+    {"text":"90°","correct":false},
+    {"text":"109.5°","correct":true},
+    {"text":"120°","correct":false},
+    {"text":"180°","correct":false}
+  ]
+},
+{
+  "question": "The shape of water (H₂O) molecule is:",
+  "answers": [
+    {"text":"Linear","correct":false},
+    {"text":"Bent","correct":true},
+    {"text":"Tetrahedral","correct":false},
+    {"text":"Trigonal planar","correct":false}
+  ]
+},
+{
+  "question": "The presence of lone pairs on a central atom usually:",
+  "answers": [
+    {"text":"Increases bond angles","correct":false},
+    {"text":"Decreases bond angles due to repulsion","correct":true},
+    {"text":"Removes all bonds","correct":false},
+    {"text":"Makes molecules ionic","correct":false}
+  ]
+},
+{
+  "question": "The molecular shape of ammonia (NH₃) is:",
+  "answers": [
+    {"text":"Linear","correct":false},
+    {"text":"Trigonal pyramidal","correct":true},
+    {"text":"Tetrahedral","correct":false},
+    {"text":"Bent","correct":false}
+  ]
+},
+{
+  "question": "Which molecule has a trigonal planar shape?",
+  "answers": [
+    {"text":"CH₄","correct":false},
+    {"text":"BF₃","correct":true},
+    {"text":"NH₃","correct":false},
+    {"text":"H₂O","correct":false}
+  ]
+},
+{
+  "question": "Hydrogen bonding occurs when hydrogen is bonded to:",
+  "answers": [
+    {"text":"Any metal atom","correct":false},
+    {"text":"Highly electronegative atoms like N, O, or F","correct":true},
+    {"text":"Carbon only","correct":false},
+    {"text":"Noble gases","correct":false}
+  ]
+},
+{
+  "question": "Which intermolecular force is the strongest among the following?",
+  "answers": [
+    {"text":"London dispersion force","correct":false},
+    {"text":"Dipole-dipole force","correct":false},
+    {"text":"Hydrogen bonding","correct":true},
+    {"text":"Induced dipole force","correct":false}
+  ]
+},
