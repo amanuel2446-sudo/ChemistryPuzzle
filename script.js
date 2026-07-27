@@ -123,8 +123,8 @@ async function loadQuestions(){
         case "electrochemistry":
             file = "data/electrochemistry.json";
             break;
-        case "oxygen containing organic compounds":
-            file = "data/oxygen containing organic compounds.json";
+        case "Oxygen containing organic compounds":
+            file = "data/Oxygen containing organic compounds.json";
             break;
         case "Inorganic compounds":
             file = "data/Inorganic compounds.json";
@@ -135,14 +135,14 @@ async function loadQuestions(){
         case "Chemical bonds":
             file = "data/Chemical bonds.json";
             break;
-        case "hydrocarbons":
-            file = "data/hydrocarbons.json";
+        case "Hydrocarbons":
+            file = "data/Hydrocarbons.json";
             break;
-        case "physical state of matter":
-            file = "data/pysical state of matter.json";
+        case "Physical state of matter":
+            file = "data/Pysical state of matter.json";
             break;
-        case "solutions":
-            file = "data/solutions.json";
+        case "Solutions":
+            file = "data/Solutions.json";
             break;
         
         default:
