@@ -1,1 +1,203 @@
+[
+  {
+    "question": "A solution is a homogeneous mixture of:",
+    "options": [
+      "A) Two or more substances",
+      "B) Only solids",
+      "C) Only liquids",
+      "D) Only gases"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "The substance that dissolves in a solution is called the:",
+    "options": [
+      "A) Solvent",
+      "B) Solute",
+      "C) Mixture",
+      "D) Colloid"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The substance present in the larger amount in a solution is called the:",
+    "options": [
+      "A) Solute",
+      "B) Solvent",
+      "C) Suspension",
+      "D) Colloid"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Salt dissolved in water is an example of:",
+    "options": [
+      "A) Heterogeneous mixture",
+      "B) Homogeneous solution",
+      "C) Suspension",
+      "D) Emulsion"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is the solvent in seawater?",
+    "options": [
+      "A) Salt",
+      "B) Water",
+      "C) Sand",
+      "D) Oxygen"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The amount of solute dissolved in a given amount of solvent is called:",
+    "options": [
+      "A) Concentration",
+      "B) Density",
+      "C) Pressure",
+      "D) Diffusion"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "A solution that contains less solute than it can dissolve is called:",
+    "options": [
+      "A) Saturated",
+      "B) Unsaturated",
+      "C) Supersaturated",
+      "D) Dilute acid"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "A solution that cannot dissolve any more solute at a given temperature is called:",
+    "options": [
+      "A) Dilute",
+      "B) Unsaturated",
+      "C) Saturated",
+      "D) Concentrated"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "A solution containing more dissolved solute than a saturated solution is called:",
+    "options": [
+      "A) Dilute",
+      "B) Unsaturated",
+      "C) Supersaturated",
+      "D) Neutral"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "The solubility of most solid substances in water generally increases with:",
+    "options": [
+      "A) Decreasing temperature",
+      "B) Increasing temperature",
+      "C) Decreasing pressure",
+      "D) Increasing density"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The solubility of gases in liquids generally decreases as:",
+    "options": [
+      "A) Temperature increases",
+      "B) Pressure increases",
+      "C) Volume decreases",
+      "D) Density increases"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which factor greatly increases the solubility of a gas in a liquid?",
+    "options": [
+      "A) Increasing pressure",
+      "B) Increasing temperature",
+      "C) Stirring",
+      "D) Grinding the gas"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is an example of a gas dissolved in a liquid?",
+    "options": [
+      "A) Brass",
+      "B) Carbonated soft drink",
+      "C) Air",
+      "D) Steel"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The SI unit of molarity is:",
+    "options": [
+      "A) mol/L",
+      "B) g/L",
+      "C) kg/m³",
+      "D) mol/kg"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Molarity is defined as:",
+    "options": [
+      "A) Moles of solute per liter of solution",
+      "B) Grams of solute per liter of solvent",
+      "C) Moles of solvent per liter",
+      "D) Mass of solution per liter"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "The formula for molarity is:",
+    "options": [
+      "A) M = mass/volume",
+      "B) M = moles of solute/volume of solution (L)",
+      "C) M = volume/moles",
+      "D) M = mass × volume"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which process decreases the concentration of a solution?",
+    "options": [
+      "A) Evaporation",
+      "B) Adding more solute",
+      "C) Dilution by adding solvent",
+      "D) Crystallization"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "The equation M₁V₁ = M₂V₂ is used for:",
+    "options": [
+      "A) Gas laws",
+      "B) Neutralization",
+      "C) Dilution calculations",
+      "D) Density calculations"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which solution contains a relatively small amount of solute?",
+    "options": [
+      "A) Concentrated solution",
+      "B) Dilute solution",
+      "C) Saturated solution",
+      "D) Supersaturated solution"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which solution contains a relatively large amount of dissolved solute?",
+    "options": [
+      "A) Dilute solution",
+      "B) Concentrated solution",
+      "C) Unsaturated solution",
+      "D) Pure solvent"
+    ],
+    "answer": "B"
+  },
+  
 
