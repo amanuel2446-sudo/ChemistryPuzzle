@@ -269,4 +269,184 @@
     {"text":"CH₄","correct":false}
   ]
 },
-
+{
+  "question": "Benzene is classified as a:",
+  "answers": [
+    {"text":"Alkane","correct":false},
+    {"text":"Alkene","correct":false},
+    {"text":"Aromatic hydrocarbon","correct":true},
+    {"text":"Alkyne","correct":false}
+  ]
+},
+{
+  "question": "The molecular formula of benzene is:",
+  "answers": [
+    {"text":"C₆H₆","correct":true},
+    {"text":"C₆H₁₂","correct":false},
+    {"text":"C₂H₆","correct":false},
+    {"text":"C₆H₁₄","correct":false}
+  ]
+},
+{
+  "question": "Benzene contains:",
+  "answers": [
+    {"text":"A six-carbon ring with delocalized electrons","correct":true},
+    {"text":"Only single carbon bonds","correct":false},
+    {"text":"An ionic structure","correct":false},
+    {"text":"A triple bond only","correct":false}
+  ]
+},
+{
+  "question": "The process of forming long-chain molecules from small molecules is called:",
+  "answers": [
+    {"text":"Combustion","correct":false},
+    {"text":"Polymerization","correct":true},
+    {"text":"Substitution","correct":false},
+    {"text":"Hydrogenation","correct":false}
+  ]
+},
+{
+  "question": "Ethene can be converted into polyethylene by:",
+  "answers": [
+    {"text":"Combustion","correct":false},
+    {"text":"Addition polymerization","correct":true},
+    {"text":"Substitution reaction","correct":false},
+    {"text":"Neutralization","correct":false}
+  ]
+},
+{
+  "question": "The repeating unit in a polymer is called:",
+  "answers": [
+    {"text":"Monomer","correct":false},
+    {"text":"Repeating unit","correct":true},
+    {"text":"Catalyst","correct":false},
+    {"text":"Isomer","correct":false}
+  ]
+},
+{
+  "question": "Which hydrocarbon is commonly used as a fuel?",
+  "answers": [
+    {"text":"Methane","correct":true},
+    {"text":"Benzene only","correct":false},
+    {"text":"Ethene only","correct":false},
+    {"text":"Ethyne only","correct":false}
+  ]
+},
+{
+  "question": "The main component of natural gas is:",
+  "answers": [
+    {"text":"Ethene","correct":false},
+    {"text":"Methane","correct":true},
+    {"text":"Benzene","correct":false},
+    {"text":"Ethyne","correct":false}
+  ]
+},
+{
+  "question": "Cracking of hydrocarbons produces:",
+  "answers": [
+    {"text":"Only water","correct":false},
+    {"text":"Smaller hydrocarbons","correct":true},
+    {"text":"Only carbon dioxide","correct":false},
+    {"text":"Only alcohols","correct":false}
+  ]
+},
+{
+  "question": "Cracking is used in the petroleum industry to:",
+  "answers": [
+    {"text":"Convert large hydrocarbons into smaller useful ones","correct":true},
+    {"text":"Remove all carbon atoms","correct":false},
+    {"text":"Make ionic compounds","correct":false},
+    {"text":"Produce metals","correct":false}
+  ]
+},
+{
+  "question": "Which compound has the highest boiling point?",
+  "answers": [
+    {"text":"Methane","correct":false},
+    {"text":"Ethane","correct":false},
+    {"text":"Propane","correct":false},
+    {"text":"Butane","correct":true}
+  ]
+},
+{
+  "question": "The functional group present in alkenes is:",
+  "answers": [
+    {"text":"Carbon-carbon double bond","correct":true},
+    {"text":"Hydroxyl group","correct":false},
+    {"text":"Carboxyl group","correct":false},
+    {"text":"Amino group","correct":false}
+  ]
+},
+{
+  "question": "Which hydrocarbon contains a triple bond?",
+  "answers": [
+    {"text":"Ethane","correct":false},
+    {"text":"Ethene","correct":false},
+    {"text":"Ethyne","correct":true},
+    {"text":"Benzene","correct":false}
+  ]
+},
+{
+  "question": "The carbon atoms in alkanes are connected by:",
+  "answers": [
+    {"text":"Single covalent bonds","correct":true},
+    {"text":"Double bonds only","correct":false},
+    {"text":"Triple bonds only","correct":false},
+    {"text":"Ionic bonds","correct":false}
+  ]
+},
+{
+  "question": "Which compound is an example of an alkane?",
+  "answers": [
+    {"text":"C₂H₄","correct":false},
+    {"text":"C₂H₂","correct":false},
+    {"text":"C₃H₈","correct":true},
+    {"text":"C₆H₆","correct":false}
+  ]
+},
+{
+  "question": "The complete combustion of hydrocarbons requires:",
+  "answers": [
+    {"text":"Nitrogen","correct":false},
+    {"text":"Oxygen","correct":true},
+    {"text":"Chlorine","correct":false},
+    {"text":"Hydrogen","correct":false}
+  ]
+},
+{
+  "question": "Which statement about alkenes is correct?",
+  "answers": [
+    {"text":"They are saturated hydrocarbons","correct":false},
+    {"text":"They contain at least one C=C bond","correct":true},
+    {"text":"They contain only ionic bonds","correct":false},
+    {"text":"They cannot react","correct":false}
+  ]
+},
+{
+  "question": "The number of carbon atoms in pentane is:",
+  "answers": [
+    {"text":"3","correct":false},
+    {"text":"4","correct":false},
+    {"text":"5","correct":true},
+    {"text":"6","correct":false}
+  ]
+},
+{
+  "question": "Which hydrocarbon has the formula C₄H₈?",
+  "answers": [
+    {"text":"Butane","correct":false},
+    {"text":"Butene","correct":true},
+    {"text":"Butyne","correct":false},
+    {"text":"Benzene","correct":false}
+  ]
+},
+{
+  "question": "Hydrocarbons are important because they are mainly used as:",
+  "answers": [
+    {"text":"Fuels and raw materials for chemicals","correct":true},
+    {"text":"Sources of metals","correct":false},
+    {"text":"Acids only","correct":false},
+    {"text":"Noble gases","correct":false}
+  ]
+  }
+]
