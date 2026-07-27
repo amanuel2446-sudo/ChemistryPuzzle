@@ -58,38 +58,7 @@ h1{
 
 /* Answer Buttons Container */
 
-#answer-buttons{
-    display:flex;
-    flex-direction:column;
-    width:100%;
-    gap:15px;
-    margin-top:15px;
-}
 
-/* Individual Button */
-
-.btn{
-    width:100%;
-    display:block;
-
-    padding:16px;
-
-    background:#f5f7fa;
-
-    color:#222;
-
-    border:2px solid #d9e2ec;
-
-    border-radius:12px;
-
-    font-size:17px;
-
-    text-align:left;
-
-    cursor:pointer;
-
-    transition:0.25s;
-}
 
 .btn:hover:not(:disabled){
     background:#dceeff;
