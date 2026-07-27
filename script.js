@@ -69,34 +69,6 @@ clickSound.volume = 0.5;
 // ------------------------------------------------------
 // Select Level
 // ------------------------------------------------------
-function selectLevel(level){
-
-    clickSound.play();
-
-    selectedLevel = level;
-
-    levelSelect.style.display = "none";
-    gameArea.style.display = "block";
-
-    question.innerHTML =
-        "Press <b>START EXAM</b>";
-
-    questionNumber.innerHTML =
-        "Level: " + level;
-
-    score = 0;
-    lives = 3;
-    currentQuestion = 0;
-    answered = false;
-
-    timer = 3000;
-
-    updateScore();
-
-    timerElement.innerHTML = "⏱ 50:00";
-
-    startBtn.style.display = "inline-block";
-}
 
 
 // ------------------------------------------------------
