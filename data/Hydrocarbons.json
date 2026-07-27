@@ -89,4 +89,94 @@
       {"text":"Only ionic bonds","correct":false}
     ]
   },
-  
+{
+  "question": "A series of organic compounds with similar chemical properties and a gradual change in physical properties is called:",
+  "answers": [
+    {"text":"Isomeric series","correct":false},
+    {"text":"Homologous series","correct":true},
+    {"text":"Functional group","correct":false},
+    {"text":"Periodic series","correct":false}
+  ]
+},
+{
+  "question": "The difference between two successive members of a homologous series is:",
+  "answers": [
+    {"text":"CH₃","correct":false},
+    {"text":"CH₂","correct":true},
+    {"text":"C₂H₂","correct":false},
+    {"text":"H₂","correct":false}
+  ]
+},
+{
+  "question": "The IUPAC name of CH₄ is:",
+  "answers": [
+    {"text":"Methane","correct":true},
+    {"text":"Ethane","correct":false},
+    {"text":"Methene","correct":false},
+    {"text":"Methyl","correct":false}
+  ]
+},
+{
+  "question": "The IUPAC name of C₂H₆ is:",
+  "answers": [
+    {"text":"Methane","correct":false},
+    {"text":"Ethane","correct":true},
+    {"text":"Ethene","correct":false},
+    {"text":"Ethyne","correct":false}
+  ]
+},
+{
+  "question": "The IUPAC name of C₃H₈ is:",
+  "answers": [
+    {"text":"Propane","correct":true},
+    {"text":"Propene","correct":false},
+    {"text":"Propyne","correct":false},
+    {"text":"Butane","correct":false}
+  ]
+},
+{
+  "question": "The IUPAC name of CH₂=CH₂ is:",
+  "answers": [
+    {"text":"Ethane","correct":false},
+    {"text":"Ethene","correct":true},
+    {"text":"Ethyne","correct":false},
+    {"text":"Methane","correct":false}
+  ]
+},
+{
+  "question": "The IUPAC name of CH≡CH is:",
+  "answers": [
+    {"text":"Ethane","correct":false},
+    {"text":"Ethene","correct":false},
+    {"text":"Ethyne","correct":true},
+    {"text":"Ethyl","correct":false}
+  ]
+},
+{
+  "question": "Compounds having the same molecular formula but different structures are called:",
+  "answers": [
+    {"text":"Homologues","correct":false},
+    {"text":"Isomers","correct":true},
+    {"text":"Polymers","correct":false},
+    {"text":"Monomers","correct":false}
+  ]
+},
+{
+  "question": "The type of isomerism shown by butane is:",
+  "answers": [
+    {"text":"Geometrical isomerism","correct":false},
+    {"text":"Chain isomerism","correct":true},
+    {"text":"Optical isomerism","correct":false},
+    {"text":"Functional isomerism","correct":false}
+  ]
+},
+{
+  "question": "Which compound has the molecular formula C₄H₁₀?",
+  "answers": [
+    {"text":"Butane","correct":true},
+    {"text":"Butene","correct":false},
+    {"text":"Butyne","correct":false},
+    {"text":"Benzene","correct":false}
+  ]
+},
+
