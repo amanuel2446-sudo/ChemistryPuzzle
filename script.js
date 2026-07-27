@@ -312,5 +312,364 @@ function resetGame(){
 
     clearInterval(timerInterval);
 
-                               }
+}
+// ======================================================
+// CHEMISTRY PUZZLE
+// ADVANCED SCRIPT.JS
+// PART 2
+// ======================================================
 
+
+// ------------------------------------------------------
+// Show Question
+// ------------------------------------------------------
+function showQuestion(){
+
+    if(questions.length === 0){
+
+        question.innerHTML =
+        "No questions available.";
+
+        return;
+
+    }
+
+
+    if(currentQuestion >= questions.length){
+
+        finishExam();
+
+        return;
+
+    }
+
+
+    answered = false;
+
+
+    resetButtons();
+
+    enableButtons();
+
+
+    let q = questions[currentQuestion];
+
+
+    // Question number
+    questionNumber.innerHTML =
+    "Question "
+    + (currentQuestion + 1)
+    + " / "
+    + questions.length;
+
+
+    // Question text
+    question.innerHTML =
+    q.question;
+
+
+    // Options
+    btnA.innerHTML = q.options[0];
+    btnB.innerHTML = q.options[1];
+    btnC.innerHTML = q.options[2];
+    btnD.innerHTML = q.options[3];
+
+
+    updateScore();
+
+}
+
+
+
+// ------------------------------------------------------
+// Button Events
+// ------------------------------------------------------
+btnA.onclick = () => checkAnswer(0);
+
+btnB.onclick = () => checkAnswer(1);
+
+btnC.onclick = () => checkAnswer(2);
+
+btnD.onclick = () => checkAnswer(3);
+
+
+
+// ------------------------------------------------------
+// Check Answer
+// ------------------------------------------------------
+function checkAnswer(selected){
+
+
+    // Prevent double click
+    if(answered) return;
+
+
+    answered = true;
+
+
+    let correct =
+    questions[currentQuestion].answer;
+
+
+    disableButtons();
+
+
+
+    if(selected === correct){
+
+
+        score++;
+
+
+        correctSound.play();
+
+
+        highlightCorrect(selected);
+
+
+    }
+
+    else{
+
+
+        lives--;
+
+
+        wrongSound.play();
+
+
+        highlightWrong(selected);
+
+
+        // Show correct answer
+        highlightCorrect(correct);
+
+
+    }
+
+
+
+    updateScore();
+
+
+
+    setTimeout(()=>{
+
+
+        currentQuestion++;
+
+
+
+        if(lives <= 0){
+
+
+            finishExam();
+
+
+            return;
+
+        }
+
+
+
+        if(currentQuestion >= questions.length){
+
+
+            finishExam();
+
+
+            return;
+
+        }
+
+
+
+        answered = false;
+
+
+        resetButtons();
+
+
+        enableButtons();
+
+
+        showQuestion();
+
+
+
+    },1200);
+
+
+}
+
+
+
+// ------------------------------------------------------
+// Disable Buttons
+// ------------------------------------------------------
+function disableButtons(){
+
+    btnA.disabled = true;
+    btnB.disabled = true;
+    btnC.disabled = true;
+    btnD.disabled = true;
+
+}
+
+
+
+// ------------------------------------------------------
+// Enable Buttons
+// ------------------------------------------------------
+function enableButtons(){
+
+    btnA.disabled = false;
+    btnB.disabled = false;
+    btnC.disabled = false;
+    btnD.disabled = false;
+
+}
+
+
+
+// ------------------------------------------------------
+// Reset Button Colors
+// ------------------------------------------------------
+function resetButtons(){
+
+    const buttons = [
+
+        btnA,
+        btnB,
+        btnC,
+        btnD
+
+    ];
+
+
+    buttons.forEach(btn=>{
+
+
+        btn.classList.remove(
+            "correct",
+            "wrong"
+        );
+
+
+        // Remove old inline styles
+        btn.style.background = "";
+        btn.style.color = "";
+
+
+        btn.disabled = false;
+
+
+    });
+
+
+}
+
+
+
+// ------------------------------------------------------
+// Highlight Correct Answer
+// ------------------------------------------------------
+function highlightCorrect(index){
+
+    const buttons = [
+
+        btnA,
+        btnB,
+        btnC,
+        btnD
+
+    ];
+
+
+    if(buttons[index]){
+
+        buttons[index]
+        .classList.add("correct");
+
+    }
+
+
+}
+
+
+
+// ------------------------------------------------------
+// Highlight Wrong Answer
+// ------------------------------------------------------
+function highlightWrong(index){
+
+    const buttons = [
+
+        btnA,
+        btnB,
+        btnC,
+        btnD
+
+    ];
+
+
+    if(buttons[index]){
+
+        buttons[index]
+        .classList.add("wrong");
+
+    }
+
+
+}
+
+
+
+// ------------------------------------------------------
+// Keyboard Support
+// ------------------------------------------------------
+document.addEventListener("keydown",(event)=>{
+
+
+    if(!examStarted) return;
+
+
+    if(answered) return;
+
+
+
+    switch(event.key){
+
+
+        case "1":
+
+            checkAnswer(0);
+
+            break;
+
+
+        case "2":
+
+            checkAnswer(1);
+
+            break;
+
+
+        case "3":
+
+            checkAnswer(2);
+
+            break;
+
+
+        case "4":
+
+            checkAnswer(3);
+
+            break;
+
+
+    }
+
+
+});
