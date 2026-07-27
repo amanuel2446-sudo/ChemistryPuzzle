@@ -269,3 +269,93 @@
     {"text":"Nitrogen","correct":false}
   ]
 },
+{
+  "question": "Which of the following sets of quantum numbers is NOT possible?",
+  "answers": [
+    {"text":"n=2, l=1, m=0, s=+1/2","correct":false},
+    {"text":"n=3, l=2, m=-2, s=-1/2","correct":false},
+    {"text":"n=2, l=2, m=1, s=+1/2","correct":true},
+    {"text":"n=4, l=3, m=0, s=-1/2","correct":false}
+  ]
+},
+{
+  "question": "Which subshell begins to fill after the 3p subshell?",
+  "answers": [
+    {"text":"3d","correct":false},
+    {"text":"4s","correct":true},
+    {"text":"4p","correct":false},
+    {"text":"5s","correct":false}
+  ]
+},
+{
+  "question": "How many orbitals are present in the d-subshell?",
+  "answers": [
+    {"text":"3","correct":false},
+    {"text":"5","correct":true},
+    {"text":"7","correct":false},
+    {"text":"9","correct":false}
+  ]
+},
+{
+  "question": "The maximum number of electrons that can occupy the d-subshell is:",
+  "answers": [
+    {"text":"6","correct":false},
+    {"text":"8","correct":false},
+    {"text":"10","correct":true},
+    {"text":"14","correct":false}
+  ]
+},
+{
+  "question": "The principal quantum number mainly determines the:",
+  "answers": [
+    {"text":"Shape of the orbital","correct":false},
+    {"text":"Orientation of the orbital","correct":false},
+    {"text":"Energy level and size of the orbital","correct":true},
+    {"text":"Spin of the electron","correct":false}
+  ]
+},
+{
+  "question": "The modern atomic model describes electrons as existing in:",
+  "answers": [
+    {"text":"Fixed circular paths","correct":false},
+    {"text":"Elliptical orbits","correct":false},
+    {"text":"Probability clouds called orbitals","correct":true},
+    {"text":"The nucleus","correct":false}
+  ]
+},
+{
+  "question": "Which electromagnetic radiation has the shortest wavelength?",
+  "answers": [
+    {"text":"Visible light","correct":false},
+    {"text":"Infrared rays","correct":false},
+    {"text":"Gamma rays","correct":true},
+    {"text":"Ultraviolet rays","correct":false}
+  ]
+},
+{
+  "question": "An emission spectrum is produced when electrons:",
+  "answers": [
+    {"text":"Absorb energy and move to higher levels","correct":false},
+    {"text":"Move from higher to lower energy levels","correct":true},
+    {"text":"Leave the atom permanently","correct":false},
+    {"text":"Collide with neutrons","correct":false}
+  ]
+},
+{
+  "question": "The atomic spectrum of each element is unique because:",
+  "answers": [
+    {"text":"Every element has identical energy levels","correct":false},
+    {"text":"Each element has different electron energy levels","correct":true},
+    {"text":"All atoms have the same number of electrons","correct":false},
+    {"text":"Neutrons emit light","correct":false}
+  ]
+},
+{
+  "question": "Which scientist proposed that electrons exhibit wave-like properties?",
+  "answers": [
+    {"text":"Louis de Broglie","correct":true},
+    {"text":"John Dalton","correct":false},
+    {"text":"Ernest Rutherford","correct":false},
+    {"text":"James Chadwick","correct":false}
+  ]
+},
