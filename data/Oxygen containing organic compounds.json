@@ -399,6 +399,105 @@
     ],
     "answer": "C"
   },
+  {
+    "question": "Which of the following compounds is an aldehyde?",
+    "options": [
+      "A) CH3CH2OH",
+      "B) CH3CHO",
+      "C) CH3COCH3",
+      "D) CH3COOH"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the product when a secondary alcohol is oxidized?",
+    "options": [
+      "A) Aldehyde",
+      "B) Ketone",
+      "C) Carboxylic acid",
+      "D) Ether"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is a natural source of esters?",
+    "options": [
+      "A) Fruits",
+      "B) Metals",
+      "C) Minerals",
+      "D) Salts"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which reagent can oxidize alcohols to aldehydes and acids?",
+    "options": [
+      "A) Acidified potassium dichromate",
+      "B) Sodium chloride",
+      "C) Calcium carbonate",
+      "D) Hydrogen gas"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "What is the IUPAC name of CH3CH2COOH?",
+    "options": [
+      "A) Ethanoic acid",
+      "B) Propanoic acid",
+      "C) Methanoic acid",
+      "D) Butanoic acid"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which oxygen-containing organic compound is used as a disinfectant and solvent?",
+    "options": [
+      "A) Ethanol",
+      "B) Methanoic acid",
+      "C) Ethene",
+      "D) Methane"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Hydrolysis of an ester produces:",
+    "options": [
+      "A) Alcohol and carboxylic acid",
+      "B) Alkane and water",
+      "C) Ketone and oxygen",
+      "D) Aldehyde and hydrogen"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which compound has the formula C2H4O2?",
+    "options": [
+      "A) Ethanol",
+      "B) Ethanoic acid",
+      "C) Ethanal",
+      "D) Ethene"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The conversion of alcohol into alkene by removing water is called:",
+    "options": [
+      "A) Oxidation",
+      "B) Dehydration",
+      "C) Reduction",
+      "D) Esterification"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which statement about carboxylic acids is correct?",
+    "options": [
+      "A) They contain the -COOH functional group",
+      "B) They contain only oxygen atoms",
+      "C) They are hydrocarbons",
+      "D) They cannot form salts"
+    ],
+    "answer": "A"
+  }
+  ]
   
-  
-
