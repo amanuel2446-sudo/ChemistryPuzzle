@@ -399,4 +399,104 @@
     ],
     "answer": "C"
   },
-  
+  {
+    "question": "At standard temperature and pressure (STP), one mole of an ideal gas occupies:",
+    "options": [
+      "A) 11.2 L",
+      "B) 22.4 L",
+      "C) 24.0 L",
+      "D) 44.8 L"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The temperature at which a liquid boils depends mainly on:",
+    "options": [
+      "A) Atmospheric pressure",
+      "B) Color of the liquid",
+      "C) Shape of the container",
+      "D) Volume of the liquid"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is an example of sublimation?",
+    "options": [
+      "A) Ice changing to water",
+      "B) Dry ice changing directly to carbon dioxide gas",
+      "C) Water changing to steam",
+      "D) Steam changing to water"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which phase change occurs when water vapor forms liquid water?",
+    "options": [
+      "A) Melting",
+      "B) Freezing",
+      "C) Condensation",
+      "D) Sublimation"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "The particles in a solid vibrate:",
+    "options": [
+      "A) Freely throughout the container",
+      "B) Around fixed positions",
+      "C) Only when heated",
+      "D) In straight lines only"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The process of converting a gas into a liquid is called:",
+    "options": [
+      "A) Evaporation",
+      "B) Condensation",
+      "C) Melting",
+      "D) Sublimation"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Why do gases exert pressure on the walls of a container?",
+    "options": [
+      "A) Because gas particles have weight only",
+      "B) Because gas particles collide with the container walls",
+      "C) Because gases have color",
+      "D) Because gases dissolve in the container"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Increasing the temperature of a gas at constant volume causes its pressure to:",
+    "options": [
+      "A) Decrease",
+      "B) Increase",
+      "C) Remain constant",
+      "D) Become zero"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which statement is true about liquids?",
+    "options": [
+      "A) They have definite shape and volume",
+      "B) They have no definite shape but have definite volume",
+      "C) They have neither definite shape nor volume",
+      "D) They are highly compressible"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "According to the kinetic molecular theory, the average kinetic energy of gas particles is proportional to:",
+    "options": [
+      "A) Pressure",
+      "B) Volume",
+      "C) Absolute temperature",
+      "D) Number of moles"
+    ],
+    "answer": "C"
+  }
+  ]
