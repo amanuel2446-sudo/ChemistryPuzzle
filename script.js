@@ -65,11 +65,104 @@ correctSound.volume = 0.8;
 wrongSound.volume = 0.8;
 clickSound.volume = 0.5;
 
-
 // ------------------------------------------------------
-// Select Level
+// Select Level (UPDATED)
 // ------------------------------------------------------
+function selectLevel(level){
 
+
+    // Play click sound safely
+    if(clickSound){
+        clickSound.play().catch(()=>{});
+    }
+
+
+    // Stop any previous exam timer
+    clearInterval(timerInterval);
+
+
+
+    // Clear previous questions
+    questions = [];
+
+
+
+    // Reset all exam data
+    selectedLevel = level;
+
+    currentQuestion = 0;
+
+    score = 0;
+
+    lives = 3;
+
+    answered = false;
+
+    examStarted = false;
+
+
+
+    // Reset timer to 50 minutes
+    timer = 3000;
+
+
+
+    // Reset interface
+    levelSelect.style.display = "none";
+
+    gameArea.style.display = "block";
+
+
+
+    // Reset question area
+    question.innerHTML =
+    `
+    <h2>📚 ${level}</h2>
+    <p>Press START EXAM to begin</p>
+    `;
+
+
+
+    questionNumber.innerHTML =
+    "Level: " + level;
+
+
+
+    timerElement.innerHTML =
+    "⏱ 50:00";
+
+
+
+    // Reset score display
+    updateScore();
+
+
+
+    // Restore start button
+    startBtn.style.display = "inline-block";
+
+    startBtn.disabled = false;
+
+    startBtn.innerHTML =
+    "▶ START EXAM";
+
+    startBtn.onclick = startGame;
+
+
+
+    // Clear old answer colors
+    resetButtons();
+
+
+
+    // Hide answer buttons before exam starts
+    btnA.style.display = "none";
+    btnB.style.display = "none";
+    btnC.style.display = "none";
+    btnD.style.display = "none";
+
+
+}
 
 // ------------------------------------------------------
 // Start Exam
