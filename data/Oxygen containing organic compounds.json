@@ -299,5 +299,106 @@
     ],
     "answer": "B"
   },
+  {
+    "question": "Which reagent is used to distinguish aldehydes from ketones?",
+    "options": [
+      "A) Tollens' reagent",
+      "B) Sodium hydroxide",
+      "C) Hydrochloric acid",
+      "D) Ethanol"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "What is the product of oxidation of methanol?",
+    "options": [
+      "A) Methanal",
+      "B) Methanoic acid",
+      "C) Methane",
+      "D) Ethanol"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which alcohol has the highest boiling point among the following?",
+    "options": [
+      "A) Methanol",
+      "B) Ethanol",
+      "C) Propanol",
+      "D) Butanol"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Phenol differs from alcohol because the -OH group is attached to:",
+    "options": [
+      "A) An alkyl group",
+      "B) An aromatic ring",
+      "C) A carbonyl group",
+      "D) A carboxyl group"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which compound is commonly known as acetone?",
+    "options": [
+      "A) Ethanal",
+      "B) Propanone",
+      "C) Ethanol",
+      "D) Propanoic acid"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Carboxylic acids react with metals to produce:",
+    "options": [
+      "A) Oxygen gas",
+      "B) Hydrogen gas",
+      "C) Carbon dioxide",
+      "D) Nitrogen gas"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is a tertiary alcohol?",
+    "options": [
+      "A) CH3CH2OH",
+      "B) CH3CHOHCH3",
+      "C) (CH3)3COH",
+      "D) CH3OH"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "The smell of esters is usually described as:",
+    "options": [
+      "A) Fruity",
+      "B) Rotten",
+      "C) Odorless",
+      "D) Metallic"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which compound is formed when ethanoic acid reacts with ethanol?",
+    "options": [
+      "A) Ethyl ethanoate",
+      "B) Ethanal",
+      "C) Ethene",
+      "D) Ethanol"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "The functional group -CHO is called:",
+    "options": [
+      "A) Hydroxyl group",
+      "B) Carbonyl group",
+      "C) Aldehyde group",
+      "D) Carboxyl group"
+    ],
+    "answer": "C"
+  },
+  
   
 
