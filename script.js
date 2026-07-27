@@ -673,3 +673,326 @@ document.addEventListener("keydown",(event)=>{
 
 
 });
+// ======================================================
+// CHEMISTRY PUZZLE
+// ADVANCED SCRIPT.JS
+// PART 3 (FINAL)
+// ======================================================
+
+
+// ------------------------------------------------------
+// Finish Exam
+// ------------------------------------------------------
+function finishExam(){
+
+    clearInterval(timerInterval);
+
+
+    examStarted = false;
+
+
+    disableButtons();
+
+
+    let total = questions.length;
+
+
+    let percentage = 0;
+
+
+    if(total > 0){
+
+        percentage =
+        Math.round((score / total) * 100);
+
+    }
+
+
+
+    let grade = "";
+
+
+    if(percentage >= 90){
+
+        grade = "A+ Excellent 🏆";
+
+    }
+
+    else if(percentage >= 80){
+
+        grade = "A Great Job 🎯";
+
+    }
+
+    else if(percentage >= 70){
+
+        grade = "B Good Work 👍";
+
+    }
+
+    else if(percentage >= 60){
+
+        grade = "C Keep Practicing 📚";
+
+    }
+
+    else{
+
+        grade = "Need More Practice 💪";
+
+    }
+
+
+
+    saveBestScore();
+
+
+
+    sendScoreToTelegram(
+        score,
+        percentage
+    );
+
+
+
+    gameArea.innerHTML = `
+
+        <div class="result-box">
+
+            <h2>🎉 Exam Finished</h2>
+
+
+            <h3>
+            📖 Level:
+            ${selectedLevel}
+            </h3>
+
+
+            <p>
+            ⭐ Score:
+            ${score}/${total}
+            </p>
+
+
+            <p>
+            📊 Percentage:
+            ${percentage}%
+            </p>
+
+
+            <p>
+            🏅 Grade:
+            ${grade}
+            </p>
+
+
+            <button id="restartBtn">
+            🔄 Restart Exam
+            </button>
+
+
+        </div>
+
+    `;
+
+
+
+    document
+    .getElementById("restartBtn")
+    .onclick = restartGame;
+
+
+}
+
+
+
+// ------------------------------------------------------
+// Restart Game
+// ------------------------------------------------------
+function restartGame(){
+
+
+    clearInterval(timerInterval);
+
+
+    questions = [];
+
+
+    currentQuestion = 0;
+
+    score = 0;
+
+    lives = 3;
+
+
+    answered = false;
+
+    examStarted = false;
+
+
+
+    timer = 3000;
+
+
+
+    gameArea.style.display = "none";
+
+
+    levelSelect.style.display = "block";
+
+
+
+    startBtn.style.display =
+    "inline-block";
+
+
+    startBtn.disabled = false;
+
+
+    startBtn.innerHTML =
+    "▶ START EXAM";
+
+
+
+    resetButtons();
+
+
+
+    updateScore();
+
+
+
+    timerElement.innerHTML =
+    "⏱ 50:00";
+
+
+
+}
+
+
+
+// ------------------------------------------------------
+// Send Result To Telegram
+// ------------------------------------------------------
+function sendScoreToTelegram(
+    score,
+    percentage
+){
+
+
+    if(!tg) return;
+
+
+
+    tg.sendData(JSON.stringify({
+
+        game:
+        "Chemistry Puzzle",
+
+        level:
+        selectedLevel,
+
+        score:
+        score,
+
+        percentage:
+        percentage,
+
+        total:
+        questions.length
+
+    }));
+
+
+}
+
+
+
+// ------------------------------------------------------
+// Save Best Score
+// ------------------------------------------------------
+function saveBestScore(){
+
+
+    let best =
+    Number(
+    localStorage.getItem("bestScore")
+    ) || 0;
+
+
+
+    if(score > best){
+
+
+        localStorage.setItem(
+
+            "bestScore",
+
+            score
+
+        );
+
+
+    }
+
+
+}
+
+
+
+// ------------------------------------------------------
+// Get Best Score
+// ------------------------------------------------------
+function getBestScore(){
+
+
+    return Number(
+
+        localStorage.getItem(
+        "bestScore"
+        )
+
+    ) || 0;
+
+
+}
+
+
+
+// ------------------------------------------------------
+// Initial Setup
+// ------------------------------------------------------
+window.onload = function(){
+
+
+    score = 0;
+
+    lives = 3;
+
+    currentQuestion = 0;
+
+    answered = false;
+
+
+    timer = 3000;
+
+
+
+    gameArea.style.display =
+    "none";
+
+
+    levelSelect.style.display =
+    "block";
+
+
+
+    timerElement.innerHTML =
+    "⏱ 50:00";
+
+
+
+    updateScore();
+
+
+};
