@@ -1,1 +1,102 @@
-
+[
+  {
+    "question": "Which functional group is present in alcohols?",
+    "options": [
+      "A) -COOH",
+      "B) -OH",
+      "C) -CHO",
+      "D) -COO-"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the general formula of saturated monohydric alcohols?",
+    "options": [
+      "A) CnH2n+2",
+      "B) CnH2n+1OH",
+      "C) CnH2n",
+      "D) CnH2n-2"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the IUPAC name of CH3OH?",
+    "options": [
+      "A) Methanol",
+      "B) Ethanol",
+      "C) Propanol",
+      "D) Methanal"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which reagent is commonly used to test for the presence of an aldehyde group?",
+    "options": [
+      "A) Bromine water",
+      "B) Fehling's solution",
+      "C) Sodium chloride",
+      "D) Hydrochloric acid"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What functional group is found in aldehydes?",
+    "options": [
+      "A) -OH",
+      "B) -COOH",
+      "C) -CHO",
+      "D) -O-"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which compound is a ketone?",
+    "options": [
+      "A) CH3CHO",
+      "B) CH3COCH3",
+      "C) CH3OH",
+      "D) CH3COOH"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the IUPAC name of CH3COCH3?",
+    "options": [
+      "A) Propanal",
+      "B) Propanol",
+      "C) Propanone",
+      "D) Propanoic acid"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which functional group is present in carboxylic acids?",
+    "options": [
+      "A) -OH",
+      "B) -COOH",
+      "C) -CHO",
+      "D) -COO-"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the product formed when an alcohol is oxidized completely?",
+    "options": [
+      "A) Alkane",
+      "B) Carboxylic acid",
+      "C) Ether",
+      "D) Ester"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Esters are commonly formed by the reaction between:",
+    "options": [
+      "A) Alkane and oxygen",
+      "B) Alcohol and carboxylic acid",
+      "C) Ketone and alkene",
+      "D) Aldehyde and water"
+    ],
+    "answer": "B"
+  },
+  
