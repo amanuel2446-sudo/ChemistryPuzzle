@@ -178,4 +178,94 @@
     {"text":"1s² 2s¹ 2p⁵","correct":false},
     {"text":"1s² 2p⁶","correct":false}
   ]
-    }
+    },
+{
+  "question": "Which electron configuration represents sodium (atomic number 11)?",
+  "answers": [
+    {"text":"1s² 2s² 2p⁶ 3s¹","correct":true},
+    {"text":"1s² 2s² 2p⁵ 3s²","correct":false},
+    {"text":"1s² 2s² 2p⁶ 3p¹","correct":false},
+    {"text":"1s² 2s² 2p⁶","correct":false}
+  ]
+},
+{
+  "question": "The valence electrons of magnesium (Z = 12) are:",
+  "answers": [
+    {"text":"1","correct":false},
+    {"text":"2","correct":true},
+    {"text":"6","correct":false},
+    {"text":"8","correct":false}
+  ]
+},
+{
+  "question": "Which of the following species is an anion?",
+  "answers": [
+    {"text":"Na⁺","correct":false},
+    {"text":"Ca²⁺","correct":false},
+    {"text":"Cl⁻","correct":true},
+    {"text":"Al³⁺","correct":false}
+  ]
+},
+{
+  "question": "Atoms having the same atomic number but different mass numbers are called:",
+  "answers": [
+    {"text":"Isobars","correct":false},
+    {"text":"Isotones","correct":false},
+    {"text":"Isotopes","correct":true},
+    {"text":"Ions","correct":false}
+  ]
+},
+{
+  "question": "Atoms with the same mass number but different atomic numbers are called:",
+  "answers": [
+    {"text":"Isotopes","correct":false},
+    {"text":"Isobars","correct":true},
+    {"text":"Isotones","correct":false},
+    {"text":"Isoelectronic species","correct":false}
+  ]
+},
+{
+  "question": "Which pair represents isotones?",
+  "answers": [
+    {"text":"¹⁴C and ¹⁴N","correct":false},
+    {"text":"²³Na and ²⁴Mg","correct":true},
+    {"text":"³⁵Cl and ³⁷Cl","correct":false},
+    {"text":"¹²C and ¹³C","correct":false}
+  ]
+},
+{
+  "question": "The energy required to remove the outermost electron from a gaseous atom is called:",
+  "answers": [
+    {"text":"Electron affinity","correct":false},
+    {"text":"Ionization energy","correct":true},
+    {"text":"Electronegativity","correct":false},
+    {"text":"Activation energy","correct":false}
+  ]
+},
+{
+  "question": "Across a period in the periodic table, ionization energy generally:",
+  "answers": [
+    {"text":"Decreases","correct":false},
+    {"text":"Remains constant","correct":false},
+    {"text":"Increases","correct":true},
+    {"text":"Becomes zero","correct":false}
+  ]
+},
+{
+  "question": "Atomic radius generally decreases across a period because:",
+  "answers": [
+    {"text":"The nuclear charge increases","correct":true},
+    {"text":"More energy levels are added","correct":false},
+    {"text":"The number of neutrons decreases","correct":false},
+    {"text":"Electron mass increases","correct":false}
+  ]
+},
+{
+  "question": "Which element has the highest electronegativity?",
+  "answers": [
+    {"text":"Oxygen","correct":false},
+    {"text":"Fluorine","correct":true},
+    {"text":"Chlorine","correct":false},
+    {"text":"Nitrogen","correct":false}
+  ]
+},
