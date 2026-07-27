@@ -99,4 +99,105 @@
     ],
     "answer": "B"
   },
+  {
+    "question": "Which of the following is a primary alcohol?",
+    "options": [
+      "A) CH3CH2OH",
+      "B) CH3CHOHCH3",
+      "C) (CH3)3COH",
+      "D) CH3COCH3"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "What is the IUPAC name of CH3CH2OH?",
+    "options": [
+      "A) Methanol",
+      "B) Ethanol",
+      "C) Propanol",
+      "D) Ethanal"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which type of reaction occurs when an alcohol reacts with a carboxylic acid to form an ester?",
+    "options": [
+      "A) Neutralization",
+      "B) Esterification",
+      "C) Hydrogenation",
+      "D) Polymerization"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the functional group of ethers?",
+    "options": [
+      "A) -OH",
+      "B) -COOH",
+      "C) -O-",
+      "D) -CHO"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which compound is an ether?",
+    "options": [
+      "A) CH3OCH3",
+      "B) CH3OH",
+      "C) CH3COOH",
+      "D) CH3CHO"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "What is the IUPAC name of CH3OCH3?",
+    "options": [
+      "A) Methoxymethane",
+      "B) Methanol",
+      "C) Ethanal",
+      "D) Methanoic acid"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which compound gives a positive Tollens' test?",
+    "options": [
+      "A) Ketone",
+      "B) Aldehyde",
+      "C) Ether",
+      "D) Alkane"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The oxidation of a primary alcohol first produces:",
+    "options": [
+      "A) Ketone",
+      "B) Aldehyde",
+      "C) Ether",
+      "D) Ester"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which acid is present in vinegar?",
+    "options": [
+      "A) Methanoic acid",
+      "B) Ethanoic acid",
+      "C) Propanoic acid",
+      "D) Benzoic acid"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the common name of ethanoic acid?",
+    "options": [
+      "A) Formic acid",
+      "B) Acetic acid",
+      "C) Lactic acid",
+      "D) Citric acid"
+    ],
+    "answer": "B"
+  },
   
+
