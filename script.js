@@ -23,7 +23,7 @@ let currentQuestion = 0;
 let score = 0;
 let lives = 3;
 
-let timer = 1800; // 30 minutes
+let timer = 1800; // 40 minutes
 let timerInterval = null;
 
 let examStarted = false;
@@ -123,24 +123,31 @@ async function loadQuestions(){
         case "electrochemistry":
             file = "data/electrochemistry.json";
             break;
+            
         case "Oxygen containing organic compounds":
             file = "data/Oxygen containing organic compounds.json";
             break;
+            
         case "Inorganic compounds":
             file = "data/Inorganic compounds.json";
             break;
+            
         case "Atomic theory and structure":
             file = "data/Atomic theory and structure.json";
             break;
+            
         case "Chemical bonds":
             file = "data/Chemical bonds.json";
             break;
+            
         case "Hydrocarbons":
             file = "data/Hydrocarbons.json";
             break;
+            
         case "Physical state of matter":
             file = "data/Pysical state of matter.json";
             break;
+            
         case "Solutions":
             file = "data/Solutions.json";
             break;
