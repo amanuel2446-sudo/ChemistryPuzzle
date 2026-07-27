@@ -397,18 +397,27 @@ function checkAnswer(selected){
             finishExam();
 
         }
-        else{
+        else {
 
-            showQuestion();
+    // Prepare next question
+    answered = false;
+
+    // Enable all buttons
+    btnA.disabled = false;
+    btnB.disabled = false;
+    btnC.disabled = false;
+    btnD.disabled = false;
+
+    // Remove previous colors
+    btnA.classList.remove("correct", "wrong");
+    btnB.classList.remove("correct", "wrong");
+    btnC.classList.remove("correct", "wrong");
+    btnD.classList.remove("correct", "wrong");
+
+    // Load next question
+    showQuestion();
 
         }
-
-
-    },1200);
-
-
-
-}
 
 
 
