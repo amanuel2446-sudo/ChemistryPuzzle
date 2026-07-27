@@ -1,1 +1,92 @@
-
+[
+  {
+    "question": "Who proposed the first modern atomic theory?",
+    "answers": [
+      {"text":"J. J. Thomson","correct":false},
+      {"text":"John Dalton","correct":true},
+      {"text":"Ernest Rutherford","correct":false},
+      {"text":"Niels Bohr","correct":false}
+    ]
+  },
+  {
+    "question": "Which subatomic particle has a positive charge?",
+    "answers": [
+      {"text":"Electron","correct":false},
+      {"text":"Proton","correct":true},
+      {"text":"Neutron","correct":false},
+      {"text":"Photon","correct":false}
+    ]
+  },
+  {
+    "question": "Which subatomic particle has no electric charge?",
+    "answers": [
+      {"text":"Electron","correct":false},
+      {"text":"Proton","correct":false},
+      {"text":"Neutron","correct":true},
+      {"text":"Positron","correct":false}
+    ]
+  },
+  {
+    "question": "The atomic number of an element equals the number of:",
+    "answers": [
+      {"text":"Neutrons","correct":false},
+      {"text":"Protons","correct":true},
+      {"text":"Nucleons","correct":false},
+      {"text":"Electrons and neutrons","correct":false}
+    ]
+  },
+  {
+    "question": "The mass number is equal to:",
+    "answers": [
+      {"text":"Protons only","correct":false},
+      {"text":"Electrons only","correct":false},
+      {"text":"Protons + Neutrons","correct":true},
+      {"text":"Neutrons only","correct":false}
+    ]
+  },
+  {
+    "question": "Which experiment led to the discovery of the atomic nucleus?",
+    "answers": [
+      {"text":"Oil drop experiment","correct":false},
+      {"text":"Gold foil experiment","correct":true},
+      {"text":"Cathode ray experiment","correct":false},
+      {"text":"Photoelectric experiment","correct":false}
+    ]
+  },
+  {
+    "question": "Who discovered the electron?",
+    "answers": [
+      {"text":"Rutherford","correct":false},
+      {"text":"Bohr","correct":false},
+      {"text":"J. J. Thomson","correct":true},
+      {"text":"Dalton","correct":false}
+    ]
+  },
+  {
+    "question": "Which model describes electrons moving in fixed energy levels?",
+    "answers": [
+      {"text":"Dalton model","correct":false},
+      {"text":"Bohr model","correct":true},
+      {"text":"Thomson model","correct":false},
+      {"text":"Quantum cloud model","correct":false}
+    ]
+  },
+  {
+    "question": "Atoms of the same element with different numbers of neutrons are called:",
+    "answers": [
+      {"text":"Ions","correct":false},
+      {"text":"Isotopes","correct":true},
+      {"text":"Isobars","correct":false},
+      {"text":"Molecules","correct":false}
+    ]
+  },
+  {
+    "question": "Which particle determines the chemical properties of an atom?",
+    "answers": [
+      {"text":"Neutrons","correct":false},
+      {"text":"Protons","correct":false},
+      {"text":"Valence electrons","correct":true},
+      {"text":"Nucleus","correct":false}
+    ]
+  }
+]
