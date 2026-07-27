@@ -52,11 +52,11 @@ h1{
 /* Question */
 
 #question{
-    font-size:25px;
+    font-size:22px;
     font-weight:bold;
     color:lightblue;
-    margin-bottom:26px;
-    line-height:1.5;
+    margin-bottom:20px;
+    line-height:2.5;
 }
 
 /* Answer Buttons Container */
@@ -64,7 +64,7 @@ h1{
 #answer-buttons{
     display:flex;
     flex-direction:column;
-    gap:18px;
+    gap:25px;
     margin-top:20px;
     width:100%;
 }
@@ -83,7 +83,7 @@ h1{
 
 .btn:hover:not(:disabled){
     background:#dceeff;
-    border-color:#42a5f5;
+    border-color: goldan;
 }
 
 .btn:active:not(:disabled){
@@ -125,9 +125,9 @@ h1{
 
     font-size:18px;
 
-    background:#1565c0;
+    background: orange;
 
-    color:white;
+    color:lightblue;
 
     border:none;
 
