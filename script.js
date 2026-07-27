@@ -123,7 +123,28 @@ async function loadQuestions(){
         case "electrochemistry":
             file = "data/electrochemistry.json";
             break;
-
+        case "oxygen containing organic compounds":
+            file = "data/oxygen containing organic compounds.json";
+            break;
+        case "Inorganic compounds":
+            file = "data/Inorganic compounds.json";
+            break;
+        case "Atomic theory and structure":
+            file = "data/Atomic theory and structure.json";
+            break;
+        case "Chemical bonds":
+            file = "data/Chemical bonds.json";
+            break;
+        case "hydrocarbons":
+            file = "data/hydrocarbons.json";
+            break;
+        case "physical state of matter":
+            file = "data/pysical state of matter.json";
+            break;
+        case "solutions":
+            file = "data/solutions.json";
+            break;
+        
         default:
             alert("Please select a level.");
             return;
