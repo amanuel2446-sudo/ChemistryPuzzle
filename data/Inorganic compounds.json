@@ -199,5 +199,205 @@
     ],
     "answer": "B"
   },
+  {
+    "question": "Which of the following is a strong base?",
+    "options": [
+      "A) NH4OH",
+      "B) NaOH",
+      "C) CH3COOH",
+      "D) H2CO3"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the chemical formula of calcium hydroxide?",
+    "options": [
+      "A) CaOH",
+      "B) Ca(OH)2",
+      "C) Ca2O",
+      "D) CaCO3"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is a weak acid?",
+    "options": [
+      "A) HCl",
+      "B) HNO3",
+      "C) CH3COOH",
+      "D) H2SO4"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which compound is commonly called slaked lime?",
+    "options": [
+      "A) CaO",
+      "B) Ca(OH)2",
+      "C) CaCO3",
+      "D) CaCl2"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The reaction of a metal oxide with an acid produces:",
+    "options": [
+      "A) Salt and water",
+      "B) Hydrogen gas",
+      "C) Oxygen gas",
+      "D) Carbon dioxide"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which compound is baking soda?",
+    "options": [
+      "A) Na2CO3",
+      "B) NaHCO3",
+      "C) NaCl",
+      "D) NaOH"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which ion forms insoluble precipitate with Ag+ ions?",
+    "options": [
+      "A) NO3−",
+      "B) Cl−",
+      "C) Na+",
+      "D) K+"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is a carbonate salt?",
+    "options": [
+      "A) CaCO3",
+      "B) NaCl",
+      "C) KNO3",
+      "D) HCl"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "The decomposition of carbonates by heating usually produces:",
+    "options": [
+      "A) Salt and oxygen",
+      "B) Metal oxide and carbon dioxide",
+      "C) Hydrogen and water",
+      "D) Acid and base"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which gas turns limewater milky?",
+    "options": [
+      "A) Oxygen",
+      "B) Nitrogen",
+      "C) Carbon dioxide",
+      "D) Hydrogen"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is an amphoteric oxide?",
+    "options": [
+      "A) Al2O3",
+      "B) CO2",
+      "C) Na2O",
+      "D) SO2"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "What is the formula of nitric acid?",
+    "options": [
+      "A) HNO3",
+      "B) H2SO4",
+      "C) HCl",
+      "D) H2CO3"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which metal reacts with dilute acids to release hydrogen gas?",
+    "options": [
+      "A) Copper",
+      "B) Silver",
+      "C) Zinc",
+      "D) Gold"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which salt is used in fertilizers?",
+    "options": [
+      "A) KNO3",
+      "B) NaCl",
+      "C) CaCO3",
+      "D) AgCl"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "A solution with pH 7 is:",
+    "options": [
+      "A) Acidic",
+      "B) Basic",
+      "C) Neutral",
+      "D) Strongly acidic"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which compound is gypsum?",
+    "options": [
+      "A) CaSO4·2H2O",
+      "B) NaCl",
+      "C) CaO",
+      "D) MgO"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which acid is present in the stomach?",
+    "options": [
+      "A) HCl",
+      "B) HNO3",
+      "C) H2SO4",
+      "D) CH3COOH"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is a soluble base?",
+    "options": [
+      "A) NaOH",
+      "B) CuO",
+      "C) Fe2O3",
+      "D) CO2"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which compound is commonly known as quicklime?",
+    "options": [
+      "A) CaO",
+      "B) Ca(OH)2",
+      "C) CaCO3",
+      "D) MgO"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "The process of forming a salt from an acid and a base is called:",
+    "options": [
+      "A) Neutralization",
+      "B) Combustion",
+      "C) Reduction",
+      "D) Polymerization"
+    ],
+    "answer": "A"
+  },
   
 
