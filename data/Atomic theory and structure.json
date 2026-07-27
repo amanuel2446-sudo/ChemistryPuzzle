@@ -359,3 +359,94 @@
     {"text":"James Chadwick","correct":false}
   ]
 },
+{
+  "question": "Who discovered the neutron?",
+  "answers": [
+    {"text":"J. J. Thomson","correct":false},
+    {"text":"James Chadwick","correct":true},
+    {"text":"Ernest Rutherford","correct":false},
+    {"text":"Niels Bohr","correct":false}
+  ]
+},
+{
+  "question": "The uncertainty principle was proposed by:",
+  "answers": [
+    {"text":"Erwin Schrödinger","correct":false},
+    {"text":"Werner Heisenberg","correct":true},
+    {"text":"Louis de Broglie","correct":false},
+    {"text":"Max Planck","correct":false}
+  ]
+},
+{
+  "question": "According to the Heisenberg Uncertainty Principle, it is impossible to determine simultaneously the exact:",
+  "answers": [
+    {"text":"Mass and charge of an electron","correct":false},
+    {"text":"Position and momentum of an electron","correct":true},
+    {"text":"Number and energy of electrons","correct":false},
+    {"text":"Mass and volume of an atom","correct":false}
+  ]
+},
+{
+  "question": "Which equation is associated with the quantum mechanical model of the atom?",
+  "answers": [
+    {"text":"Bohr equation","correct":false},
+    {"text":"Schrödinger wave equation","correct":true},
+    {"text":"Ideal gas equation","correct":false},
+    {"text":"Arrhenius equation","correct":false}
+  ]
+},
+{
+  "question": "Which factor is mainly responsible for the shielding effect in atoms?",
+  "answers": [
+    {"text":"Outer-shell electrons","correct":false},
+    {"text":"Inner-shell electrons","correct":true},
+    {"text":"Protons","correct":false},
+    {"text":"Neutrons","correct":false}
+  ]
+},
+{
+  "question": "Which of the following species is isoelectronic with Ne?",
+  "answers": [
+    {"text":"Na⁺","correct":true},
+    {"text":"Na","correct":false},
+    {"text":"Mg²⁺ and Na⁺","correct":false},
+    {"text":"Cl","correct":false}
+  ]
+},
+{
+  "question": "Which element has the smallest atomic radius?",
+  "answers": [
+    {"text":"Lithium","correct":false},
+    {"text":"Fluorine","correct":true},
+    {"text":"Sodium","correct":false},
+    {"text":"Potassium","correct":false}
+  ]
+},
+{
+  "question": "Which property generally increases down Group 1 of the periodic table?",
+  "answers": [
+    {"text":"Ionization energy","correct":false},
+    {"text":"Electronegativity","correct":false},
+    {"text":"Atomic radius","correct":true},
+    {"text":"Electron affinity","correct":false}
+  ]
+},
+{
+  "question": "Which statement about isotopes is correct?",
+  "answers": [
+    {"text":"They have different atomic numbers.","correct":false},
+    {"text":"They have the same chemical properties but different mass numbers.","correct":true},
+    {"text":"They contain different numbers of protons.","correct":false},
+    {"text":"They belong to different elements.","correct":false}
+  ]
+},
+{
+  "question": "Which statement best describes the modern atomic theory?",
+  "answers": [
+    {"text":"Electrons move in fixed circular orbits.","correct":false},
+    {"text":"Atoms are indivisible solid spheres.","correct":false},
+    {"text":"Electrons occupy orbitals where there is a high probability of finding them.","correct":true},
+    {"text":"The nucleus contains only protons.","correct":false}
+  ]
+}
+]
