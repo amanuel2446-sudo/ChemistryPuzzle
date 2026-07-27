@@ -269,3 +269,184 @@
     {"text":"Induced dipole force","correct":false}
   ]
 },
+{
+  "question": "The energy required to break one mole of a specific bond is called:",
+  "answers": [
+    {"text":"Ionization energy","correct":false},
+    {"text":"Bond energy","correct":true},
+    {"text":"Electron affinity","correct":false},
+    {"text":"Activation energy","correct":false}
+  ]
+},
+{
+  "question": "A stronger chemical bond generally has:",
+  "answers": [
+    {"text":"Lower bond energy","correct":false},
+    {"text":"Higher bond energy","correct":true},
+    {"text":"Longer bond length","correct":false},
+    {"text":"No electrons involved","correct":false}
+  ]
+},
+{
+  "question": "As bond length decreases, bond strength usually:",
+  "answers": [
+    {"text":"Decreases","correct":false},
+    {"text":"Increases","correct":true},
+    {"text":"Remains unchanged","correct":false},
+    {"text":"Becomes zero","correct":false}
+  ]
+},
+{
+  "question": "Which bond is shorter and stronger?",
+  "answers": [
+    {"text":"Single bond","correct":false},
+    {"text":"Double bond","correct":false},
+    {"text":"Triple bond","correct":true},
+    {"text":"Hydrogen bond","correct":false}
+  ]
+},
+{
+  "question": "Which molecule is nonpolar despite having polar bonds?",
+  "answers": [
+    {"text":"HCl","correct":false},
+    {"text":"NH₃","correct":false},
+    {"text":"CO₂","correct":true},
+    {"text":"H₂O","correct":false}
+  ]
+},
+{
+  "question": "The polarity of a molecule depends mainly on:",
+  "answers": [
+    {"text":"Only atomic mass","correct":false},
+    {"text":"Bond polarity and molecular shape","correct":true},
+    {"text":"Number of neutrons","correct":false},
+    {"text":"Melting point only","correct":false}
+  ]
+},
+{
+  "question": "Which intermolecular force exists between all molecules?",
+  "answers": [
+    {"text":"Hydrogen bonding","correct":false},
+    {"text":"London dispersion force","correct":true},
+    {"text":"Ionic bonding","correct":false},
+    {"text":"Metallic bonding","correct":false}
+  ]
+},
+{
+  "question": "London dispersion forces become stronger when molecules have:",
+  "answers": [
+    {"text":"Smaller size","correct":false},
+    {"text":"More electrons and larger size","correct":true},
+    {"text":"Lower mass always","correct":false},
+    {"text":"No electrons","correct":false}
+  ]
+},
+{
+  "question": "Which substance has hydrogen bonding?",
+  "answers": [
+    {"text":"CH₄","correct":false},
+    {"text":"H₂O","correct":true},
+    {"text":"CO₂","correct":false},
+    {"text":"Cl₂","correct":false}
+  ]
+},
+{
+  "question": "The main force holding metal atoms together is:",
+  "answers": [
+    {"text":"Ionic attraction","correct":false},
+    {"text":"Metallic bonding","correct":true},
+    {"text":"Hydrogen bonding","correct":false},
+    {"text":"Dipole forces","correct":false}
+  ]
+},
+{
+  "question": "Metallic bonding is explained by:",
+  "answers": [
+    {"text":"Sharing of fixed electron pairs","correct":false},
+    {"text":"A sea of delocalized electrons","correct":true},
+    {"text":"Transfer of neutrons","correct":false},
+    {"text":"Hydrogen attraction","correct":false}
+  ]
+},
+{
+  "question": "Which property is characteristic of metals due to metallic bonding?",
+  "answers": [
+    {"text":"Poor electrical conductivity","correct":false},
+    {"text":"Electrical conductivity","correct":true},
+    {"text":"Brittleness only","correct":false},
+    {"text":"Low melting point always","correct":false}
+  ]
+},
+{
+  "question": "Which compound contains both ionic and covalent bonds?",
+  "answers": [
+    {"text":"NaCl","correct":false},
+    {"text":"NH₄Cl","correct":true},
+    {"text":"H₂","correct":false},
+    {"text":"Cl₂","correct":false}
+  ]
+},
+{
+  "question": "The bond between atoms with identical electronegativity values is:",
+  "answers": [
+    {"text":"Ionic","correct":false},
+    {"text":"Nonpolar covalent","correct":true},
+    {"text":"Polar covalent","correct":false},
+    {"text":"Metallic","correct":false}
+  ]
+},
+{
+  "question": "Which molecule has a bent shape due to lone pairs?",
+  "answers": [
+    {"text":"CO₂","correct":false},
+    {"text":"H₂O","correct":true},
+    {"text":"BF₃","correct":false},
+    {"text":"CH₄","correct":false}
+  ]
+},
+{
+  "question": "Which bond type involves attraction between positive metal ions and free electrons?",
+  "answers": [
+    {"text":"Covalent bond","correct":false},
+    {"text":"Metallic bond","correct":true},
+    {"text":"Hydrogen bond","correct":false},
+    {"text":"Coordinate bond","correct":false}
+  ]
+},
+{
+  "question": "Which molecule contains a triple bond?",
+  "answers": [
+    {"text":"O₂","correct":false},
+    {"text":"N₂","correct":true},
+    {"text":"H₂","correct":false},
+    {"text":"Cl₂","correct":false}
+  ]
+},
+{
+  "question": "A molecule with an uneven distribution of charge is called:",
+  "answers": [
+    {"text":"Nonpolar molecule","correct":false},
+    {"text":"Polar molecule","correct":true},
+    {"text":"Neutral atom","correct":false},
+    {"text":"Isotope","correct":false}
+  ]
+},
+{
+  "question": "Which factor increases the strength of ionic bonding?",
+  "answers": [
+    {"text":"Large distance between ions","correct":false},
+    {"text":"High charge and small ionic size","correct":true},
+    {"text":"Low attraction between ions","correct":false},
+    {"text":"Equal sharing of electrons","correct":false}
+  ]
+},
+{
+  "question": "Which statement about chemical bonds is correct?",
+  "answers": [
+    {"text":"Bonds form because atoms become more stable","correct":true},
+    {"text":"Bonds destroy all electrons","correct":false},
+    {"text":"Only metals form bonds","correct":false},
+    {"text":"Noble gases always form many bonds","correct":false}
+  ]
+}
+]
