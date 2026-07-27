@@ -399,5 +399,105 @@
     ],
     "answer": "A"
   },
-  
+  {
+    "question": "Which of the following is a transition metal compound?",
+    "options": [
+      "A) NaCl",
+      "B) CuSO4",
+      "C) KNO3",
+      "D) CaCO3"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the chemical formula of magnesium oxide?",
+    "options": [
+      "A) MgO",
+      "B) Mg(OH)2",
+      "C) MgCl2",
+      "D) MgCO3"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which salt is insoluble in water?",
+    "options": [
+      "A) NaCl",
+      "B) KNO3",
+      "C) AgCl",
+      "D) NH4Cl"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which compound is used to neutralize acidic soil?",
+    "options": [
+      "A) CaCO3",
+      "B) HCl",
+      "C) H2SO4",
+      "D) CO2"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is a basic oxide?",
+    "options": [
+      "A) SO2",
+      "B) CO2",
+      "C) CaO",
+      "D) NO2"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is the formula of aluminum oxide?",
+    "options": [
+      "A) AlO",
+      "B) Al2O3",
+      "C) Al(OH)3",
+      "D) AlCl3"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which process is used to obtain pure crystals of salts from solutions?",
+    "options": [
+      "A) Filtration",
+      "B) Crystallization",
+      "C) Distillation",
+      "D) Sublimation"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is a strong alkali?",
+    "options": [
+      "A) KOH",
+      "B) NH4OH",
+      "C) Al(OH)3",
+      "D) Cu(OH)2"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which compound is used in making cement?",
+    "options": [
+      "A) CaCO3",
+      "B) NaCl",
+      "C) HNO3",
+      "D) KOH"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which statement about inorganic salts is correct?",
+    "options": [
+      "A) They are usually ionic compounds",
+      "B) They always contain carbon",
+      "C) They cannot dissolve in water",
+      "D) They are all acids"
+    ],
+    "answer": "A"
+  }
+  ]
 
