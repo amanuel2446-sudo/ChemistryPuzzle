@@ -60,7 +60,65 @@ h1{
 }
 
 /* Answer Buttons Container */
+/* Answer Button Container */
 
+#answer-buttons{
+    display:flex;
+    flex-direction:column;   /* Vertical layout */
+    width:100%;
+    gap:20px;                /* Large gap between buttons */
+    margin-top:25px;
+    margin-bottom:20px;
+}
+
+/* Answer Buttons */
+
+.btn{
+    display:flex;
+    align-items:center;
+
+    width:100%;
+    min-height:65px;
+
+    padding:18px 22px;
+
+    background:#ffffff;
+
+    border:3px solid #1976d2;
+
+    border-radius:20px;      /* Rounded corners */
+
+    font-size:18px;
+    font-weight:600;
+
+    color:#222;
+
+    text-align:left;
+
+    cursor:pointer;
+
+    transition:0.3s ease;
+
+    box-shadow:0 4px 10px rgba(0,0,0,0.15);
+}
+
+.btn:hover:not(:disabled){
+    background:#e3f2fd;
+    transform:translateY(-2px);
+    box-shadow:0 8px 18px rgba(0,0,0,0.2);
+}
+
+.btn.correct{
+    background:#4CAF50 !important;
+    color:#fff !important;
+    border-color:#4CAF50 !important;
+}
+
+.btn.wrong{
+    background:#F44336 !important;
+    color:#fff !important;
+    border-color:#F44336 !important;
+}
 
 /* Correct */
 
