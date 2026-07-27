@@ -297,8 +297,70 @@ function updateScore(){
 
 }
 
+function restartGame(){
+
+    // Stop old timer
+    clearInterval(timerInterval);
 
 
+    // Clear old questions
+    questions = [];
+
+
+    // Reset all game data
+    selectedLevel = "";
+
+    currentQuestion = 0;
+
+    score = 0;
+
+    lives = 3;
+
+    answered = false;
+
+    examStarted = false;
+
+
+    // Reset timer
+    timer = 3000;
+
+
+
+    // Restore original game area
+    gameArea.innerHTML = `
+
+        <h2 id="question">
+        Press START EXAM
+        </h2>
+
+    `;
+
+
+
+    // Show level selection again
+    gameArea.style.display = "none";
+
+    levelSelect.style.display = "block";
+
+
+
+    // Reset start button
+    startBtn.style.display = "inline-block";
+
+    startBtn.disabled = false;
+
+    startBtn.innerHTML =
+    "▶ START EXAM";
+
+    startBtn.onclick = startGame;
+
+
+
+    timerElement.innerHTML =
+    "⏱ 50:00";
+
+
+    updateScore();
 
 }
 
