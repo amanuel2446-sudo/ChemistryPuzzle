@@ -179,4 +179,94 @@
     {"text":"Benzene","correct":false}
   ]
 },
+{
+  "question": "The main product formed when methane burns completely in oxygen is:",
+  "answers": [
+    {"text":"Carbon monoxide and water","correct":false},
+    {"text":"Carbon dioxide and water","correct":true},
+    {"text":"Carbon and hydrogen","correct":false},
+    {"text":"Methanol","correct":false}
+  ]
+},
+{
+  "question": "Incomplete combustion of hydrocarbons produces:",
+  "answers": [
+    {"text":"Only carbon dioxide","correct":false},
+    {"text":"Carbon monoxide and/or carbon soot","correct":true},
+    {"text":"Oxygen only","correct":false},
+    {"text":"Nitrogen gas","correct":false}
+  ]
+},
+{
+  "question": "The reaction of alkanes with halogens in the presence of light is called:",
+  "answers": [
+    {"text":"Addition reaction","correct":false},
+    {"text":"Substitution reaction","correct":true},
+    {"text":"Neutralization reaction","correct":false},
+    {"text":"Polymerization reaction","correct":false}
+  ]
+},
+{
+  "question": "Alkenes usually undergo:",
+  "answers": [
+    {"text":"Substitution reactions","correct":false},
+    {"text":"Addition reactions","correct":true},
+    {"text":"Decomposition reactions","correct":false},
+    {"text":"Redox reactions only","correct":false}
+  ]
+},
+{
+  "question": "The addition of hydrogen to an alkene is called:",
+  "answers": [
+    {"text":"Hydration","correct":false},
+    {"text":"Hydrogenation","correct":true},
+    {"text":"Halogenation","correct":false},
+    {"text":"Oxidation","correct":false}
+  ]
+},
+{
+  "question": "Ethene reacts with bromine water because ethene contains:",
+  "answers": [
+    {"text":"A single bond","correct":false},
+    {"text":"A double bond","correct":true},
+    {"text":"An ionic bond","correct":false},
+    {"text":"A benzene ring","correct":false}
+  ]
+},
+{
+  "question": "The test used to distinguish alkenes from alkanes is:",
+  "answers": [
+    {"text":"Litmus test","correct":false},
+    {"text":"Bromine water test","correct":true},
+    {"text":"Flame test","correct":false},
+    {"text":"pH test","correct":false}
+  ]
+},
+{
+  "question": "The physical state of methane at room temperature is:",
+  "answers": [
+    {"text":"Solid","correct":false},
+    {"text":"Liquid","correct":false},
+    {"text":"Gas","correct":true},
+    {"text":"Aqueous solution","correct":false}
+  ]
+},
+{
+  "question": "As the number of carbon atoms in an alkane increases, its boiling point generally:",
+  "answers": [
+    {"text":"Decreases","correct":false},
+    {"text":"Increases","correct":true},
+    {"text":"Becomes zero","correct":false},
+    {"text":"Remains exactly constant","correct":false}
+  ]
+},
+{
+  "question": "Which compound is an unsaturated hydrocarbon?",
+  "answers": [
+    {"text":"C₂H₆","correct":false},
+    {"text":"C₃H₈","correct":false},
+    {"text":"C₂H₄","correct":true},
+    {"text":"CH₄","correct":false}
+  ]
+},
 
