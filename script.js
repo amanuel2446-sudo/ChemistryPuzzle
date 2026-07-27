@@ -298,27 +298,9 @@ function updateScore(){
 }
 
 
-// ------------------------------------------------------
-// Reset Game
-// ------------------------------------------------------
-function resetGame(){
 
-    score = 0;
-    lives = 3;
-    currentQuestion = 0;
-    answered = false;
-
-    timer = 3000;
-
-    clearInterval(timerInterval);
 
 }
-// ======================================================
-// CHEMISTRY PUZZLE
-// ADVANCED SCRIPT.JS
-// PART 2
-// ======================================================
-
 
 // ------------------------------------------------------
 // Show Question
