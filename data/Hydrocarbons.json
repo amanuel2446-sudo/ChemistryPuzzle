@@ -1,1 +1,92 @@
-
+[
+  {
+    "question": "Hydrocarbons are organic compounds that contain only:",
+    "answers": [
+      {"text":"Carbon and hydrogen","correct":true},
+      {"text":"Carbon and oxygen","correct":false},
+      {"text":"Hydrogen and oxygen","correct":false},
+      {"text":"Carbon and nitrogen","correct":false}
+    ]
+  },
+  {
+    "question": "Which of the following is a saturated hydrocarbon?",
+    "answers": [
+      {"text":"Alkene","correct":false},
+      {"text":"Alkyne","correct":false},
+      {"text":"Alkane","correct":true},
+      {"text":"Aromatic compound","correct":false}
+    ]
+  },
+  {
+    "question": "The general formula of alkanes is:",
+    "answers": [
+      {"text":"CₙH₂ₙ","correct":false},
+      {"text":"CₙH₂ₙ₊₂","correct":true},
+      {"text":"CₙH₂ₙ₋₂","correct":false},
+      {"text":"CₙHₙ","correct":false}
+    ]
+  },
+  {
+    "question": "The general formula of alkenes is:",
+    "answers": [
+      {"text":"CₙH₂ₙ₊₂","correct":false},
+      {"text":"CₙH₂ₙ","correct":true},
+      {"text":"CₙH₂ₙ₋₂","correct":false},
+      {"text":"CₙHₙ₊₂","correct":false}
+    ]
+  },
+  {
+    "question": "The general formula of alkynes is:",
+    "answers": [
+      {"text":"CₙH₂ₙ₊₂","correct":false},
+      {"text":"CₙH₂ₙ","correct":false},
+      {"text":"CₙH₂ₙ₋₂","correct":true},
+      {"text":"CₙHₙ","correct":false}
+    ]
+  },
+  {
+    "question": "The simplest alkane is:",
+    "answers": [
+      {"text":"Ethane","correct":false},
+      {"text":"Methane","correct":true},
+      {"text":"Propane","correct":false},
+      {"text":"Butane","correct":false}
+    ]
+  },
+  {
+    "question": "The molecular formula of methane is:",
+    "answers": [
+      {"text":"CH₄","correct":true},
+      {"text":"C₂H₆","correct":false},
+      {"text":"C₃H₈","correct":false},
+      {"text":"C₂H₄","correct":false}
+    ]
+  },
+  {
+    "question": "The simplest alkene is:",
+    "answers": [
+      {"text":"Methene","correct":false},
+      {"text":"Ethene","correct":true},
+      {"text":"Propene","correct":false},
+      {"text":"Ethyne","correct":false}
+    ]
+  },
+  {
+    "question": "The simplest alkyne is:",
+    "answers": [
+      {"text":"Ethyne","correct":true},
+      {"text":"Ethene","correct":false},
+      {"text":"Methane","correct":false},
+      {"text":"Propane","correct":false}
+    ]
+  },
+  {
+    "question": "Which type of bond is present in alkenes?",
+    "answers": [
+      {"text":"Only single bonds","correct":false},
+      {"text":"At least one double bond","correct":true},
+      {"text":"At least one triple bond","correct":false},
+      {"text":"Only ionic bonds","correct":false}
+    ]
+  },
+  
