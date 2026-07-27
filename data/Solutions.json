@@ -399,5 +399,105 @@
     ],
     "answer": "C"
   },
-  
+  {
+    "question": "A solution is prepared by dissolving 0.50 mol of NaCl in water to make 250 mL of solution. What is the molarity of the solution?",
+    "options": [
+      "A) 0.25 M",
+      "B) 0.50 M",
+      "C) 2.00 M",
+      "D) 4.00 M"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "According to Henry's law, the solubility of a gas in a liquid increases when:",
+    "options": [
+      "A) Temperature increases",
+      "B) Pressure decreases",
+      "C) Pressure increases",
+      "D) The solvent evaporates"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which factor has the greatest effect on the solubility of most solid solutes in water?",
+    "options": [
+      "A) Pressure",
+      "B) Temperature",
+      "C) Density",
+      "D) Volume"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which solution has the highest concentration?",
+    "options": [
+      "A) 0.10 M",
+      "B) 0.50 M",
+      "C) 1.00 M",
+      "D) 2.00 M"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "The graph showing the relationship between temperature and the amount of solute that dissolves is called:",
+    "options": [
+      "A) Heating curve",
+      "B) Cooling curve",
+      "C) Solubility curve",
+      "D) Titration curve"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "A solution that contains undissolved solute in equilibrium with dissolved solute is:",
+    "options": [
+      "A) Dilute",
+      "B) Unsaturated",
+      "C) Saturated",
+      "D) Supersaturated"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which property depends only on the number of dissolved particles, not on their identity?",
+    "options": [
+      "A) Color",
+      "B) Density",
+      "C) Colligative property",
+      "D) Viscosity"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Adding a nonvolatile solute to pure water causes its vapor pressure to:",
+    "options": [
+      "A) Increase",
+      "B) Decrease",
+      "C) Remain unchanged",
+      "D) Become zero"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following methods is most suitable for preparing a dilute solution from a concentrated one?",
+    "options": [
+      "A) Heating",
+      "B) Filtration",
+      "C) Dilution by adding solvent",
+      "D) Evaporation"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which statement about solutions is correct?",
+    "options": [
+      "A) Solutions are always heterogeneous mixtures",
+      "B) The solute is always a solid",
+      "C) Solutions are homogeneous mixtures",
+      "D) The solvent is always water"
+    ],
+    "answer": "C"
+  }
+  ]
 
