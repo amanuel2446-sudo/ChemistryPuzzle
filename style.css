@@ -42,24 +42,8 @@ h1{
     line-height:1.5;
 }
 
-#answer-buttons{
-    display:flex;
-    flex-direction:column;
-    gap:14px;
-}
 
-.btn{
-    width:100%;
-    padding:16px;
-    font-size:17px;
-    border:none;
-    border-radius:12px;
-    background:#f4f7fb;
-    color:#222;
-    cursor:pointer;
-    text-align:left;
-    transition:.25s;
-}
+    
 
 .btn:hover:not([disabled]){
     background:#d6e8ff;
