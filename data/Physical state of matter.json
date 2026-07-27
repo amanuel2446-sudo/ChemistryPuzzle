@@ -199,5 +199,204 @@
     ],
     "answer": "C"
   },
-  
+  {
+    "question": "Which gas law states that pressure is directly proportional to absolute temperature at constant volume?",
+    "options": [
+      "A) Boyle's law",
+      "B) Charles's law",
+      "C) Gay-Lussac's law",
+      "D) Avogadro's law"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Avogadro's law states that the volume of a gas is directly proportional to:",
+    "options": [
+      "A) Pressure",
+      "B) Temperature",
+      "C) Number of moles",
+      "D) Density"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "The ideal gas equation is:",
+    "options": [
+      "A) PV = nRT",
+      "B) P = V/T",
+      "C) PV = RT",
+      "D) P/T = n"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "In the ideal gas equation, R represents:",
+    "options": [
+      "A) Gas density",
+      "B) Universal gas constant",
+      "C) Gas pressure",
+      "D) Relative density"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "At constant temperature, increasing the pressure of a gas causes its volume to:",
+    "options": [
+      "A) Increase",
+      "B) Decrease",
+      "C) Remain constant",
+      "D) Become zero"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which gas law explains the expansion of a balloon when heated?",
+    "options": [
+      "A) Boyle's law",
+      "B) Charles's law",
+      "C) Graham's law",
+      "D) Dalton's law"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Diffusion is the movement of particles from:",
+    "options": [
+      "A) Low concentration to high concentration",
+      "B) High concentration to low concentration",
+      "C) High pressure to low pressure only",
+      "D) Cold region to hot region only"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Effusion is the process by which a gas:",
+    "options": [
+      "A) Dissolves in water",
+      "B) Escapes through a tiny opening",
+      "C) Changes into a liquid",
+      "D) Reacts with oxygen"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "According to Graham's law, lighter gases diffuse:",
+    "options": [
+      "A) More slowly",
+      "B) At the same rate",
+      "C) More rapidly",
+      "D) Only under pressure"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which gas diffuses faster?",
+    "options": [
+      "A) Oxygen (O2)",
+      "B) Carbon dioxide (CO2)",
+      "C) Hydrogen (H2)",
+      "D) Nitrogen (N2)"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Real gases differ from ideal gases because real gas molecules:",
+    "options": [
+      "A) Have no volume",
+      "B) Experience intermolecular forces",
+      "C) Have no mass",
+      "D) Never collide"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Ideal gases behave most ideally at:",
+    "options": [
+      "A) High pressure and low temperature",
+      "B) Low pressure and high temperature",
+      "C) High pressure and high temperature",
+      "D) Low pressure and low temperature"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The average kinetic energy of gas particles depends only on:",
+    "options": [
+      "A) Pressure",
+      "B) Volume",
+      "C) Temperature",
+      "D) Mass"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following has the lowest density under the same conditions?",
+    "options": [
+      "A) Solid",
+      "B) Liquid",
+      "C) Gas",
+      "D) Plasma"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which state of matter flows but has a fixed volume?",
+    "options": [
+      "A) Solid",
+      "B) Liquid",
+      "C) Gas",
+      "D) Plasma"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What happens to the kinetic energy of particles when temperature decreases?",
+    "options": [
+      "A) It increases",
+      "B) It decreases",
+      "C) It remains constant",
+      "D) It becomes zero immediately"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which process releases heat to the surroundings?",
+    "options": [
+      "A) Melting",
+      "B) Vaporization",
+      "C) Condensation",
+      "D) Sublimation"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which phase change absorbs heat from the surroundings?",
+    "options": [
+      "A) Freezing",
+      "B) Condensation",
+      "C) Melting",
+      "D) Deposition"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "The boiling point of a liquid increases when:",
+    "options": [
+      "A) External pressure increases",
+      "B) External pressure decreases",
+      "C) Temperature decreases",
+      "D) The liquid freezes"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which statement about gases is correct?",
+    "options": [
+      "A) Gas particles have fixed positions",
+      "B) Gas particles are closely packed",
+      "C) Gas particles move randomly in all directions",
+      "D) Gas particles cannot be compressed"
+    ],
+    "answer": "C"
+  },
   
