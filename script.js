@@ -1096,3 +1096,350 @@ function highlightWrong(index){
 
 
 }
+// ======================================================
+// CHEMISTRY PUZZLE GAME
+// ADVANCED SCRIPT.JS
+// SECTION 3
+// ======================================================
+
+
+
+// ------------------------------------------------------
+// Finish Exam
+// ------------------------------------------------------
+function finishExam(){
+
+
+    clearInterval(timerInterval);
+
+
+
+    bgMusic.pause();
+
+    bgMusic.currentTime = 0;
+
+
+
+    examStarted = false;
+
+
+
+    let total =
+    questions.length;
+
+
+
+    let percentage = 0;
+
+
+
+    if(total > 0){
+
+        percentage =
+        Math.round(
+        (score / total) * 100
+        );
+
+    }
+
+
+
+    let grade = "";
+
+
+
+    if(percentage >= 90){
+
+        grade = "A+ 🏆";
+
+    }
+
+    else if(percentage >= 80){
+
+        grade = "A ⭐";
+
+    }
+
+    else if(percentage >= 70){
+
+        grade = "B 👍";
+
+    }
+
+    else if(percentage >= 60){
+
+        grade = "C";
+
+    }
+
+    else{
+
+        grade = "Needs Practice 📚";
+
+    }
+
+
+
+
+    resultArea.innerHTML = `
+
+    <h2>🎉 Exam Finished</h2>
+
+    <p>📚 Level: ${selectedLevel}</p>
+
+    <p>⭐ Score: ${score}/${total}</p>
+
+    <p>📊 Percentage: ${percentage}%</p>
+
+    <p>🏅 Grade: ${grade}</p>
+
+    `;
+
+
+
+    question.innerHTML =
+
+    "Exam Completed";
+
+
+
+    progress.innerHTML =
+
+    "Finished";
+
+
+
+    disableButtons();
+
+
+
+    saveBestScore();
+
+
+
+    sendScoreToTelegram(
+        score,
+        percentage
+    );
+
+
+
+    backBtn.style.display =
+    "inline-block";
+
+
+
+}
+
+
+
+// ------------------------------------------------------
+// Back To Select Another Level
+// ------------------------------------------------------
+backBtn.onclick = function(){
+
+
+    clearInterval(timerInterval);
+
+
+
+    bgMusic.pause();
+
+    bgMusic.currentTime = 0;
+
+
+
+    // Reset everything
+    questions = [];
+
+    currentQuestion = 0;
+
+    score = 0;
+
+    lives = 3;
+
+    answered = false;
+
+    examStarted = false;
+
+    selectedLevel = "";
+
+    timer = 2400;
+
+
+
+    // Hide game
+    gameArea.style.display =
+    "none";
+
+
+
+    // Show levels
+    levelSelect.style.display =
+    "block";
+
+
+
+    // Reset display
+
+    question.innerHTML =
+    "Press START EXAM";
+
+
+
+    questionNumber.innerHTML =
+    "Select a Level to Begin";
+
+
+
+    progress.innerHTML =
+    "Question 0 / 0";
+
+
+
+    timerElement.innerHTML =
+    "⏱ 40:00";
+
+
+
+    resultArea.innerHTML =
+    "";
+
+
+
+    backBtn.style.display =
+    "none";
+
+
+
+    startBtn.style.display =
+    "inline-block";
+
+
+
+    startBtn.disabled = false;
+
+
+
+    resetButtons();
+
+
+
+    updateScore();
+
+
+
+};
+
+
+
+// ------------------------------------------------------
+// Send Score To Telegram
+// ------------------------------------------------------
+function sendScoreToTelegram(
+    finalScore,
+    percentage
+){
+
+
+    if(tg){
+
+
+        tg.sendData(
+        JSON.stringify({
+
+            game:
+            "Chemistry Puzzle",
+
+            level:
+            selectedLevel,
+
+            score:
+            finalScore,
+
+            percentage:
+            percentage
+
+        })
+        );
+
+
+    }
+
+
+}
+
+
+
+// ------------------------------------------------------
+// Save Best Score
+// ------------------------------------------------------
+function saveBestScore(){
+
+
+    let best =
+    localStorage.getItem(
+    "chemistryBestScore"
+    );
+
+
+
+    if(
+        !best ||
+        score > Number(best)
+    ){
+
+
+        localStorage.setItem(
+            "chemistryBestScore",
+            score
+        );
+
+
+    }
+
+
+}
+
+
+
+// ------------------------------------------------------
+// Get Best Score
+// ------------------------------------------------------
+function getBestScore(){
+
+
+    return Number(
+
+        localStorage.getItem(
+        "chemistryBestScore"
+        )
+        || 0
+
+    );
+
+
+}
+
+
+
+// ------------------------------------------------------
+// Initialize Game
+// ------------------------------------------------------
+window.onload = function(){
+
+
+    updateScore();
+
+
+    // Hide buttons before exam
+    btnA.style.display = "none";
+
+    btnB.style.display = "none";
+
+    btnC.style.display = "none";
+
+    btnD.style.display = "none";
+
+
+};
