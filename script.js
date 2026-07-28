@@ -308,3 +308,420 @@ function selectLevel(level){
 
 
 }
+// ======================================================
+// CHEMISTRY PUZZLE GAME
+// ADVANCED SCRIPT.JS
+// SECTION 1B
+// ======================================================
+
+
+// ------------------------------------------------------
+// Start Exam
+// ------------------------------------------------------
+async function startGame(){
+
+
+    if(examStarted) return;
+
+
+
+    examStarted = true;
+
+
+    startBtn.disabled = true;
+
+
+    startBtn.style.display =
+    "none";
+
+
+
+    // Reset current exam
+    currentQuestion = 0;
+
+    score = 0;
+
+    lives = 3;
+
+    answered = false;
+
+    timer = 2400;
+
+
+
+    updateScore();
+
+
+
+    const loaded =
+    await loadQuestions();
+
+
+
+    if(!loaded){
+
+
+        examStarted = false;
+
+
+        startBtn.style.display =
+        "inline-block";
+
+
+        startBtn.disabled = false;
+
+
+        return;
+
+
+    }
+
+
+
+    // Show answer buttons
+    btnA.style.display = "block";
+    btnB.style.display = "block";
+    btnC.style.display = "block";
+    btnD.style.display = "block";
+
+
+
+    // Start music
+    bgMusic.play()
+    .catch(()=>{});
+
+
+
+    startTimer();
+
+
+
+    showQuestion();
+
+
+
+}
+
+
+
+// ------------------------------------------------------
+// Load Questions From JSON
+// ------------------------------------------------------
+async function loadQuestions(){
+
+
+    let file = "";
+
+
+
+    switch(selectedLevel){
+
+
+        case "equilibrium":
+
+            file =
+            "data/equilibrium.json";
+
+            break;
+
+
+
+        case "kinetics":
+
+            file =
+            "data/kinetics.json";
+
+            break;
+
+
+
+        case "electrochemistry":
+
+            file =
+            "data/electrochemistry.json";
+
+            break;
+
+
+
+        case "Oxygen containing organic compounds":
+
+            file =
+            "data/Oxygen containing organic compounds.json";
+
+            break;
+
+
+
+        case "Inorganic compounds":
+
+            file =
+            "data/Inorganic compounds.json";
+
+            break;
+
+
+
+        case "Atomic theory and structure":
+
+            file =
+            "data/Atomic theory and structure.json";
+
+            break;
+
+
+
+        case "Chemical bonds":
+
+            file =
+            "data/Chemical bonds.json";
+
+            break;
+
+
+
+        case "Hydrocarbons":
+
+            file =
+            "data/Hydrocarbons.json";
+
+            break;
+
+
+
+        case "Physical state of matter":
+
+            file =
+            "data/Physical state of matter.json";
+
+            break;
+
+
+
+        case "Solutions":
+
+            file =
+            "data/Solutions.json";
+
+            break;
+
+
+
+        default:
+
+
+            alert(
+            "Please select a level."
+            );
+
+
+            return false;
+
+    }
+
+
+
+    try{
+
+
+        const response =
+        await fetch(file);
+
+
+
+        if(!response.ok){
+
+
+            throw new Error(
+            "JSON file not found: " + file
+            );
+
+
+        }
+
+
+
+        questions =
+        await response.json();
+
+
+
+        if(
+            !Array.isArray(questions)
+            ||
+            questions.length === 0
+        ){
+
+
+            throw new Error(
+            "No questions available."
+            );
+
+
+        }
+
+
+
+        shuffleQuestions();
+
+
+
+        return true;
+
+
+
+    }
+
+
+    catch(error){
+
+
+        console.error(error);
+
+
+        alert(
+        "Unable to load questions."
+        );
+
+
+        return false;
+
+
+    }
+
+
+
+}
+
+
+
+// ------------------------------------------------------
+// Shuffle Questions
+// ------------------------------------------------------
+function shuffleQuestions(){
+
+
+    for(
+        let i = questions.length - 1;
+        i > 0;
+        i--
+    ){
+
+
+        let j =
+        Math.floor(
+        Math.random() * (i + 1)
+        );
+
+
+
+        [
+            questions[i],
+            questions[j]
+        ]
+        =
+        [
+            questions[j],
+            questions[i]
+        ];
+
+
+    }
+
+
+}
+
+
+
+// ------------------------------------------------------
+// 40 Minute Timer
+// ------------------------------------------------------
+function startTimer(){
+
+
+    clearInterval(timerInterval);
+
+
+
+    timerInterval =
+    setInterval(()=>{
+
+
+        timer--;
+
+
+
+        let minutes =
+        Math.floor(timer / 60);
+
+
+
+        let seconds =
+        timer % 60;
+
+
+
+        timerElement.innerHTML =
+
+        "⏱ " +
+
+        String(minutes)
+        .padStart(2,"0")
+
+        +
+
+        ":"
+
+        +
+
+        String(seconds)
+        .padStart(2,"0");
+
+
+
+        if(timer <= 0){
+
+
+            clearInterval(timerInterval);
+
+
+            finishExam();
+
+
+        }
+
+
+
+    },1000);
+
+
+
+}
+
+
+
+// ------------------------------------------------------
+// Update Score Display
+// ------------------------------------------------------
+function updateScore(){
+
+
+    scoreElement.innerHTML =
+
+
+    "⭐ Score: "
+    + score
+
+    +
+
+    " | ❤️ Lives: "
+    + lives
+
+    +
+
+    " | 📚 Level: "
+    + selectedLevel;
+
+
+
+}
