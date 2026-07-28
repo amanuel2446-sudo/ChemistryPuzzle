@@ -194,3 +194,49 @@ function selectLevel(level){
     updateScore();
 
 }
+switch(selectedLevel){
+
+    case "equilibrium":
+        file = "data/equilibrium.json";
+        break;
+
+    case "kinetics":
+        file = "data/kinetics.json";
+        break;
+
+    case "electrochemistry":
+        file = "data/electrochemistry.json";
+        break;
+
+    case "Oxygen containing organic compounds":
+        file = "data/Oxygen containing organic compounds.json";
+        break;
+
+    case "Inorganic compounds":
+        file = "data/Inorganic compounds.json";
+        break;
+
+    case "Atomic theory and structure":
+        file = "data/Atomic theory and structure.json";
+        break;
+
+    case "Chemical bonds":
+        file = "data/Chemical bonds.json";
+        break;
+
+    case "Hydrocarbons":
+        file = "data/Hydrocarbons.json";
+        break;
+
+    case "Physical state of matter":
+        file = "data/Physical state of matter.json";
+        break;
+
+    case "Solutions":
+        file = "data/Solutions.json";
+        break;
+
+    default:
+        alert("Please select a level.");
+        return false;
+}
