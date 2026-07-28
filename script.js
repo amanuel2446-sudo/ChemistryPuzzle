@@ -725,3 +725,374 @@ function updateScore(){
 
 
 }
+// ======================================================
+// CHEMISTRY PUZZLE GAME
+// ADVANCED SCRIPT.JS
+// SECTION 2
+// ======================================================
+
+
+
+// ------------------------------------------------------
+// Show Question
+// ------------------------------------------------------
+function showQuestion(){
+
+
+    if(!examStarted) return;
+
+
+
+    // Finish when all questions are completed
+    if(currentQuestion >= questions.length){
+
+
+        finishExam();
+
+        return;
+
+
+    }
+
+
+
+    answered = false;
+
+
+
+    resetButtons();
+
+
+    enableButtons();
+
+
+
+    let q =
+    questions[currentQuestion];
+
+
+
+    questionNumber.innerHTML =
+
+    "📚 Level: "
+    + selectedLevel;
+
+
+
+    progress.innerHTML =
+
+    "Question "
+    + (currentQuestion + 1)
+
+    +
+
+    " / "
+
+    +
+
+    questions.length;
+
+
+
+    question.innerHTML =
+    q.question;
+
+
+
+    btnA.innerHTML =
+    q.options[0];
+
+
+    btnB.innerHTML =
+    q.options[1];
+
+
+    btnC.innerHTML =
+    q.options[2];
+
+
+    btnD.innerHTML =
+    q.options[3];
+
+
+
+}
+
+
+
+// ------------------------------------------------------
+// Button Click Events
+// ------------------------------------------------------
+btnA.onclick = ()=>{
+
+    checkAnswer(0);
+
+};
+
+
+btnB.onclick = ()=>{
+
+    checkAnswer(1);
+
+};
+
+
+btnC.onclick = ()=>{
+
+    checkAnswer(2);
+
+};
+
+
+btnD.onclick = ()=>{
+
+    checkAnswer(3);
+
+};
+
+
+
+// ------------------------------------------------------
+// Check Answer
+// ------------------------------------------------------
+function checkAnswer(selected){
+
+
+
+    // Prevent double click
+    if(answered) return;
+
+
+
+    answered = true;
+
+
+
+    let correct =
+
+    questions[currentQuestion].answer;
+
+
+
+    disableButtons();
+
+
+
+    if(selected === correct){
+
+
+        score++;
+
+
+        correctSound.play()
+        .catch(()=>{});
+
+
+        highlightCorrect(selected);
+
+
+
+    }
+
+
+    else{
+
+
+        lives--;
+
+
+        wrongSound.play()
+        .catch(()=>{});
+
+
+        highlightWrong(selected);
+
+
+        highlightCorrect(correct);
+
+
+
+    }
+
+
+
+    updateScore();
+
+
+
+
+    // Move to next question
+    setTimeout(()=>{
+
+
+
+        currentQuestion++;
+
+
+
+        if(lives <= 0){
+
+
+
+            finishExam();
+
+
+
+        }
+
+        else{
+
+
+            showQuestion();
+
+
+        }
+
+
+
+    },1200);
+
+
+
+}
+
+
+
+// ------------------------------------------------------
+// Disable Buttons
+// ------------------------------------------------------
+function disableButtons(){
+
+
+    btnA.disabled = true;
+
+    btnB.disabled = true;
+
+    btnC.disabled = true;
+
+    btnD.disabled = true;
+
+
+}
+
+
+
+// ------------------------------------------------------
+// Enable Buttons
+// ------------------------------------------------------
+function enableButtons(){
+
+
+    btnA.disabled = false;
+
+    btnB.disabled = false;
+
+    btnC.disabled = false;
+
+    btnD.disabled = false;
+
+
+}
+
+
+
+// ------------------------------------------------------
+// Reset Button Colors
+// ------------------------------------------------------
+function resetButtons(){
+
+
+    let buttons = [
+
+        btnA,
+        btnB,
+        btnC,
+        btnD
+
+    ];
+
+
+
+    buttons.forEach(btn=>{
+
+
+        btn.classList.remove(
+            "correct",
+            "wrong"
+        );
+
+
+
+    });
+
+
+
+}
+
+
+
+// ------------------------------------------------------
+// Highlight Correct Answer
+// ------------------------------------------------------
+function highlightCorrect(index){
+
+
+
+    let buttons = [
+
+        btnA,
+        btnB,
+        btnC,
+        btnD
+
+    ];
+
+
+
+    if(buttons[index]){
+
+
+        buttons[index]
+        .classList
+        .add("correct");
+
+
+    }
+
+
+
+}
+
+
+
+// ------------------------------------------------------
+// Highlight Wrong Answer
+// ------------------------------------------------------
+function highlightWrong(index){
+
+
+
+    let buttons = [
+
+        btnA,
+        btnB,
+        btnC,
+        btnD
+
+    ];
+
+
+
+    if(buttons[index]){
+
+
+        buttons[index]
+        .classList
+        .add("wrong");
+
+
+    }
+
+
+
+}
