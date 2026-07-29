@@ -1,0 +1,252 @@
+[
+  {
+    "question": "Which of the following real gases will deviate most significantly from ideal behavior at extremely low temperatures and high pressures?",
+    "options": [
+      "A) Helium (He)",
+      "B) Hydrogen (H2)",
+      "C) Nitrogen (N2)",
+      "D) Ammonia (NH3)"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "According to Graham's Law of Effusion, if a given volume of methane gas (CH4) effuses through a pinhole in 20 seconds, how long will it take for the same volume of sulfur dioxide (SO2) to effuse under identical temperature and pressure conditions?",
+    "options": [
+      "A) 10 seconds",
+      "B) 20 seconds",
+      "C) 40 seconds",
+      "D) 80 seconds"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is the primary intermolecular factor that accounts for the unusually high surface tension, high specific heat capacity, and elevated boiling point of liquid water?",
+    "options": [
+      "A) Strong intramolecular covalent forces",
+      "B) Extensive network hydrogen bonding",
+      "C) High instantaneous dipole-induced dipole forces",
+      "D) Low equilibrium vapor pressure profile"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following materials is classified as an amorphous solid, lacking a long-range, repeating periodic crystalline arrangement?",
+    "options": [
+      "A) Quartz crystal (SiO2)",
+      "B) Quartz glass (fused silica)",
+      "C) Table salt (NaCl)",
+      "D) Diamond (C)"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "In the van der Waals equation for real gases, '[P + a(n/V)^2][V - nb] = nRT', what physical property of gas molecules does the correction constant 'a' represent?",
+    "options": [
+      "A) The finite volume occupied by individual gas molecules",
+      "B) The strength of attractive intermolecular forces between gas particles",
+      "C) The average kinetic energy distribution of the system",
+      "D) The structural collision frequency with the container walls"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the coordination number of a constituent particle in a metallic crystal lattice that packs in a face-centered cubic (fcc) closest-packed arrangement?",
+    "options": [
+      "A) 4",
+      "B) 6",
+      "C) 8",
+      "D) 12"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "At a pure substance's unique triple point on a pressure-temperature phase diagram, which of the following scenarios occurs?",
+    "options": [
+      "A) The liquid phase and gas phase become completely indistinguishable",
+      "B) Solid, liquid, and gas phases coexist simultaneously in dynamic equilibrium",
+      "C) The solid phase sublimates instantly into a high-energy plasma state",
+      "D) The critical temperature shifts inversely with applied external pressure"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following macroscopic liquid properties decreases systematically as the operating temperature of the liquid increases?",
+    "options": [
+      "A) Vapor pressure",
+      "B) Rate of evaporation",
+      "C) Viscosity",
+      "D) Kinetic energy distribution"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "An ideal gas sample occupies a volume of 4.0 L at 1.0 atm and 27°C. If the absolute temperature is raised to 327°C while holding the pressure constant, what is the new volume?",
+    "options": [
+      "A) 2.0 L",
+      "B) 4.0 L",
+      "C) 8.0 L",
+      "D) 48.0 L"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which class of crystalline solids is typically brittle, exhibits a high melting point, and conducts electricity efficiently only when molten or dissolved in water?",
+    "options": [
+      "A) Metallic solids",
+      "B) Covalent network solids",
+      "C) Ionic solids",
+      "D) Molecular solids"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "According to the Kinetic Molecular Theory of Gases, the average kinetic energy of gas particles is directly proportional to which variable?",
+    "options": [
+      "A) Molar mass of the gas",
+      "B) Absolute temperature in Kelvin",
+      "C) Volumetric density of the sample",
+      "D) Total pressure of the mixture"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What phase change is occurring when a solid transforms directly into a gas without passing through an intervening liquid state?",
+    "options": [
+      "A) Deposition",
+      "B) Sublimation",
+      "C) Condensation",
+      "D) Vaporization"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "A container holds a mixture of oxygen, nitrogen, and helium gases with partial pressures of 0.25 atm, 0.45 atm, and 0.30 atm respectively. What is the total pressure of the gaseous system?",
+    "options": [
+      "A) 0.50 atm",
+      "B) 0.70 atm",
+      "C) 1.00 atm",
+      "D) 1.25 atm"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following compounds forms a highly extended covalent network solid resembling the geometric hybridization of diamond?",
+    "options": [
+      "A) Silicon carbide (SiC)",
+      "B) Carbon dioxide (CO2)",
+      "C) Sulfur (S8)",
+      "D) White phosphorus (P4)"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "The temperature above which a gas cannot be liquefied, regardless of the amount of external pressure applied to the system, is termed the:",
+    "options": [
+      "A) Normal boiling point",
+      "B) Eutectic temperature",
+      "C) Critical temperature",
+      "D) Absolute zero"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following binary solution mixtures behaves ideally, perfectly obeying Raoult's Law across all concentration ranges?",
+    "options": [
+      "A) Ethanol and Water",
+      "B) Acetone and Chloroform",
+      "C) Benzene and Toluene",
+      "D) Nitric acid and Water"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What type of cubic crystal lattice structure possesses a single constituent particle situated exclusively at each of its eight corners and one particle dead-center in the middle of the unit cell?",
+    "options": [
+      "A) Simple cubic",
+      "B) Body-centered cubic (bcc)",
+      "C) Face-centered cubic (fcc)",
+      "D) Hexagonal closest-packed"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "If the ambient atmospheric pressure on top of a mountain is 0.70 atm instead of standard sea-level pressure (1.00 atm), what happens to the boiling point of water?",
+    "options": [
+      "A) It remains exactly at 100°C due to water's fixed properties",
+      "B) It increases above 100°C because molecules escape harder",
+      "C) It decreases below 100°C because vapor pressure matches external pressure sooner",
+      "D) Water will freeze instantly instead of entering the liquid state"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following physical processes is strictly exothermic, releasing thermal energy to the surroundings?",
+    "options": [
+      "A) Melting",
+      "B) Vaporization",
+      "C) Sublimation",
+      "D) Freezing"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Under what structural parameters does a real gas approximate ideal behavior most closely?",
+    "options": [
+      "A) Low temperature and high pressure",
+      "B) High temperature and low pressure",
+      "C) Low temperature and low pressure",
+      "D) High temperature and high pressure"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The continuous, random zigzag movement of microscopic colloidal particles suspended in a fluid medium, caused by collisions with solvent molecules, is called:",
+    "options": [
+      "A) Tyndall Effect",
+      "B) Brownian Motion",
+      "C) Osmotic Diffusion",
+      "D) Capillary Action"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following molecular solids is bound together in its crystalline state primarily by instantaneous dipole-induced dipole forces (London dispersion forces)?",
+    "options": [
+      "A) Ice (Solid H2O)",
+      "B) Dry ice (Solid CO2)",
+      "C) Copper ingot (Cu)",
+      "D) Silicon dioxide (SiO2)"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the net number of atoms contained within a single unit cell of a primitive, simple cubic crystal system?",
+    "options": [
+      "A) 1",
+      "B) 2",
+      "C) 4",
+      "D) 8"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Henry's Law states that the solubility of a gas in a liquid solvent is directly proportional to which factor?",
+    "options": [
+      "A) Volumetric size of the solvent container",
+      "B) Partial pressure of that specific gas above the liquid surface",
+      "C) Viscosity index of the target liquid",
+      "D) Total molecular density of the gaseous envelope"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "A liquid is placed in a closed vacuum container at constant temperature. When the rate of evaporation equals the rate of condensation, the pressure exerted by the gas phase is called the:",
+    "options": [
+      "A) Atmospheric pressure",
+      "B) Critical pressure",
+      "C) Equilibrium vapor pressure",
+      "D) Osmotic pressure"
+    ],
+    "answer": "C"
+  },
+  
