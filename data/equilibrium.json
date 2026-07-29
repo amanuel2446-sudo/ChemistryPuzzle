@@ -1,0 +1,152 @@
+[
+  {
+    "question": "For a reversible gaseous reaction, under what specific condition will the numerical values of the equilibrium constants K_c and K_p be completely identical?",
+    "options": [
+      "A) When the total number of moles of gaseous reactants equals the total number of moles of gaseous products",
+      "B) When the reaction is conducted at a standard temperature of exactly 273 Kelvin",
+      "C) When the volume of the reaction vessel is halved under constant pressure",
+      "D) When the value of the universal gas constant (R) approaches absolute zero"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "The exothermic synthesis of ammonia is represented by: N2(g) + 3H2(g) ⇌ 2NH3(g) (ΔH < 0). According to Le Chatelier's principle, which of the following operational shifts will maximize the equilibrium yield of NH3?",
+    "options": [
+      "A) Increasing the temperature and decreasing the total pressure",
+      "B) Decreasing the temperature and increasing the total pressure",
+      "C) Increasing the volume of the reaction container at a high temperature",
+      "D) Introducing an inert gas like Argon at constant volume conditions"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the correct mathematical expression for the equilibrium constant K_c of the heterogeneous reaction: CaCO3(s) ⇌ CaO(s) + CO2(g)?",
+    "options": [
+      "A) K_c = [CaO][CO2] / [CaCO3]",
+      "B) K_c = [CaCO3] / [CaO][CO2]",
+      "C) K_c = [CO2]",
+      "D) K_c = [CaO] / [CaCO3]"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "If a chemical system at a given temperature possesses a reaction quotient (Q) that is significantly larger than its equilibrium constant (K), how will the system proceed to re-establish dynamic equilibrium?",
+    "options": [
+      "A) The reaction will shift spontaneously in the forward direction to generate more products",
+      "B) The reaction will shift spontaneously in the reverse direction to consume excess products",
+      "C) The system will remain static because Q has no bearing on directional shifts",
+      "D) The numerical value of the equilibrium constant K will increase to match Q"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What happens to the numerical value of the equilibrium constant K_c for an endothermic reaction if the operating temperature of the system is increased?",
+    "options": [
+      "A) It decreases regularly",
+      "B) It increases regularly",
+      "C) It remains completely unchanged",
+      "D) It drops instantly to zero"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "A reversible reaction has an equilibrium constant K_1. If the chemical equation is written in the reverse direction, the new equilibrium constant K_2 is mathematically equal to:",
+    "options": [
+      "A) -K_1",
+      "B) 1 / K_1",
+      "C) (K_1)^2",
+      "D) K_1 / 2"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following actions will cause a permanent shift in the equilibrium position of a gaseous reaction without altering the numerical value of its equilibrium constant K?",
+    "options": [
+      "A) Changing the operating temperature of the system",
+      "B) Changing the partial concentrations or pressures of the reacting components",
+      "C) Introducing a highly efficient solid transition metal catalyst",
+      "D) Changing the chemical identity of the solvent matrix"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "For the equilibrium system: 2SO2(g) + O2(g) ⇌ 2SO3(g), the mathematical relationship linking K_p and K_c is given by which expression?",
+    "options": [
+      "A) K_p = K_c(RT)^1",
+      "B) K_p = K_c(RT)^-1",
+      "C) K_p = K_c(RT)^-2",
+      "D) K_p = K_c"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the primary physical function of a catalyst when introduced into a chemical system that is already in a state of dynamic equilibrium?",
+    "options": [
+      "A) It shifts the equilibrium position to favor a higher conversion of reactants",
+      "B) It increases the rates of both the forward and reverse reactions equally, achieving equilibrium faster",
+      "C) It selectively suppresses the reverse reaction rate to maximize profit margins",
+      "D) It alters the total enthalpy change (ΔH) of the reaction path"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Under what condition will the introduction of an inert gas like Helium cause a visible shift in the equilibrium position of a gaseous reaction system?",
+    "options": [
+      "A) When added at constant volume parameters",
+      "B) When added at constant total pressure parameters where the total gas moles change (Δn ≠ 0)",
+      "C) When the reaction is completely thermoneutral (ΔH = 0)",
+      "D) Inert gases can never induce a shift under any thermodynamic constraint"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the correct mathematical relationship for the solubility product constant K_sp of the sparingly soluble salt silver chromate, Ag2CrO4?",
+    "options": [
+      "A) K_sp = [Ag+][CrO4^2-]",
+      "B) K_sp = [Ag+]^2[CrO4^2-]",
+      "C) K_sp = [2Ag+][CrO4^2-]",
+      "D) K_sp = [Ag+][CrO4^2-]^2"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The suppression of the ionic dissociation of a weak electrolyte solution upon the addition of a strong electrolyte containing a shared ion is called the:",
+    "options": [
+      "A) Le Chatelier anomaly",
+      "B) Common Ion Effect",
+      "C) Odd Ion Acceleration",
+      "D) Salt hydrolysis effect"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "If the molar solubility of a sparingly soluble binary salt like BaSO4 is designated as 'S' mol/L, its solubility product constant K_sp is given by:",
+    "options": [
+      "A) K_sp = S",
+      "B) K_sp = 2S",
+      "C) K_sp = S^2",
+      "D) K_sp = 4S^3"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "For a chemical reaction with a very large equilibrium constant (e.g., K = 1.0 x 10^15) at room temperature, the equilibrium mixture will contain:",
+    "options": [
+      "A) Solitary unreacted starting materials exclusively",
+      "B) Predominantly product molecules with trace amounts of reactants",
+      "C) Perfectly equal concentrations of reactants and products",
+      "D) The system can never reach equilibrium because the speed is too high"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The equilibrium system: N2O4(g) ⇌ 2NO2(g) is endothermic. If the temperature of the amber-colored gas mixture is lowered, what visual change is expected?",
+    "options": [
+      "A) The color intensifies because more NO2 is generated",
+      "B) The color pales or fades because the equilibrium shifts toward colorless N2O4",
+      "C) The gas undergoes instantaneous precipitation into white crystals",
+      "D) No visible change occurs since temperature has no structural effect"
+    ],
+    "answer": "B"
+  },
+  
