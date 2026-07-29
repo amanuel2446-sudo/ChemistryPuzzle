@@ -1,0 +1,253 @@
+[
+  {
+    "question": "Which of the following electronic transitions in a hydrogen atom emits a photon with the highest frequency?",
+    "options": [
+      "A) n = 2 to n = 1",
+      "B) n = 3 to n = 2",
+      "C) n = 4 to n = 3",
+      "D) n = 5 to n = 4"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "What is the maximum number of electrons in an atom that can share the quantum numbers n = 4 and m_l = +1?",
+    "options": [
+      "A) 2",
+      "B) 4",
+      "C) 6",
+      "D) 8"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "According to Heisenberg's Uncertainty Principle, if the uncertainty in the position of an electron is zero, the uncertainty in its momentum is:",
+    "options": [
+      "A) Zero",
+      "B) Infinite",
+      "C) Equal to h",
+      "D) Equal to h/4π"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which set of quantum numbers (n, l, m_l, m_s) is forbidden for an electron in a ground-state atom?",
+    "options": [
+      "A) 3, 2, -2, +1/2",
+      "B) 2, 2, 1, -1/2",
+      "C) 4, 0, 0, -1/2",
+      "D) 1, 0, 0, +1/2"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following ground-state electron configurations represents a paramagnetic atom with the highest number of unpaired electrons?",
+    "options": [
+      "A) [Ar] 4s² 3d⁵",
+      "B) [Ar] 4s¹ 3d⁵",
+      "C) [Ar] 4s² 3d⁶",
+      "D) [Kr] 5s¹ 4d¹⁰"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which scientist proposed that moving particles like electrons exhibit wave-like properties?",
+    "options": [
+      "A) Albert Einstein",
+      "B) Max Planck",
+      "C) Louis de Broglie",
+      "D) Erwin Schrödinger"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "The lines in the Balmer series of the hydrogen spectrum correspond to electronic transitions terminating at which principal energy level?",
+    "options": [
+      "A) n = 1",
+      "B) n = 2",
+      "C) n = 3",
+      "D) n = 4"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The total number of orbitals associated with the third principal energy level (n = 3) is:",
+    "options": [
+      "A) 3",
+      "B) 6",
+      "C) 9",
+      "D) 18"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which principle states that no two electrons in the same atom can have the exact same set of four quantum numbers?",
+    "options": [
+      "A) Aufbau Principle",
+      "B) Hund's Rule",
+      "C) Pauli Exclusion Principle",
+      "D) Heisenberg Principle"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is the correct ground-state electron configuration of the Copper atom (Z = 29)?",
+    "options": [
+      "A) [Ar] 4s² 3d⁹",
+      "B) [Ar] 4s¹ 3d¹⁰",
+      "C) [Ar] 4s⁰ 3d¹¹",
+      "D) [Ar] 4s² 3d¹⁰"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The quantum number that determines the spatial orientation of an atomic orbital is the:",
+    "options": [
+      "A) Principal quantum number (n)",
+      "B) Angular momentum quantum number (l)",
+      "C) Magnetic quantum number (m_l)",
+      "D) Spin quantum number (m_s)"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "An orbital with n = 4 and l = 2 is designated as which type of orbital?",
+    "options": [
+      "A) 4p",
+      "B) 4d",
+      "C) 4f",
+      "D) 4s"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following regions of the electromagnetic spectrum carries the highest energy per photon?",
+    "options": [
+      "A) Ultraviolet",
+      "B) Infrared",
+      "C) X-rays",
+      "D) Gamma rays"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Hund's rule of maximum multiplicity is best illustrated by the electron configuration of which ground-state atom?",
+    "options": [
+      "A) Carbon (Z = 6)",
+      "B) Neon (Z = 10)",
+      "C) Magnesium (Z = 12)",
+      "D) Helium (Z = 2)"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "What is the de Broglie wavelength of an electron traveling at a velocity where its momentum is doubled?",
+    "options": [
+      "A) It is doubled",
+      "B) It is halved",
+      "C) It remains unchanged",
+      "D) It increases fourfold"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following ions is isoelectronic with an Argon atom (Z = 18)?",
+    "options": [
+      "A) Na⁺",
+      "B) Ca²⁺",
+      "C) O²⁻",
+      "D) Al³⁺"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The phenomenon where electrons are ejected from the surface of a metal when exposed to light of sufficient frequency is called:",
+    "options": [
+      "A) Compton Effect",
+      "B) Photoelectric Effect",
+      "C) Blackbody Radiation",
+      "D) Zeeman Effect"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the maximum number of electrons that can be accommodated in a single f-subshell?",
+    "options": [
+      "A) 2",
+      "B) 6",
+      "C) 10",
+      "D) 14"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which quantum number defines the specific shape of a given atomic orbital?",
+    "options": [
+      "A) n",
+      "B) l",
+      "C) m_l",
+      "D) m_s"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "An atom has an electron configuration of 1s² 2s² 2p⁶ 3s² 3p³. How many valence electrons does it possess?",
+    "options": [
+      "A) 3",
+      "B) 5",
+      "C) 11",
+      "D) 15"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The Paschen series in the emission spectrum of atomic hydrogen is observed in which region of the electromagnetic spectrum?",
+    "options": [
+      "A) Visible",
+      "B) Ultraviolet",
+      "C) Infrared",
+      "D) Microwave"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is the correct order of increasing energy for the subshells 4f, 5p, 5d, and 6s according to the Aufbau principle?",
+    "options": [
+      "A) 5p < 6s < 4f < 5d",
+      "B) 5p < 4f < 6s < 5d",
+      "C) 6s < 5p < 4f < 5d",
+      "D) 4f < 5p < 5d < 6s"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following species is diamagnetic in its ground state?",
+    "options": [
+      "A) Zn²⁺",
+      "B) Fe²⁺",
+      "C) Cu²⁺",
+      "D) Ni²⁺"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "The radius of a Bohr orbit in a hydrogen-like ion is inversely proportional to which of the following variables?",
+    "options": [
+      "A) Principal quantum number (n)",
+      "B) Atomic number (Z)",
+      "C) Planck's constant (h)",
+      "D) Mass of the electron (m)"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "How many angular nodes are present in a 3d atomic orbital?",
+    "options": [
+      "A) 0",
+      "B) 1",
+      "C) 2",
+      "D) 3"
+    ],
+    "answer": "C"
+  },
+  
+
