@@ -1,0 +1,152 @@
+[
+  {
+    "question": "In a standard galvanic (voltaic) cell, what is the fundamental chemical nature and electrical polarity of the anode?",
+    "options": [
+      "A) It is the negative electrode where oxidation occurs.",
+      "B) It is the positive electrode where reduction occurs.",
+      "C) It is the negative electrode where reduction occurs.",
+      "D) It is the positive electrode where oxidation occurs."
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "What is the primary physical function of a salt bridge containing an inert electrolyte like KCl in a galvanic cell setup?",
+    "options": [
+      "A) To permit the rapid physical mixing of both half-cell solutions.",
+      "B) To maintain electrical neutrality by allowing ions to migrate between compartments.",
+      "C) To supply high-energy electrons directly to the cathode interface.",
+      "D) To act as a metallic bridge that accelerates electrical resistance."
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following equations represents the correct relationship linking the standard cell potential (E°cell) to the standard Gibbs free energy change (ΔG°)?",
+    "options": [
+      "A) ΔG° = -nFE°cell",
+      "B) ΔG° = nFE°cell",
+      "C) E°cell = -nF / ΔG°",
+      "D) ΔG° = -RT ln(E°cell)"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "According to Faraday's First Law of Electrolysis, the mass of a substance liberated or deposited at any electrode during electrolysis is directly proportional to:",
+    "options": [
+      "A) The absolute temperature of the electrolyte bath.",
+      "B) The total quantity of electricity (charge) passed through the cell.",
+      "C) The internal surface area of the graphite anode.",
+      "D) The total volume of water present in the system."
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Under standard states, if a half-cell reaction exhibits an exceptionally high, positive standard reduction potential (E°), the corresponding chemical species behaves as a:",
+    "options": [
+      "A) Powerful reducing agent that loses electrons easily.",
+      "B) Powerful oxidizing agent that gains electrons easily.",
+      "C) Weak oxidizing agent that remains inert in solution.",
+      "D) Sacrificial anode material that never undergoes reduction."
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What mathematical relationship allows for the calculation of non-standard cell potentials based on temperature and reaction component concentrations?",
+    "options": [
+      "A) Arrhenius Equation",
+      "B) Nernst Equation",
+      "C) Henderson-Hasselbalch Equation",
+      "D) van 't Hoff Formula"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "During the commercial downstream electrolysis of molten sodium chloride (NaCl) in a Downs cell, which chemical species is systematically liberated at the anode?",
+    "options": [
+      "A) Molten Sodium metal",
+      "B) Gaseous Oxygen",
+      "C) Gaseous Chlorine",
+      "D) Gaseous Hydrogen"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is the theoretical value of charge carried by exactly one mole of electrons, universally known as the Faraday constant (F)?",
+    "options": [
+      "A) 1.60 x 10^-19 Coulombs",
+      "B) 6.02 x 10^23 Coulombs",
+      "C) 96,500 Coulombs",
+      "D) 8.314 Coulombs"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following electrochemical devices represents a commercial primary cell that cannot be recharged once its chemical reactants are exhausted?",
+    "options": [
+      "A) Lead-Acid Storage Battery",
+      "B) Lithium-Ion Battery",
+      "C) Zinc-Carbon Dry Cell (Leclanché Cell)",
+      "D) Hydrogen-Oxygen Fuel Cell"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "When an aqueous solution of copper(II) sulfate (CuSO4) is electrolyzed utilizing inert platinum electrodes, what reaction selectively occurs at the anode interface?",
+    "options": [
+      "A) Deposition of solid copper metal.",
+      "B) Evolution of gaseous oxygen from water oxidation.",
+      "C) Production of dense sulfur dioxide gas.",
+      "D) Reduction of sulfate anions to elemental sulfur."
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "A spontaneous redox reaction occurring inside a galvanic cell always exhibits which thermodynamic profile at equilibrium?",
+    "options": [
+      "A) ΔG < 0, Ecell > 0, and K > 1",
+      "B) ΔG > 0, Ecell < 0, and K < 1",
+      "C) ΔG = 0, Ecell = 0, and K = 1",
+      "D) ΔG < 0, Ecell < 0, and K > 1"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "What unique electrochemical process involves coating a target metallic object with a thin protective layer of another metal using an electrolytic cell setup?",
+    "options": [
+      "A) Galvanization",
+      "B) Electroplating",
+      "C) Cathodic Protection",
+      "D) Anodization"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "In the standard shorthand cell notation: Zn(s) | Zn2+(aq) || Cu2+(aq) | Cu(s), what physical structural component does the vertical double line (||) represent?",
+    "options": [
+      "A) A direct phase boundary between solid and liquid.",
+      "B) An external copper wire connecting the circuits.",
+      "C) A salt bridge or porous barrier connecting the half-cells.",
+      "D) A gaseous venting port to regulate pressure deviations."
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is the oxidation state of the manganese atom within a permanganate anion (MnO4-)?",
+    "options": [
+      "A) +2",
+      "B) +4",
+      "C) +6",
+      "D) +7"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which of the following batteries serves as the standard secondary cell utilized globally to supply high starting currents in automobiles?",
+    "options": [
+      "A) Alkaline Manganese Dry Cell",
+      "B) Lead-Acid Storage Battery",
+      "C) Nickel-Cadmium Cell",
+      "D) Silver-Oxide Button Battery"
+    ],
+    "answer": "B"
+  },
+  
