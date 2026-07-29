@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chemistry Puzzle</title>
+
+    <!-- Telegram Web App SDK Core Hook -->
+    <script src="https://telegram.org/js/telegram-web-app.js"></script>
+
+    <!-- Production Stylesheet -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="app">
+
+    <!-- Global Sound and Music Control HUD Area -->
+    <div class="global-hud-bar">
+        <button id="musicBtn">🎵 Music ON</button>
+    </div>
+
+    <!-- Live Quiz Progress Headboard Header -->
+    <header class="header">
+        <h1>🧪 Chemistry Puzzle</h1>
+        <p id="questionNumber">Select a Level to Begin</p>
+        <div id="progress">Question 0 / 0</div>
+    </header>
+
+    <div class="card">
+
+        <!-- ==========================================
+           LEVEL SELECTION GRAPHICAL INTERFACE PANEL
+           ========================================== -->
+        <div id="levelSelect">
+            <h2 id="level-title">Choose Exam Level</h2>
+            
+            <!-- Grid Wrapper aligning cleanly with upgraded style.css -->
+            <div class="level-grid">
+                <button class="level-btn" onclick="selectLevel('equilibrium')">
+                    🧪 Level 1 - Chemical Equilibrium
+                </button>
+
+                <button class="level-btn" onclick="selectLevel('kinetics')">
+                    ⚡ Level 2 - Chemical Kinetics
+                </button>
+
+                <button class="level-btn" onclick="selectLevel('electrochemistry')">
+                    🔋 Level 3 - Electrochemistry
+                </button>
+
+                <button class="level-btn" onclick="selectLevel('Oxygen containing organic compounds')">
+                    🍀 Level 4 - Oxygen Containing Organic Compounds
+                </button>
+
+                <button class="level-btn" onclick="selectLevel('Inorganic compounds')">
+                    ⚗️ Level 5 - Inorganic Compounds
+                </button>
+
+                <button class="level-btn" onclick="selectLevel('Atomic theory and structure')">
+                    🪐 Level 6 - Atomic Theory and Structure
+                </button>
+
+                <button class="level-btn" onclick="selectLevel('Chemical bonds')">
+                    👨‍🔬 Level 7 - Chemical Bonds
+                </button>
+
+                <button class="level-btn" onclick="selectLevel('Hydrocarbons')">
+                    🚀 Level 8 - Hydrocarbons
+                </button>
+
+                <button class="level-btn" onclick="selectLevel('Physical state of matter')">
+                    ☁️ Level 9 - Physical State of Matter
+                </button>
+
+                <button class="level-btn" onclick="selectLevel('Solutions')">
+                    🧫 Level 10 - Solutions
+                </button>
+            </div>
+        </div>
