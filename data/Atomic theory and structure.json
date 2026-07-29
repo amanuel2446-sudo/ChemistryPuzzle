@@ -199,4 +199,104 @@
   ],
   "answer": 0
 },
-
+{
+  "question": "Which particle determines the chemical properties of an element?",
+  "options": [
+    "A) Neutrons",
+    "B) Protons",
+    "C) Valence electrons",
+    "D) Nucleus"
+  ],
+  "answer": 2
+},
+{
+  "question": "Which of the following is an isotope pair?",
+  "options": [
+    "A) ¹²C and ¹⁴C",
+    "B) ²³Na and ²⁴Mg",
+    "C) ¹⁶O and ¹⁴N",
+    "D) ³⁵Cl and ⁴⁰Ar"
+  ],
+  "answer": 0
+},
+{
+  "question": "Atoms having the same mass number but different atomic numbers are called:",
+  "options": [
+    "A) Isotopes",
+    "B) Isobars",
+    "C) Isotones",
+    "D) Isoelectronic species"
+  ],
+  "answer": 1
+},
+{
+  "question": "Atoms with the same number of neutrons but different atomic numbers are known as:",
+  "options": [
+    "A) Isotopes",
+    "B) Isobars",
+    "C) Isotones",
+    "D) Cations"
+  ],
+  "answer": 2
+},
+{
+  "question": "The atomic number of chlorine is 17. A chloride ion (Cl⁻) contains:",
+  "options": [
+    "A) 17 electrons",
+    "B) 16 electrons",
+    "C) 18 electrons",
+    "D) 19 electrons"
+  ],
+  "answer": 2
+},
+{
+  "question": "The ion Mg²⁺ contains:",
+  "options": [
+    "A) 10 electrons",
+    "B) 12 electrons",
+    "C) 14 electrons",
+    "D) 24 electrons"
+  ],
+  "answer": 0
+},
+{
+  "question": "As atomic number increases across a period, atomic radius generally:",
+  "options": [
+    "A) Increases",
+    "B) Decreases",
+    "C) Remains constant",
+    "D) Doubles"
+  ],
+  "answer": 1
+},
+{
+  "question": "Ionization energy generally increases across a period because:",
+  "options": [
+    "A) Atomic radius increases",
+    "B) Nuclear attraction increases",
+    "C) More neutrons are added",
+    "D) Shielding becomes stronger"
+  ],
+  "answer": 1
+},
+{
+  "question": "Which element has the highest first ionization energy?",
+  "options": [
+    "A) Sodium",
+    "B) Chlorine",
+    "C) Neon",
+    "D) Magnesium"
+  ],
+  "answer": 2
+},
+{
+  "question": "Which statement best explains why noble gases are chemically stable?",
+  "options": [
+    "A) They have very large nuclei.",
+    "B) Their outermost electron shell is completely filled.",
+    "C) They have many neutrons.",
+    "D) They easily lose electrons."
+  ],
+  "answer": 1
+}
+]
