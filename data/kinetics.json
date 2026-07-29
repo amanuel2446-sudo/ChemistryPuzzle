@@ -149,4 +149,155 @@
     ],
     "answer": "A"
   },
-  
+  {
+    "question": "What is the key functional difference between a 'reaction intermediate' and an 'activated complex' in a reaction mechanism profile?",
+    "options": [
+      "A) An intermediate has a finite lifespan and occupies a potential energy minimum, whereas an activated complex is a temporary transition state at an energy maximum.",
+      "B) An activated complex can be isolated as a stable product at room temperature, while an intermediate cannot.",
+      "C) Intermediates only exist in single-step elementary reactions.",
+      "D) Activated complexes are lower in energy than both the starting reactants and final products."
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "If a reaction follows a zero-order rate law: Rate = k, what is the geometric shape of the line obtained when plotting the remaining concentration of reactant [A] against total time?",
+    "options": [
+      "A) A curved exponential decay line curving upwards",
+      "B) A straight linear line with a negative slope equal to -k",
+      "C) A horizontal straight line with zero slope",
+      "D) A vertical asymptotic threshold"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The rate law for a specific complex chemical reaction is: Rate = k[O3]^2[O2]^-1. This reaction exhibits an overall reaction order of:",
+    "options": [
+      "A) -1",
+      "B) 1",
+      "C) 2",
+      "D) 3"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "A catalyst that is present in the exact same physical phase as the reacting chemical components is classified as a/an:",
+    "options": [
+      "A) Heterogeneous catalyst",
+      "B) Homogeneous catalyst",
+      "C) Enzyme biocatalyst",
+      "D) Autocatalyst"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The radioactive decay of unstable atomic nuclei represents a classic natural manifestation of which kinetic reaction order?",
+    "options": [
+      "A) Zero-order",
+      "B) First-order",
+      "C) Second-order",
+      "D) Pseudo-second order"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the slope of the straight line obtained when plotting the natural logarithm of the specific rate constant (ln k) against the reciprocal of the absolute temperature (1/T) according to the linear form of the Arrhenius equation?",
+    "options": [
+      "A) Ea / R",
+      "B) -Ea / R",
+      "C) ln A",
+      "D) -Ea * R"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "For a second-order reaction obeying the integrated rate law: 1/[A]_t = kt + 1/[A]_0, what happens to the length of the half-life as the initial concentration of the reactant is increased?",
+    "options": [
+      "A) It increases proportionally.",
+      "B) It decreases proportionally.",
+      "C) It remains completely constant.",
+      "D) It fluctuates randomly depending on system pressure adjustments."
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following descriptions matches the behavior of an 'inhibitor' when introduced into a chemical system?",
+    "options": [
+      "A) It increases the rate of the forward reaction exclusively.",
+      "B) It decreases the reaction rate by blocking active pathways or increasing the required activation energy barrier.",
+      "C) It raises the overall thermodynamic yield of products at equilibrium.",
+      "D) It changes the net enthalpy change from endothermic to exothermic."
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Why does a massive increase in operating temperature cause an exponential increase in the rate constant (k) of a chemical reaction?",
+    "options": [
+      "A) It permanently lowers the activation energy of the molecular bonds.",
+      "B) It dramatically expands the fraction of colliding molecules that possess kinetic energy equal to or greater than the activation energy.",
+      "C) It changes the reaction mechanism from a multi-step to a single-step path.",
+      "D) It causes the molecules to shrink in size, minimizing steric hindrance."
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "A reaction involves a highly complex biomolecular reaction step. Biological proteins that function as highly efficient, specific catalysts in living systems are chemically classified as:",
+    "options": [
+      "A) Inhibitors",
+      "B) Enzymes",
+      "C) Intermediates",
+      "D) Promoters"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "For a given reaction, the rate law is Rate = k[A][B]. If the volume of the reaction container is compressed to exactly half of its original size at a constant temperature, the new reaction rate will:",
+    "options": [
+      "A) Be cut in half",
+      "B) Double systematically",
+      "C) Increase four-fold",
+      "D) Increase eight-fold"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "The unique kinetic phenomenon where one of the products generated during a chemical reaction behaves as a catalyst for that same reaction over time is known as:",
+    "options": [
+      "A) Homogeneous catalysis",
+      "B) Heterogeneous inhibition",
+      "C) Autocatalysis",
+      "D) Enzyme induction"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is the overall reaction order for an elementary termolecular reaction step involving the collision of three distinct molecules, such as: 2NO(g) + O2(g) → 2NO2(g)?",
+    "options": [
+      "A) 1",
+      "B) 2",
+      "C) 3",
+      "D) 4"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "When a chemical reaction is running under conditions where a true high-order reaction behaves structurally as a lower-order reaction due to a massive excess of one reactant, it is called a/an:",
+    "options": [
+      "A) Inverse reaction",
+      "B) Negative-order reaction",
+      "C) Pseudo-order reaction (e.g., pseudo-first-order)",
+      "D) Rate-locked equilibrium"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "A potential energy diagram for a multi-step chemical reaction shows two distinct energy peaks (maxima) separated by a shallow valley (minimum). This visual curve indicates that the reaction mechanism contains:",
+    "options": [
+      "A) A single transition state and no chemical intermediates.",
+      "B) Two distinct transition states and one stable intermediate compound.",
+      "C) Three independent parallel competitive pathways.",
+      "D) An auto-catalytic loop that operates without an activation energy."
+    ],
+    "answer": "B"
+  }
+]
+
