@@ -249,4 +249,255 @@
     ],
     "answer": "D"
   },
-  
+  {
+    "question": "What is the total number of valence electrons present in the ammonium ion (NH4+)?",
+    "options": [
+      "A) 8",
+      "B) 9",
+      "C) 10",
+      "D) 11"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "According to VSEPR theory, the deviation of the bond angle in water (104.5°) from the ideal tetrahedral angle is caused by:",
+    "options": [
+      "A) Lone pair - lone pair repulsions being greater than bonding pair repulsions",
+      "B) Bonding pair - bonding pair repulsions being exceptionally strong",
+      "C) High electronegativity of the hydrogen atoms",
+      "D) Low electronegativity of the central oxygen atom"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following solid structures is held together entirely by a continuous network of covalent bonds?",
+    "options": [
+      "A) Ice (H2O)",
+      "B) Dry ice (CO2)",
+      "C) Diamond (C)",
+      "D) Iodine (I2)"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is the bond order of the dinitrogen molecule (N2) based on Molecular Orbital theory?",
+    "options": [
+      "A) 1",
+      "B) 2",
+      "C) 3",
+      "D) 4"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which property is typically characteristic of typical ionic compounds in their solid state?",
+    "options": [
+      "A) High electrical conductivity",
+      "B) Low melting and boiling points",
+      "C) Malleability and ductility",
+      "D) Brittle crystal lattice structure"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which of the following molecules has a linear molecular geometry?",
+    "options": [
+      "A) SO2",
+      "B) BeCl2",
+      "C) H2O",
+      "D) OF2"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the hybridization state of the central boron atom in boron trifluoride (BF3)?",
+    "options": [
+      "A) sp",
+      "B) sp2",
+      "C) sp3",
+      "D) dsp2"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The concept of 'electron sea model' is most useful for explaining the properties of which class of materials?",
+    "options": [
+      "A) Ionic salts",
+      "B) Covalent networks",
+      "C) Molecular solids",
+      "D) Pure metals"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which of the following species has a square pyramidal molecular geometry?",
+    "options": [
+      "A) BrF5",
+      "B) PCl5",
+      "C) SF6",
+      "D) XeF4"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "The potential energy well diagram for a diatomic molecule shows that a chemical bond forms at a distance where:",
+    "options": [
+      "A) Repulsive forces completely overpower attractive forces",
+      "B) Total potential energy of the two atoms reaches a minimum",
+      "C) Kinetic energy of the system drops to absolute zero",
+      "D) The two atomic nuclei merge together completely"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "How many sigma (σ) and pi (π) bonds are present in a molecule of benzene (C6H6)?",
+    "options": [
+      "A) 6 σ and 3 π",
+      "B) 12 σ and 3 π",
+      "C) 9 σ and 3 π",
+      "D) 6 σ and 6 π"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following elements can form intramolecular or intermolecular hydrogen bonds due to its small size and high electronegativity?",
+    "options": [
+      "A) Chlorine",
+      "B) Sulfur",
+      "C) Nitrogen",
+      "D) Phosphorus"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is the molecular geometry of the hydronium ion (H3O+)?",
+    "options": [
+      "A) Trigonal planar",
+      "B) Trigonal pyramidal",
+      "C) Tetrahedral",
+      "D) T-shaped"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which statement is true regarding anti-bonding molecular orbitals (MOs)?",
+    "options": [
+      "A) They are lower in energy than the parent atomic orbitals",
+      "B) They increase electron density directly between the two nuclei",
+      "C) They contain a nodal plane between the bonded nuclei",
+      "D) They favor the formation of a stable chemical bond"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following compounds exhibits predominantly directional bonding properties?",
+    "options": [
+      "A) H2O",
+      "B) NaCl",
+      "C) K2O",
+      "D) MgF2"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "What is the total number of lone pairs on the central atom of the I3^- (triiodide) ion?",
+    "options": [
+      "A) 1",
+      "B) 2",
+      "C) 3",
+      "D) 4"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following orders correctly represents the increasing bond angle among the given molecules?",
+    "options": [
+      "A) H2O < NH3 < CH4 < CO2",
+      "B) CO2 < CH4 < NH3 < H2O",
+      "C) NH3 < H2O < CH4 < CO2",
+      "D) CH4 < NH3 < H2O < CO2"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which crystalline solid is soft, has a low melting point, and does not conduct electricity in either solid or liquid states?",
+    "options": [
+      "A) Quartz (SiO2)",
+      "B) Naphthalene (C10H8)",
+      "C) Copper (Cu)",
+      "D) Potassium bromide (KBr)"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the hybridization of carbon in a carbonyl group (C=O) found in aldehydes and ketones?",
+    "options": [
+      "A) sp",
+      "B) sp2",
+      "C) sp3",
+      "D) sp3d"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The dipole moment of a symmetrical linear molecule like beryllium hydride (BeH2) is:",
+    "options": [
+      "A) Zero",
+      "B) Equal to the dipole of one Be-H bond",
+      "C) Double the dipole of one Be-H bond",
+      "D) Highly variable depending on the temperature"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following terms describes the energy required to completely break one mole of a specific chemical bond in the gaseous state?",
+    "options": [
+      "A) Lattice energy",
+      "B) Ionization energy",
+      "C) Bond dissociation energy",
+      "D) Electron affinity"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "According to Molecular Orbital theory, which of the following species does not exist as a stable diatomic molecule due to a bond order of zero?",
+    "options": [
+      "A) H2",
+      "B) He2",
+      "C) Li2",
+      "D) Be2"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The geometry of a molecule with 5 bonding pairs and 1 lone pair on its central atom is classified as:",
+    "options": [
+      "A) Octahedral",
+      "B) See-saw",
+      "C) Square pyramidal",
+      "D) Trigonal bipyramidal"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which type of bonding accounts for the high thermal and electrical conductivities of solid copper?",
+    "options": [
+      "A) Covalent network bonding",
+      "B) Intermolecular forces",
+      "C) Metallic bonding",
+      "D) Ionic bonding"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is the hybridization state of phosphorus in the phosphorus trichloride (PCl3) molecule?",
+    "options": [
+      "A) sp2",
+      "B) sp3",
+      "C) sp3d",
+      "D) sp3d2"
+    ],
+    "answer": "B"
+  }
+]
+
