@@ -7,7 +7,7 @@
       "C) 0.60 mol/(L·s)",
       "D) 1.20 mol/(L·s)"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "A reaction rate law is experimentally determined to be Rate = k[A]^2[B]. If the initial concentration of reactant A is doubled while B is kept constant, the initial rate of the reaction will:",
@@ -17,7 +17,7 @@
       "C) Triple systematically",
       "D) Increase four-fold"
     ],
-    "answer": "D"
+    "answer": "3"
   },
   {
     "question": "What are the correct units for the specific rate constant (k) in an elementary chemical reaction that exhibits an overall reaction order of two?",
@@ -27,7 +27,7 @@
       "C) L^2/(mol^2·s)",
       "D) mol/(L·s)"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "According to the Collision Theory of chemical reactions, what two primary structural criteria must be met by colliding reactant molecules to yield a successful reaction?",
@@ -37,7 +37,7 @@
       "C) High temperature and a low total surface area parameter",
       "D) Complete magnetic alignment and high gas pressure values"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "The time required for the concentration of a reactant to drop to exactly half of its initial value is termed the half-life. For which reaction order is the half-life completely independent of the initial reactant concentration?",
@@ -47,7 +47,7 @@
       "C) Second-order",
       "D) Third-order"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Which of the following physical actions accelerates the rate of a heterogeneous reaction, such as solid zinc reacting with hydrochloric acid, without altering the system temperature?",
@@ -57,7 +57,7 @@
       "C) Crushing the solid zinc into a fine powder to increase its total surface area",
       "D) Performing the reaction inside a closed vacuum desiccator"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "What is the primary operational definition of the 'activation energy' (Ea) of a chemical reaction according to Transition State Theory?",
@@ -67,7 +67,7 @@
       "C) The net difference in potential energy between the reactants and the final products",
       "D) The structural kinetic energy possessed by a single isolated electron"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "How does an efficient chemical catalyst successfully increase the rate of a chemical reaction?",
@@ -77,7 +77,7 @@
       "C) It lowers the total enthalpy change (ΔH) of the overall transformation",
       "D) It selectively increases the kinetic energy of the solvent molecules"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "The comprehensive multi-step description of individual elementary reactions that together add up to form the overall macroscopic chemical reaction is termed the:",
@@ -87,7 +87,7 @@
       "C) Reaction mechanism",
       "D) Rate-determining transition"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "An empirical rule of thumb states that for many common chemical reactions near room temperature, the reaction rate approximately doubles for every increase in temperature of:",
@@ -97,7 +97,7 @@
       "C) 10°C",
       "D) 50°C"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "What mathematical plot yields a perfectly straight linear line for a first-order chemical reaction when tracking reactant concentration against time?",
@@ -107,7 +107,7 @@
       "C) 1/[A] versus time",
       "D) log(1/[A]) versus 1/time"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "In a multi-step reaction mechanism, which elementary step ultimately controls and dictates the observed macroscopic rate of the overall reaction?",
@@ -117,7 +117,7 @@
       "C) The fastest elementary step",
       "D) The slowest elementary step (rate-determining step)"
     ],
-    "answer": "D"
+    "answer": "3"
   },
   {
     "question": "What term defines a short-lived, high-energy, highly unstable structural arrangement of atoms formed at the peak of the potential energy barrier during a chemical reaction?",
@@ -127,7 +127,7 @@
       "C) Free radical cluster",
       "D) Homogeneous catalyst"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "The mathematical equation: k = A·e^(-Ea/RT) coordinates the relationship linking the rate constant, activation energy, and absolute temperature. This is known as the:",
@@ -137,7 +137,7 @@
       "C) Nernst Equation",
       "D) Beer-Lambert Law"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "What is the molecularity of an elementary chemical step where a single reactant molecule splits apart to form products, as shown in: N2O5(g) → NO2(g) + NO3(g)?",
@@ -147,7 +147,7 @@
       "C) Termolecular",
       "D) Zero-molecular"
     ],
-    "answer": "A"
+    "answer": "0"
   },
   {
     "question": "What is the key functional difference between a 'reaction intermediate' and an 'activated complex' in a reaction mechanism profile?",
@@ -157,7 +157,7 @@
       "C) Intermediates only exist in single-step elementary reactions.",
       "D) Activated complexes are lower in energy than both the starting reactants and final products."
     ],
-    "answer": "A"
+    "answer": "0"
   },
   {
     "question": "If a reaction follows a zero-order rate law: Rate = k, what is the geometric shape of the line obtained when plotting the remaining concentration of reactant [A] against total time?",
@@ -167,7 +167,7 @@
       "C) A horizontal straight line with zero slope",
       "D) A vertical asymptotic threshold"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "The rate law for a specific complex chemical reaction is: Rate = k[O3]^2[O2]^-1. This reaction exhibits an overall reaction order of:",
@@ -177,7 +177,7 @@
       "C) 2",
       "D) 3"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "A catalyst that is present in the exact same physical phase as the reacting chemical components is classified as a/an:",
@@ -187,7 +187,7 @@
       "C) Enzyme biocatalyst",
       "D) Autocatalyst"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "The radioactive decay of unstable atomic nuclei represents a classic natural manifestation of which kinetic reaction order?",
@@ -197,7 +197,7 @@
       "C) Second-order",
       "D) Pseudo-second order"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "What is the slope of the straight line obtained when plotting the natural logarithm of the specific rate constant (ln k) against the reciprocal of the absolute temperature (1/T) according to the linear form of the Arrhenius equation?",
@@ -207,7 +207,7 @@
       "C) ln A",
       "D) -Ea * R"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "For a second-order reaction obeying the integrated rate law: 1/[A]_t = kt + 1/[A]_0, what happens to the length of the half-life as the initial concentration of the reactant is increased?",
@@ -217,7 +217,7 @@
       "C) It remains completely constant.",
       "D) It fluctuates randomly depending on system pressure adjustments."
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Which of the following descriptions matches the behavior of an 'inhibitor' when introduced into a chemical system?",
@@ -227,7 +227,7 @@
       "C) It raises the overall thermodynamic yield of products at equilibrium.",
       "D) It changes the net enthalpy change from endothermic to exothermic."
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Why does a massive increase in operating temperature cause an exponential increase in the rate constant (k) of a chemical reaction?",
@@ -237,7 +237,7 @@
       "C) It changes the reaction mechanism from a multi-step to a single-step path.",
       "D) It causes the molecules to shrink in size, minimizing steric hindrance."
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "A reaction involves a highly complex biomolecular reaction step. Biological proteins that function as highly efficient, specific catalysts in living systems are chemically classified as:",
@@ -247,7 +247,7 @@
       "C) Intermediates",
       "D) Promoters"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "For a given reaction, the rate law is Rate = k[A][B]. If the volume of the reaction container is compressed to exactly half of its original size at a constant temperature, the new reaction rate will:",
@@ -257,7 +257,7 @@
       "C) Increase four-fold",
       "D) Increase eight-fold"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "The unique kinetic phenomenon where one of the products generated during a chemical reaction behaves as a catalyst for that same reaction over time is known as:",
@@ -267,7 +267,7 @@
       "C) Autocatalysis",
       "D) Enzyme induction"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "What is the overall reaction order for an elementary termolecular reaction step involving the collision of three distinct molecules, such as: 2NO(g) + O2(g) → 2NO2(g)?",
@@ -277,7 +277,7 @@
       "C) 3",
       "D) 4"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "When a chemical reaction is running under conditions where a true high-order reaction behaves structurally as a lower-order reaction due to a massive excess of one reactant, it is called a/an:",
@@ -287,7 +287,7 @@
       "C) Pseudo-order reaction (e.g., pseudo-first-order)",
       "D) Rate-locked equilibrium"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "A potential energy diagram for a multi-step chemical reaction shows two distinct energy peaks (maxima) separated by a shallow valley (minimum). This visual curve indicates that the reaction mechanism contains:",
@@ -297,7 +297,7 @@
       "C) Three independent parallel competitive pathways.",
       "D) An auto-catalytic loop that operates without an activation energy."
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "The rate law for the reaction: 2NO(g) + 2H2(g) → N2(g) + 2H2O(g) is found to be Rate = k[NO]^2[H2]. What is the predicted reaction mechanism's rate-determining step molecularity?",
@@ -307,7 +307,7 @@
       "C) Termolecular",
       "D) Tetramolecular"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "For a first-order reaction, if the rate constant (k) is 4.62 x 10^-3 s^-1, what is the approximate half-life (t_1/2) of the reaction?",
@@ -317,7 +317,7 @@
       "C) 300 seconds",
       "D) 600 seconds"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "An EUEE laboratory experiment shows that a reaction rate increases by a factor of 9 when the concentration of a reactant is tripled. What is the order of the reaction with respect to this reactant?",
@@ -327,7 +327,7 @@
       "C) Second-order",
       "D) Third-order"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which of the following statement options accurately describes a zero-order reaction process?",
@@ -337,7 +337,7 @@
       "C) The half-life remains constant as the initial concentration varies.",
       "D) The specific rate constant (k) has the units of s^-1."
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "A chemical reaction has an activation energy (Ea) of 50 kJ/mol for the forward path and a net enthalpy change (ΔH) of -20 kJ/mol. What is the activation energy for the reverse reaction?",
@@ -347,7 +347,7 @@
       "C) 50 kJ/mol",
       "D) 70 kJ/mol"
     ],
-    "answer": "D"
+    "answer": "3"
   },
   {
     "question": "In a series of initial rate experiments, doubling the concentration of reactant Y causes the reaction rate to be cut in half. This means the reaction order with respect to Y is:",
@@ -357,7 +357,7 @@
       "C) -1",
       "D) 0.5"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "What is the primary physical function of catalytic converters installed in the exhaust systems of modern Ethiopian and global vehicles?",
@@ -367,7 +367,7 @@
       "C) To increase the temperature of the exhaust manifold to evaporate moisture.",
       "D) To act as a homogeneous inhibitor that stops the combustion loop."
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "If a reaction intermediate is cleanly identified during a mechanism analysis, where does it appear in the net balanced chemical reaction equation?",
@@ -377,7 +377,7 @@
       "C) Written directly above the reaction arrow as a catalyst.",
       "D) It does not appear in the net balanced macro equation because it is consumed as fast as it is produced."
     ],
-    "answer": "D"
+    "answer": "3"
   },
   {
     "question": "For a first-order chemical reaction, what fraction of the initial starting material will remain unreacted after a total duration equal to exactly three half-lives?",
@@ -387,7 +387,7 @@
       "C) 1/6",
       "D) 1/8"
     ],
-    "answer": "D"
+    "answer": "3"
   },
   {
     "question": "An entry in an EUEE chemistry questionnaire asks for the units of a zero-order reaction rate constant. The correct option is:",
@@ -397,7 +397,7 @@
       "C) M · s^-1",
       "D) M^-2 · s^-1"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "According to the Transition State Theory, an increase in system temperature yields faster reactions primarily because it increases which factor?",
@@ -407,7 +407,7 @@
       "C) The net distance separating the individual reacting atoms.",
       "D) The spatial volume parameters of the isolated reactant particles."
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "The conversion of reactant A into products is a first-order process. If a plot of ln[A] versus time gives a straight line, the slope of this line is mathematically equivalent to:",
@@ -417,7 +417,7 @@
       "C) 1/k",
       "D) ln(k)"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Which of the following values represents the overall reaction order for a reaction with the experimental rate law: Rate = k[A]^1.5[B]^-0.5?",
@@ -427,7 +427,7 @@
       "C) 1.5",
       "D) 2.0"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "In a catalytic process involving solid platinum mesh and gaseous reactants, the catalytic sequence represents an example of which chemical phenomenon?",
@@ -437,7 +437,7 @@
       "C) Autocatalytic feedback loop modification",
       "D) Endothermic enzymatic inhibition"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "What structural factor causes a second-order reaction's rate constant units to differ fundamentally from a first-order reaction's units?",
@@ -447,7 +447,7 @@
       "C) First-order reactions do not depend on system temperature parameters.",
       "D) Second-order transitions occur exclusively inside fluid solid state mixtures."
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "If a reaction mechanism is proposed as: (1) A + B → I (slow); (2) I + B → C (fast). What is the predicted overall macro rate law for the synthesis of product C?",
@@ -457,7 +457,7 @@
       "C) Rate = k[A][B]",
       "D) Rate = k[A]"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which parameter tracks the statistical alignment efficiency of reacting molecules based on their shape during three-dimensional collisions?",
@@ -467,7 +467,7 @@
       "C) Steric factor (orientation probability factor P)",
       "D) Absolute temperature in Kelvin"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "What is the net effect of introducing an efficient catalyst into a reversible chemical system that has already established an equilibrium position?",
@@ -477,7 +477,7 @@
       "C) The catalyst shifts the equilibrium coordinates to maximize product yield ratios.",
       "D) The catalyst destroys the equilibrium matrix, freezing all molecular motion."
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "For a zero-order reaction with an initial concentration [A]_0, the integrated rate law tracking concentration over time matches which equation structure?",
@@ -487,7 +487,7 @@
       "C) 1/[A]_t = kt + 1/[A]_0",
       "D) [A]_t = [A]_0 · e^(-kt)"
     ],
-    "answer": "A"
+    "answer": "0"
   },
   {
     "question": "A chemical reaction rate doubles when the system temperature is raised from 298 K to 308 K. This kinetic acceleration is fundamentally dictated by changes in which parameter?",
@@ -497,7 +497,7 @@
       "C) A spontaneous dropping of the structural activation energy required to break bonds.",
       "D) A permanent alteration of the stoichiometric path of the reactions."
     ],
-    "answer": "B"
+    "answer": "1"
   }
 ]
 
