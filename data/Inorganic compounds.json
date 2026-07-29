@@ -1,0 +1,253 @@
+[
+  {
+    "question": "Which of the following oxides is classified as amphoteric, reacting with both strong acids and strong bases?",
+    "options": [
+      "A) CaO",
+      "B) SO2",
+      "C) Al2O3",
+      "D) N2O"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is the primary industrial chemical manufactured via the Contact Process?",
+    "options": [
+      "A) Ammonia",
+      "B) Nitric acid",
+      "C) Sulfuric acid",
+      "D) Sodium carbonate"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which gas is evolved when a piece of calcium metal is added to distilled water at room temperature?",
+    "options": [
+      "A) Oxygen",
+      "B) Hydrogen",
+      "C) Carbon dioxide",
+      "D) Nitrogen"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "According to the Lewis definition of acids and bases, which of the following species behaves as a Lewis base?",
+    "options": [
+      "A) BF3",
+      "B) AlCl3",
+      "C) NH3",
+      "D) H+"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is the correct chemical formula for the coordinate covalent compound commonly known as Bleaching Powder?",
+    "options": [
+      "A) Ca(ClO)2",
+      "B) CaOCl2",
+      "C) CaCl2",
+      "D) Ca(OH)2"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following salts will produce an alkaline solution when dissolved in water due to salt hydrolysis?",
+    "options": [
+      "A) NaCl",
+      "B) NH4Cl",
+      "C) Na2CO3",
+      "D) CuSO4"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "In the industrial extraction of aluminum by the Hall-Héroult process, what is the primary role of adding molten cryolite (Na3AlF6)?",
+    "options": [
+      "A) To lower the melting point of the alumina mixture",
+      "B) To act as a reducing agent for aluminum ions",
+      "C) To prevent the oxidation of graphite anodes",
+      "D) To increase the viscosity of the electrolyte solution"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following raw materials is NOT required for the production of sodium carbonate via the Solvay Process?",
+    "options": [
+      "A) Sodium chloride brine",
+      "B) Limestone (CaCO3)",
+      "C) Ammonia (NH3)",
+      "D) Sulfuric acid (H2SO4)"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "What is the coordination number of the central transition metal ion in the complex ion [Co(NH3)4Cl2]+?",
+    "options": [
+      "A) 2",
+      "B) 4",
+      "C) 6",
+      "D) 8"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following transition metal complexes is expected to exhibit a deep blue color in aqueous solution?",
+    "options": [
+      "A) [Zn(H2O)6]2+",
+      "B) [Cu(NH3)4]2+",
+      "C) [Sc(H2O)6]3+",
+      "D) [Ag(NH3)2]+"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which oxide of nitrogen is commonly known as 'laughing gas' and behaves as a neutral oxide?",
+    "options": [
+      "A) NO",
+      "B) NO2",
+      "C) N2O",
+      "D) N2O5"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What compound precipitates out when excess carbon dioxide gas is bubbled into a clear solution of limewater?",
+    "options": [
+      "A) Calcium carbonate",
+      "B) Calcium hydroxide",
+      "C) Calcium bicarbonate",
+      "D) Calcium oxide"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following options represents a non-metal oxide that serves as a major structural anhydride of nitric acid?",
+    "options": [
+      "A) N2O",
+      "B) NO2",
+      "C) N2O3",
+      "D) N2O5"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "What gas is systematically generated when concentrated sulfuric acid reacts with solid sodium chloride?",
+    "options": [
+      "A) Chlorine gas",
+      "B) Hydrogen gas",
+      "C) Hydrogen chloride gas",
+      "D) Sulfur dioxide gas"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following pairs of substances can be used together to prepare a standard acidic buffer solution?",
+    "options": [
+      "A) HCl and NaCl",
+      "B) CH3COOH and CH3COONa",
+      "C) NH3 and NH4Cl",
+      "D) NaOH and CH3COONa"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the IUPAC systematic name for the coordination compound represented by K4[Fe(CN)6]?",
+    "options": [
+      "A) Potassium hexacyanoferrate(II)",
+      "B) Potassium hexacyanoferrate(III)",
+      "C) Tetrapotassium iron hexacyanide",
+      "D) Potassium iron(II) cyanide"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following observations is true when hydrogen sulfide gas (H2S) is bubbled through an acidified solution of copper(II) sulfate?",
+    "options": [
+      "A) A bright white precipitate forms",
+      "B) A dense black precipitate forms",
+      "C) The blue color of the solution darkens with no precipitate",
+      "D) Effervescence of oxygen gas occurs"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The structural composition of common fertilizer known as 'DAP' primarily contains which inorganic elements?",
+    "options": [
+      "A) Nitrogen and Potassium",
+      "B) Phosphorus and Potassium",
+      "C) Nitrogen and Phosphorus",
+      "D) Sulfur and Calcium"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What property of concentrated nitric acid explains why it turns yellowish-brown when exposed to direct sunlight over time?",
+    "options": [
+      "A) It absorbs atmospheric moisture rapidly",
+      "B) It undergoes photochemical decomposition to form NO2",
+      "C) It oxidizes the glass container slowly",
+      "D) It extracts nitrogen gas directly from air"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which element can form a hydride that acts as a strong reducing agent and reacts with water to release hydrogen gas?",
+    "options": [
+      "A) Sulfur",
+      "B) Chlorine",
+      "C) Sodium",
+      "D) Nitrogen"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What type of chemical bonding keeps the discrete ionic components attached together in a solid complex crystal of Mohr's salt?",
+    "options": [
+      "A) Purely covalent bonds",
+      "B) Metallic bonds",
+      "C) Ionic bonds",
+      "D) Coordinate dispersion forces"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which acid is considered a weak inorganic diprotic acid under normal temperature and pressure conditions?",
+    "options": [
+      "A) H2SO4",
+      "B) H2CO3",
+      "C) H3PO4",
+      "D) HNO3"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The mineral 'Gypsum', which is widely utilized in the Ethiopian construction industry to control the setting time of cement, has the chemical formula:",
+    "options": [
+      "A) CaSO4·1/2H2O",
+      "B) CaSO4·2H2O",
+      "C) CaCO3",
+      "D) MgSO4·7H2O"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which chemical indicator shows a distinct pink-purple color profile when placed in a basic inorganic solution?",
+    "options": [
+      "A) Methyl orange",
+      "B) Phenolphthalein",
+      "C) Litmus paper",
+      "D) Bromothymol blue"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What color precipitate is observed when silver nitrate solution is added to a test tube containing aqueous iodide ions?",
+    "options": [
+      "A) White",
+      "B) Pale cream",
+      "C) Pale yellow",
+      "D) Brick red"
+    ],
+    "answer": "C"
+  },
+  
+
