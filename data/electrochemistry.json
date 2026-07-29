@@ -149,4 +149,154 @@
     ],
     "answer": "B"
   },
+  {
+    "question": "If an electrochemical system shifts into a state of dynamic equilibrium where the reaction quotient Q equals the equilibrium constant K, what is the value of the cell potential (Ecell)?",
+    "options": [
+      "A) It reaches its maximum standard value (E°).",
+      "B) It drops to exactly zero.",
+      "C) It approaches infinity.",
+      "D) It converts into a negative potential value."
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "When an aqueous solution of sodium chloride (NaCl brine) is electrolyzed in an industrial diaphragm cell, what important chemical combination is produced at the cathode compartment?",
+    "options": [
+      "A) Sodium metal and Chlorine gas",
+      "B) Hydrogen gas and Sodium hydroxide solution",
+      "C) Chlorine gas and Oxygen gas",
+      "D) Hydrochloric acid and Sodium metal"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following techniques involves attaching a more active sacrificial metal, like zinc or magnesium, to iron pipelines to prevent rusting?",
+    "options": [
+      "A) Electroplating",
+      "B) Cathodic Protection (Sacrificial Anode)",
+      "C) Passivation",
+      "D) Painting and Glazing"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The structural electrochemical setup that continuously converts the chemical energy of a conventional fuel like methane directly into electricity is termed a/an:",
+    "options": [
+      "A) Electrolytic cell",
+      "B) Primary dry cell",
+      "C) Fuel cell",
+      "D) Storage accumulator"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What change occurs to the standard cell potential (E°cell) of a galvanic cell if all the stoichiometric coefficients in its balanced cell equation are doubled?",
+    "options": [
+      "A) It doubles systematically.",
+      "B) It drops to half of its value.",
+      "C) It remains completely unchanged because potential is an intensive property.",
+      "D) It increases fourfold due to squared terms."
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "During the balancing of a redox reaction in an acidic aqueous medium, what molecular species is added to balance oxygen atoms?",
+    "options": [
+      "A) H+ ions",
+      "B) OH- ions",
+      "C) H2O molecules",
+      "D) O2 gas molecules"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following statements perfectly matches the structural operational criteria of an electrolytic cell?",
+    "options": [
+      "A) It uses a spontaneous chemical reaction to generate an electric current.",
+      "B) It requires an external electrical energy source to force a non-spontaneous chemical reaction.",
+      "C) Its cathode electrode bears a fixed positive electrical charge polarity.",
+      "D) It runs exclusively without the inclusion of electrolytes."
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the base reference electrode whose standard reduction potential is defined as exactly 0.00 Volts across all temperatures?",
+    "options": [
+      "A) Calomel Electrode",
+      "B) Silver-Silver Chloride Electrode",
+      "C) Standard Hydrogen Electrode (SHE)",
+      "D) Platinum-Oxygen Half-Cell"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "According to Faraday's Second Law of Electrolysis, when the same quantity of electricity is passed through several electrolytes, the masses of substances liberated are proportional to their:",
+    "options": [
+      "A) Atomic masses",
+      "B) Chemical equivalent weights",
+      "C) Solubilities in water",
+      "D) Densities at standard state"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following elements is produced on an enormous industrial scale in Ethiopia and globally via the electrolytic reduction of alumina dissolved in molten cryolite?",
+    "options": [
+      "A) Iron",
+      "B) Copper",
+      "C) Aluminum",
+      "D) Zinc"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "In a lithium-ion battery during standard discharge cycles, lithium ions migrate spontaneously through the electrolyte in which direction?",
+    "options": [
+      "A) From the cathode to the anode",
+      "B) From the anode to the cathode",
+      "C) They remain completely static inside the graphite layers",
+      "D) Out of the cell containment into the air"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What unique category of chemical reaction features the simultaneous oxidation and reduction of atoms belonging to the exact same starting chemical species?",
+    "options": [
+      "A) Displacement reaction",
+      "B) Decomposition reaction",
+      "C) Disproportionation reaction",
+      "D) Combination reaction"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "If three electrolytic cells containing aqueous solutions of AgNO3, CuSO4, and AlCl3 are connected in series and a fixed current is passed, which cell will yield the highest number of moles of metal?",
+    "options": [
+      "A) The AlCl3 cell because aluminum is light.",
+      "B) The CuSO4 cell.",
+      "C) The AgNO3 cell because silver requires only one electron per ion.",
+      "D) All three cells will yield identical molar amounts of metal."
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What physical parameter acts as the operational cut-off ceiling when an aqueous solution is electrolyzed, preventing the reduction of highly active metal ions like Na+ at the cathode interface?",
+    "options": [
+      "A) The overvoltage of oxygen generation.",
+      "B) The preferential thermodynamic reduction of water molecules to hydrogen gas.",
+      "C) The extreme volatility of sodium aggregates.",
+      "D) The structural thickness of the porous separator mesh."
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The cell potential (Ecell) evaluated under non-standard concentrations at 298 K can be computed using the simplified Nernst variant: Ecell = E°cell - (0.0592 / n) log Q. What mathematical value does the constant 0.0592 represent?",
+    "options": [
+      "A) (R * T) / F computed with natural logs converted to base-10 logs.",
+      "B) The activation energy threshold of standard electrons.",
+      "C) The equilibrium fraction of an ideal gas constant.",
+      "D) The internal electrical resistance constant of a platinum wire."
+    ],
+    "answer": "A"
+  },
   
