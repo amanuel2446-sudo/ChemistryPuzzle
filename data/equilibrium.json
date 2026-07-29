@@ -149,4 +149,155 @@
     ],
     "answer": "B"
   },
-  
+  {
+    "question": "What is the direct consequence of reducing the total volume of the reaction container for the system: C(s) + CO2(g) ⇌ 2CO(g)?",
+    "options": [
+      "A) The equilibrium shifts forward to produce more CO gas",
+      "B) The equilibrium shifts backward to produce more CO2 gas and solid carbon",
+      "C) The rate of the forward reaction drops instantly to zero",
+      "D) The total mass of solid carbon in the system remains unaffected"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "When two independent chemical steps with equilibrium constants K_1 and K_2 are added together to form a net summary equation, the net equilibrium constant K_net is calculated by:",
+    "options": [
+      "A) Adding K_1 and K_2 together",
+      "B) Subtracting K_2 from K_1",
+      "C) Multiplying K_1 by K_2",
+      "D) Dividing K_1 by K_2"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Under what structural parameter will an increase in the total external pressure fail to induce a directional shift in a gaseous equilibrium system?",
+    "options": [
+      "A) When all components are in the liquid state",
+      "B) When the sum of the stoichiometric coefficients of gaseous reactants equals that of gaseous products",
+      "C) When the reaction is highly exothermic",
+      "D) Pressure alterations always force a shift in all gaseous reactions"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "If the ionic product (Q_sp) of a sparingly soluble salt mixture in water is calculated to be strictly less than its documented K_sp value, the solution is classified as:",
+    "options": [
+      "A) Saturated with visible crystal precipitation occurring",
+      "B) Unsaturated with no crystal precipitation occurring",
+      "C) Supersaturated in a highly unstable thermodynamic state",
+      "D) Completely neutralized into pure distilled water"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What happens to the molar solubility of calcium fluoride, CaF2, if it is dissolved in an aqueous solution of 0.10 M NaF instead of pure distilled water?",
+    "options": [
+      "A) Its solubility increases due to ionic stabilization",
+      "B) Its solubility decreases due to the common ion effect of fluoride ions",
+      "C) Its solubility remains completely constant",
+      "D) CaF2 reacts with NaF to produce toxic fluorine gas"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The dynamic nature of chemical equilibrium means that at the equilibrium point:",
+    "options": [
+      "A) Both the forward and reverse reactions have completely ceased",
+      "B) The forward and reverse reactions proceed at identical velocities",
+      "C) The masses of reactants and products are perfectly uniform",
+      "D) The activation energy of the reaction drops to zero"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the unit of the equilibrium constant K_c for the gas phase reaction: H2(g) + I2(g) ⇌ 2HI(g)?",
+    "options": [
+      "A) mol/L",
+      "B) (mol/L)^-1",
+      "C) (mol/L)^-2",
+      "D) It is a completely dimensionless quantity"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "For the endothermic decomposition: PCl5(g) ⇌ PCl3(g) + Cl2(g), which modification will systematically lower the total concentration of PCl5 at equilibrium?",
+    "options": [
+      "A) Adding more Cl2 gas to the chamber",
+      "B) Increasing the temperature of the system",
+      "C) Decreasing the total volume of the reaction container",
+      "D) Removing PCl3 gas and adding an inert inhibitor"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "If a chemical equation is multiplied throughout by a stoichiometric factor of 3, the original equilibrium constant K will transform into:",
+    "options": [
+      "A) 3K",
+      "B) K / 3",
+      "C) K^3",
+      "D) K + 3"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following compounds will exhibit an increased solubility if the pH of the aqueous solvent is lowered by adding a strong mineral acid?",
+    "options": [
+      "A) AgCl",
+      "B) PbI2",
+      "C) CaCO3",
+      "D) BaSO4"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is the mathematical relation linking the solubility product K_sp to the molar solubility 'S' for a sparingly soluble salt with the formula M(OH)3?",
+    "options": [
+      "A) K_sp = S^2",
+      "B) K_sp = 4S^3",
+      "C) K_sp = 27S^4",
+      "D) K_sp = 108S^5"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Under what condition will the numerical value of the equilibrium constant K change for a given chemical system?",
+    "options": [
+      "A) When the pressure of the system is doubled",
+      "B) When the concentration of the reactants is increased",
+      "C) When the operating temperature of the system is altered",
+      "D) When a more selective catalyst is introduced"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "For the gas phase equilibrium: 2NO(g) + Cl2(g) ⇌ 2NOCl(g), if the volume of the reaction chamber is doubled at constant temperature, the equilibrium position will:",
+    "options": [
+      "A) Shift in the forward direction, increasing the yield of NOCl",
+      "B) Shift in the reverse direction, increasing the counts of NO and Cl2",
+      "C) Remain entirely unaffected because temperature is constant",
+      "D) Cause the reaction quotient Q to match K instantly"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "If the reaction quotient Q for a system is exactly equal to its equilibrium constant K, this indicates that the system is:",
+    "options": [
+      "A) Running exclusively in the forward direction at maximum speed",
+      "B) Running exclusively in the reverse direction at maximum speed",
+      "C) In a state of dynamic chemical equilibrium",
+      "D) Completely exhausted of all available reactant molecules"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following statements regarding a state of chemical equilibrium is fully correct?",
+    "options": [
+      "A) Equilibrium can only be attained starting from pure reactant materials",
+      "B) The concentrations of reactants and products remain constant over time at equilibrium",
+      "C) The total moles of reactants must equal the total moles of products at equilibrium",
+      "D) Physical parameters like density and color continue to alter indefinitely"
+    ],
+    "answer": "B"
+  }
+]
+
