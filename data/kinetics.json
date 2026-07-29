@@ -1,0 +1,152 @@
+[
+  {
+    "question": "For the gas-phase reaction: 2A + B → 3C, if the rate of disappearance of reactant A is 0.40 mol/(L·s), what is the simultaneous rate of appearance of product C?",
+    "options": [
+      "A) 0.20 mol/(L·s)",
+      "B) 0.40 mol/(L·s)",
+      "C) 0.60 mol/(L·s)",
+      "D) 1.20 mol/(L·s)"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "A reaction rate law is experimentally determined to be Rate = k[A]^2[B]. If the initial concentration of reactant A is doubled while B is kept constant, the initial rate of the reaction will:",
+    "options": [
+      "A) Remain completely unchanged",
+      "B) Double systematically",
+      "C) Triple systematically",
+      "D) Increase four-fold"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "What are the correct units for the specific rate constant (k) in an elementary chemical reaction that exhibits an overall reaction order of two?",
+    "options": [
+      "A) s^-1",
+      "B) L/(mol·s)",
+      "C) L^2/(mol^2·s)",
+      "D) mol/(L·s)"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "According to the Collision Theory of chemical reactions, what two primary structural criteria must be met by colliding reactant molecules to yield a successful reaction?",
+    "options": [
+      "A) High molecular density and uniform molecular mass",
+      "B) Sufficient kinetic energy (activation energy) and correct spatial orientation",
+      "C) High temperature and a low total surface area parameter",
+      "D) Complete magnetic alignment and high gas pressure values"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The time required for the concentration of a reactant to drop to exactly half of its initial value is termed the half-life. For which reaction order is the half-life completely independent of the initial reactant concentration?",
+    "options": [
+      "A) Zero-order",
+      "B) First-order",
+      "C) Second-order",
+      "D) Third-order"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following physical actions accelerates the rate of a heterogeneous reaction, such as solid zinc reacting with hydrochloric acid, without altering the system temperature?",
+    "options": [
+      "A) Increasing the particle size of the solid zinc",
+      "B) Diluting the hydrochloric acid solution with distilled water",
+      "C) Crushing the solid zinc into a fine powder to increase its total surface area",
+      "D) Performing the reaction inside a closed vacuum desiccator"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is the primary operational definition of the 'activation energy' (Ea) of a chemical reaction according to Transition State Theory?",
+    "options": [
+      "A) The total heat energy absorbed during an endothermic process",
+      "B) The minimum energy required to initiate a spontaneous reaction by forming an activated complex",
+      "C) The net difference in potential energy between the reactants and the final products",
+      "D) The structural kinetic energy possessed by a single isolated electron"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "How does an efficient chemical catalyst successfully increase the rate of a chemical reaction?",
+    "options": [
+      "A) It shifts the equilibrium position to maximize total product yields",
+      "B) It provides an alternative reaction pathway featuring a lower activation energy barrier",
+      "C) It lowers the total enthalpy change (ΔH) of the overall transformation",
+      "D) It selectively increases the kinetic energy of the solvent molecules"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The comprehensive multi-step description of individual elementary reactions that together add up to form the overall macroscopic chemical reaction is termed the:",
+    "options": [
+      "A) Reaction rate law",
+      "B) Molecularity index",
+      "C) Reaction mechanism",
+      "D) Rate-determining transition"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "An empirical rule of thumb states that for many common chemical reactions near room temperature, the reaction rate approximately doubles for every increase in temperature of:",
+    "options": [
+      "A) 1°C",
+      "B) 5°C",
+      "C) 10°C",
+      "D) 50°C"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What mathematical plot yields a perfectly straight linear line for a first-order chemical reaction when tracking reactant concentration against time?",
+    "options": [
+      "A) [A] versus time",
+      "B) ln[A] versus time",
+      "C) 1/[A] versus time",
+      "D) log(1/[A]) versus 1/time"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "In a multi-step reaction mechanism, which elementary step ultimately controls and dictates the observed macroscopic rate of the overall reaction?",
+    "options": [
+      "A) The first elementary step",
+      "B) The last elementary step",
+      "C) The fastest elementary step",
+      "D) The slowest elementary step (rate-determining step)"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "What term defines a short-lived, high-energy, highly unstable structural arrangement of atoms formed at the peak of the potential energy barrier during a chemical reaction?",
+    "options": [
+      "A) Reaction intermediate",
+      "B) Activated complex (Transition state)",
+      "C) Free radical cluster",
+      "D) Homogeneous catalyst"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The mathematical equation: k = A·e^(-Ea/RT) coordinates the relationship linking the rate constant, activation energy, and absolute temperature. This is known as the:",
+    "options": [
+      "A) van 't Hoff Equation",
+      "B) Arrhenius Equation",
+      "C) Nernst Equation",
+      "D) Beer-Lambert Law"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the molecularity of an elementary chemical step where a single reactant molecule splits apart to form products, as shown in: N2O5(g) → NO2(g) + NO3(g)?",
+    "options": [
+      "A) Unimolecular",
+      "B) Bimolecular",
+      "C) Termolecular",
+      "D) Zero-molecular"
+    ],
+    "answer": "A"
+  },
+  
