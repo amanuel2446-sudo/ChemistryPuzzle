@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Who proposed the first modern atomic theory?",
+    "options": [
+      "A) J. J. Thomson",
+      "B) John Dalton",
+      "C) Ernest Rutherford",
+      "D) Niels Bohr"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which statement is NOT one of Dalton's atomic theory postulates?",
+    "options": [
+      "A) Atoms of the same element are identical in mass and properties.",
+      "B) Atoms are indivisible in chemical reactions.",
+      "C) Atoms can be created or destroyed during chemical reactions.",
+      "D) Compounds are formed by atoms combining in simple whole-number ratios."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which scientist discovered the electron using the cathode ray tube experiment?",
+    "options": [
+      "A) James Chadwick",
+      "B) Ernest Rutherford",
+      "C) J. J. Thomson",
+      "D) Henry Moseley"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "According to Thomson's atomic model, electrons are:",
+    "options": [
+      "A) Orbiting a dense nucleus",
+      "B) Embedded in a positively charged sphere",
+      "C) Found only outside the atom",
+      "D) Located inside the nucleus"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Rutherford's gold foil experiment showed that:",
+    "options": [
+      "A) Atoms are completely solid.",
+      "B) Electrons have positive charge.",
+      "C) Most of the atom is empty space with a small dense nucleus.",
+      "D) Electrons move in fixed energy levels."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which particle has a relative mass of approximately 1 amu and no electric charge?",
+    "options": [
+      "A) Electron",
+      "B) Proton",
+      "C) Neutron",
+      "D) Positron"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The atomic number of an element is equal to the number of:",
+    "options": [
+      "A) Neutrons",
+      "B) Protons",
+      "C) Protons and neutrons",
+      "D) Electrons and neutrons"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The mass number of an atom is equal to:",
+    "options": [
+      "A) Number of electrons",
+      "B) Number of neutrons",
+      "C) Number of protons",
+      "D) Sum of protons and neutrons"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Two atoms having the same atomic number but different mass numbers are called:",
+    "options": [
+      "A) Isobars",
+      "B) Isotopes",
+      "C) Isotones",
+      "D) Isoelectronic species"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which statement correctly describes isotopes?",
+    "options": [
+      "A) They have the same number of protons but different numbers of neutrons.",
+      "B) They have different numbers of protons but the same number of neutrons.",
+      "C) They have the same mass number but different atomic numbers.",
+      "D) They have the same number of electrons only."
+    ],
+    "answer": 0
+  },
+  
