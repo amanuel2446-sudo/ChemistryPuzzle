@@ -7,7 +7,7 @@
       "C) NaCl",
       "D) C6H12O6"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Inorganic compounds are generally compounds that do not contain:",
@@ -17,7 +17,7 @@
       "C) Metals",
       "D) Nitrogen"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Which of the following is an oxide?",
@@ -27,7 +27,7 @@
       "C) HCl",
       "D) NaCl"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "An oxide formed by a metal reacting with oxygen is called:",
@@ -37,7 +37,7 @@
       "C) Neutral oxide",
       "D) Organic oxide"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Which of the following is a strong acid?",
@@ -47,7 +47,7 @@
       "C) H2CO3",
       "D) NH4OH"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "The pH value of an acidic solution is:",
@@ -57,7 +57,7 @@
       "C) Less than 7",
       "D) Equal to 14"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which ion is responsible for acidic properties?",
@@ -67,7 +67,7 @@
       "C) Na+",
       "D) Cl−"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Which ion is responsible for basic properties?",
@@ -77,7 +77,7 @@
       "C) Cl−",
       "D) NO3−"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "What is the chemical formula of sodium chloride?",
@@ -87,7 +87,7 @@
       "C) Na2CO3",
       "D) Na2O"
     ],
-    "answer": "A"
+    "answer": "0"
   },
   {
     "question": "The reaction between an acid and a base is called:",
@@ -97,7 +97,7 @@
       "C) Reduction",
       "D) Decomposition"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "The products of neutralization are usually:",
@@ -107,7 +107,7 @@
       "C) Base and hydrogen",
       "D) Carbon and water"
     ],
-    "answer": "A"
+    "answer": "0"
   },
   {
     "question": "Which of the following is a base?",
@@ -117,7 +117,7 @@
       "C) NaOH",
       "D) CO2"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which of the following is an alkaline earth metal oxide?",
@@ -127,7 +127,7 @@
       "C) SO2",
       "D) NO2"
     ],
-    "answer": "A"
+    "answer": "0"
   },
   {
     "question": "Which gas is produced when acids react with carbonates?",
@@ -137,7 +137,7 @@
       "C) Carbon dioxide",
       "D) Nitrogen"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which compound is known as sulfuric acid?",
@@ -147,7 +147,7 @@
       "C) H2SO4",
       "D) H2CO3"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which compound is a nitrate salt?",
@@ -157,7 +157,7 @@
       "C) CaCO3",
       "D) MgO"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "What type of bond is commonly found in inorganic salts?",
@@ -167,7 +167,7 @@
       "C) Metallic bond",
       "D) Hydrogen bond"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Which of the following is an acidic oxide?",
@@ -177,7 +177,7 @@
       "C) SO2",
       "D) MgO"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which of the following is a neutral oxide?",
@@ -187,7 +187,7 @@
       "C) Na2O",
       "D) CaO"
     ],
-    "answer": "A"
+    "answer": "0"
   },
   {
     "question": "Which compound is commonly used as table salt?",
@@ -197,7 +197,7 @@
       "C) KOH",
       "D) CaO"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Which of the following is a strong base?",
@@ -207,7 +207,7 @@
       "C) CH3COOH",
       "D) H2CO3"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "What is the chemical formula of calcium hydroxide?",
@@ -217,7 +217,7 @@
       "C) Ca2O",
       "D) CaCO3"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Which of the following is a weak acid?",
@@ -227,7 +227,7 @@
       "C) CH3COOH",
       "D) H2SO4"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which compound is commonly called slaked lime?",
@@ -237,7 +237,7 @@
       "C) CaCO3",
       "D) CaCl2"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "The reaction of a metal oxide with an acid produces:",
@@ -247,7 +247,7 @@
       "C) Oxygen gas",
       "D) Carbon dioxide"
     ],
-    "answer": "A"
+    "answer": "0"
   },
   {
     "question": "Which compound is baking soda?",
@@ -257,7 +257,7 @@
       "C) NaCl",
       "D) NaOH"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Which ion forms insoluble precipitate with Ag+ ions?",
@@ -267,7 +267,7 @@
       "C) Na+",
       "D) K+"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Which of the following is a carbonate salt?",
@@ -277,7 +277,7 @@
       "C) KNO3",
       "D) HCl"
     ],
-    "answer": "A"
+    "answer": "0"
   },
   {
     "question": "The decomposition of carbonates by heating usually produces:",
@@ -287,7 +287,7 @@
       "C) Hydrogen and water",
       "D) Acid and base"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Which gas turns limewater milky?",
@@ -297,7 +297,7 @@
       "C) Carbon dioxide",
       "D) Hydrogen"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which of the following is an amphoteric oxide?",
@@ -307,7 +307,7 @@
       "C) Na2O",
       "D) SO2"
     ],
-    "answer": "A"
+    "answer": "0"
   },
   {
     "question": "What is the formula of nitric acid?",
@@ -317,7 +317,7 @@
       "C) HCl",
       "D) H2CO3"
     ],
-    "answer": "A"
+    "answer": "0"
   },
   {
     "question": "Which metal reacts with dilute acids to release hydrogen gas?",
@@ -327,7 +327,7 @@
       "C) Zinc",
       "D) Gold"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which salt is used in fertilizers?",
@@ -337,7 +337,7 @@
       "C) CaCO3",
       "D) AgCl"
     ],
-    "answer": "A"
+    "answer": "0"
   },
   {
     "question": "A solution with pH 7 is:",
@@ -347,7 +347,7 @@
       "C) Neutral",
       "D) Strongly acidic"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which compound is gypsum?",
@@ -357,7 +357,7 @@
       "C) CaO",
       "D) MgO"
     ],
-    "answer": "A"
+    "answer": "0"
   },
   {
     "question": "Which acid is present in the stomach?",
@@ -367,7 +367,7 @@
       "C) H2SO4",
       "D) CH3COOH"
     ],
-    "answer": "A"
+    "answer": "0"
   },
   {
     "question": "Which of the following is a soluble base?",
@@ -377,7 +377,7 @@
       "C) Fe2O3",
       "D) CO2"
     ],
-    "answer": "A"
+    "answer": "0"
   },
   {
     "question": "Which compound is commonly known as quicklime?",
@@ -387,7 +387,7 @@
       "C) CaCO3",
       "D) MgO"
     ],
-    "answer": "A"
+    "answer": "0"
   },
   {
     "question": "The process of forming a salt from an acid and a base is called:",
@@ -397,7 +397,7 @@
       "C) Reduction",
       "D) Polymerization"
     ],
-    "answer": "A"
+    "answer": "0"
   },
   {
     "question": "Which of the following is a transition metal compound?",
@@ -407,7 +407,7 @@
       "C) KNO3",
       "D) CaCO3"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "What is the chemical formula of magnesium oxide?",
@@ -417,7 +417,7 @@
       "C) MgCl2",
       "D) MgCO3"
     ],
-    "answer": "A"
+    "answer": "0"
   },
   {
     "question": "Which salt is insoluble in water?",
@@ -427,7 +427,7 @@
       "C) AgCl",
       "D) NH4Cl"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which compound is used to neutralize acidic soil?",
@@ -437,7 +437,7 @@
       "C) H2SO4",
       "D) CO2"
     ],
-    "answer": "A"
+    "answer": "0"
   },
   {
     "question": "Which of the following is a basic oxide?",
@@ -447,7 +447,7 @@
       "C) CaO",
       "D) NO2"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "What is the formula of aluminum oxide?",
@@ -457,7 +457,7 @@
       "C) Al(OH)3",
       "D) AlCl3"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Which process is used to obtain pure crystals of salts from solutions?",
@@ -467,7 +467,7 @@
       "C) Distillation",
       "D) Sublimation"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Which of the following is a strong alkali?",
@@ -477,7 +477,7 @@
       "C) Al(OH)3",
       "D) Cu(OH)2"
     ],
-    "answer": "A"
+    "answer": "0"
   },
   {
     "question": "Which compound is used in making cement?",
@@ -487,7 +487,7 @@
       "C) HNO3",
       "D) KOH"
     ],
-    "answer": "A"
+    "answer": "0"
   },
   {
     "question": "Which statement about inorganic salts is correct?",
@@ -497,7 +497,7 @@
       "C) They cannot dissolve in water",
       "D) They are all acids"
     ],
-    "answer": "A"
+    "answer": "0"
   }
   ]
 
