@@ -7,7 +7,7 @@
       "C) Al2O3",
       "D) N2O"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "What is the primary industrial chemical manufactured via the Contact Process?",
@@ -17,7 +17,7 @@
       "C) Sulfuric acid",
       "D) Sodium carbonate"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which gas is evolved when a piece of calcium metal is added to distilled water at room temperature?",
@@ -27,7 +27,7 @@
       "C) Carbon dioxide",
       "D) Nitrogen"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "According to the Lewis definition of acids and bases, which of the following species behaves as a Lewis base?",
@@ -37,7 +37,7 @@
       "C) NH3",
       "D) H+"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "What is the correct chemical formula for the coordinate covalent compound commonly known as Bleaching Powder?",
@@ -47,7 +47,7 @@
       "C) CaCl2",
       "D) Ca(OH)2"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Which of the following salts will produce an alkaline solution when dissolved in water due to salt hydrolysis?",
@@ -57,7 +57,7 @@
       "C) Na2CO3",
       "D) CuSO4"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "In the industrial extraction of aluminum by the Hall-Héroult process, what is the primary role of adding molten cryolite (Na3AlF6)?",
@@ -67,7 +67,7 @@
       "C) To prevent the oxidation of graphite anodes",
       "D) To increase the viscosity of the electrolyte solution"
     ],
-    "answer": "A"
+    "answer": "0"
   },
   {
     "question": "Which of the following raw materials is NOT required for the production of sodium carbonate via the Solvay Process?",
@@ -77,7 +77,7 @@
       "C) Ammonia (NH3)",
       "D) Sulfuric acid (H2SO4)"
     ],
-    "answer": "D"
+    "answer": "3"
   },
   {
     "question": "What is the coordination number of the central transition metal ion in the complex ion [Co(NH3)4Cl2]+?",
@@ -87,7 +87,7 @@
       "C) 6",
       "D) 8"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which of the following transition metal complexes is expected to exhibit a deep blue color in aqueous solution?",
@@ -97,7 +97,7 @@
       "C) [Sc(H2O)6]3+",
       "D) [Ag(NH3)2]+"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Which oxide of nitrogen is commonly known as 'laughing gas' and behaves as a neutral oxide?",
@@ -107,7 +107,7 @@
       "C) N2O",
       "D) N2O5"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "What compound precipitates out when excess carbon dioxide gas is bubbled into a clear solution of limewater?",
@@ -117,7 +117,7 @@
       "C) Calcium bicarbonate",
       "D) Calcium oxide"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which of the following options represents a non-metal oxide that serves as a major structural anhydride of nitric acid?",
@@ -127,7 +127,7 @@
       "C) N2O3",
       "D) N2O5"
     ],
-    "answer": "D"
+    "answer": "3"
   },
   {
     "question": "What gas is systematically generated when concentrated sulfuric acid reacts with solid sodium chloride?",
@@ -137,7 +137,7 @@
       "C) Hydrogen chloride gas",
       "D) Sulfur dioxide gas"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which of the following pairs of substances can be used together to prepare a standard acidic buffer solution?",
@@ -147,7 +147,7 @@
       "C) NH3 and NH4Cl",
       "D) NaOH and CH3COONa"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "What is the IUPAC systematic name for the coordination compound represented by K4[Fe(CN)6]?",
@@ -157,7 +157,7 @@
       "C) Tetrapotassium iron hexacyanide",
       "D) Potassium iron(II) cyanide"
     ],
-    "answer": "A"
+    "answer": "0"
   },
   {
     "question": "Which of the following observations is true when hydrogen sulfide gas (H2S) is bubbled through an acidified solution of copper(II) sulfate?",
@@ -167,7 +167,7 @@
       "C) The blue color of the solution darkens with no precipitate",
       "D) Effervescence of oxygen gas occurs"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "The structural composition of common fertilizer known as 'DAP' primarily contains which inorganic elements?",
@@ -177,7 +177,7 @@
       "C) Nitrogen and Phosphorus",
       "D) Sulfur and Calcium"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "What property of concentrated nitric acid explains why it turns yellowish-brown when exposed to direct sunlight over time?",
@@ -187,7 +187,7 @@
       "C) It oxidizes the glass container slowly",
       "D) It extracts nitrogen gas directly from air"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Which element can form a hydride that acts as a strong reducing agent and reacts with water to release hydrogen gas?",
@@ -197,7 +197,7 @@
       "C) Sodium",
       "D) Nitrogen"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "What type of chemical bonding keeps the discrete ionic components attached together in a solid complex crystal of Mohr's salt?",
@@ -207,7 +207,7 @@
       "C) Ionic bonds",
       "D) Coordinate dispersion forces"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which acid is considered a weak inorganic diprotic acid under normal temperature and pressure conditions?",
@@ -217,7 +217,7 @@
       "C) H3PO4",
       "D) HNO3"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "The mineral 'Gypsum', which is widely utilized in the Ethiopian construction industry to control the setting time of cement, has the chemical formula:",
@@ -227,7 +227,7 @@
       "C) CaCO3",
       "D) MgSO4·7H2O"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Which chemical indicator shows a distinct pink-purple color profile when placed in a basic inorganic solution?",
@@ -237,7 +237,7 @@
       "C) Litmus paper",
       "D) Bromothymol blue"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "What color precipitate is observed when silver nitrate solution is added to a test tube containing aqueous iodide ions?",
@@ -247,7 +247,7 @@
       "C) Pale yellow",
       "D) Brick red"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which of the following parameters decreases down Group 2 (Alkaline Earth Metals) in the periodic table?",
@@ -257,7 +257,7 @@
       "C) First ionization energy",
       "D) Reducing power"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "What product is generated at the anode during the electrolysis of concentrated sodium chloride solution (brine) in a diaphragm cell?",
@@ -267,7 +267,7 @@
       "C) Chlorine gas",
       "D) Sodium metal"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which of the following compounds is chemically known as 'slaked lime'?",
@@ -277,7 +277,7 @@
       "C) Ca(OH)2",
       "D) CaCl2"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "What is the catalyst used in the industrial synthesis of ammonia from its constituent elements via the Haber Process?",
@@ -287,7 +287,7 @@
       "C) Platinum (Pt)",
       "D) Nickel (Ni)"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Which of the following aqueous mixtures forms the highly corrosive reagent known as 'Aqua Regia'?",
@@ -297,7 +297,7 @@
       "C) 3 parts conc. H2SO4 and 1 part conc. HNO3",
       "D) Equal parts conc. HCl and conc. H2SO4"
     ],
-    "answer": "A"
+    "answer": "0"
   },
   {
     "question": "Which gas behaves as an acid anhydride of sulfurous acid?",
@@ -307,7 +307,7 @@
       "C) SO3",
       "D) SF6"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "What is the correct oxidation state of the sulfur atom in a thiosulfate ion (S2O3^2-)?",
@@ -317,7 +317,7 @@
       "C) +6",
       "D) -2"
     ],
-    "answer": "A"
+    "answer": "0"
   },
   {
     "question": "Which of the following statements perfectly describes a property of transition metal elements?",
@@ -327,7 +327,7 @@
       "C) They frequently exhibit variable oxidation states and form complex ions",
       "D) They are mostly non-magnetic and highly non-reactive"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "What inorganic compound constitutes the primary chemical component of limestone, marble, and chalk?",
@@ -337,7 +337,7 @@
       "C) Calcium carbonate",
       "D) Calcium sulfate"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which reagent is used as a qualitative confirmatory laboratory test to identify the presence of ammonium ions in solution?",
@@ -347,7 +347,7 @@
       "C) Tollen's reagent",
       "D) Fehling's solution"
     ],
-    "answer": "A"
+    "answer": "0"
   },
   {
     "question": "What is the primary pollutant gas responsible for causing localized acid rain when coal containing trace sulfur impurities is combusted?",
@@ -357,7 +357,7 @@
       "C) SO2",
       "D) N2O"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which of the following ions forms a bright blue complex when treated with an excess of aqueous ammonia solution?",
@@ -367,7 +367,7 @@
       "C) Cu2+",
       "D) Al3+"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "What is the characteristic flame test color produced by volatile salts containing copper ions?",
@@ -377,7 +377,7 @@
       "C) Apple green",
       "D) Greenish-blue"
     ],
-    "answer": "D"
+    "answer": "3"
   },
   {
     "question": "Which compound is widely manufactured as a raw material for safety matches and fireworks because of its strong oxidizing properties?",
@@ -387,7 +387,7 @@
       "C) KMnO4",
       "D) K2Cr2O7"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "What type of chemical reaction occurs when an acid reacts with a base to form a salt and water?",
@@ -397,7 +397,7 @@
       "C) Neutralization",
       "D) Saponification"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which of the following elements behaves as a metalloid, possessing properties intermediate between metals and non-metals?",
@@ -407,7 +407,7 @@
       "C) Sulfur",
       "D) Iron"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "What is the chemical name of the crystal aggregate known commercially as 'Baking Soda'?",
@@ -417,7 +417,7 @@
       "C) Sodium hydroxide",
       "D) Sodium thiosulfate"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Which of the following acids behaves as a powerful dehydrating agent, capable of charring cane sugar into pure carbon?",
@@ -427,7 +427,7 @@
       "C) Conc. H2SO4",
       "D) Pure H3PO4"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "What compound is formed when dinitrogen pentoxide (N2O5) reacts directly with a molecular equivalent of water?",
@@ -437,7 +437,7 @@
       "C) Ammonia gas",
       "D) Hydrazine"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Which transition metal ion forms a blood-red colored coordinate complex with thiocyanate (SCN^-) ions in solution?",
@@ -447,7 +447,7 @@
       "C) Fe3+",
       "D) Cr3+"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "What type of ligand is EDTA (Ethylenediaminetetraacetic acid) classified as during complexation or coordination reactions?",
@@ -457,7 +457,7 @@
       "C) Hexadentate",
       "D) Tridentate"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which element forms an oxide that exists as a vast, continuous giant covalent macromolecular network rather than discrete simple molecules?",
@@ -467,7 +467,7 @@
       "C) Silicon",
       "D) Sulfur"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "What chemical substance is universally produced at the cathode during the commercial downstream electrolysis of molten sodium chloride in a Downs cell?",
@@ -477,7 +477,7 @@
       "C) Hydrogen gas",
       "D) Oxygen gas"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Which of the following combinations generates a gaseous mixture commonly called 'Synthesis Gas' or 'Syngas'?",
@@ -487,7 +487,7 @@
       "C) CH4 and O2",
       "D) N2 and H2"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "What insoluble material precipitates out when aqueous solutions of barium chloride and sodium sulfate are mixed together?",
@@ -497,7 +497,7 @@
       "C) Barium sulfite",
       "D) Sodium sulfate"
     ],
-    "answer": "A"
+    "answer": "0"
   }
 ]
 
