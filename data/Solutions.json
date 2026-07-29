@@ -1,0 +1,252 @@
+[
+  {
+    "question": "Which of the following expression terms for solution concentration changes its numerical value systematically as the operating temperature of the system is altered?",
+    "options": [
+      "A) Molality (m)",
+      "B) Molarity (M)",
+      "C) Mass percentage (% w/w)",
+      "D) Mole fraction (X)"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The dissolution of an ionic salt in water is highly endothermic. According to Le Chatelier's principle, what will happen to the equilibrium solubility of this salt if the temperature is increased?",
+    "options": [
+      "A) It will decrease regularly",
+      "B) It will increase regularly",
+      "C) It will remain completely unchanged",
+      "D) The salt will decompose into gaseous elements"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following binary solution pairs exhibits an ideal behavior, perfectly adhering to Raoult's Law across all possible molar concentrations?",
+    "options": [
+      "A) Water and Ethanol",
+      "B) Acetone and Chloroform",
+      "C) Hexane and Heptane",
+      "D) Nitric acid and Water"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "According to Henry's Law, if the partial pressure of a gas over a liquid solvent is tripled at a fixed temperature, the equilibrium solubility of that gas will:",
+    "options": [
+      "A) Decrease to one-third",
+      "B) Increase three-fold",
+      "C) Increase nine-fold",
+      "D) Remain completely static"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the expected ideal van 't Hoff factor (i) for a highly dilute aqueous solution of aluminum chloride (AlCl3), assuming complete ionic dissociation?",
+    "options": [
+      "A) 1",
+      "B) 2",
+      "C) 3",
+      "D) 4"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which of the following properties is NOT classified as a colligative property of a solution?",
+    "options": [
+      "A) Osmotic pressure",
+      "B) Boiling point elevation",
+      "C) Surface tension",
+      "D) Freezing point depression"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What structural condition governs the thermodynamic criterion for two liquids to be completely miscible in one another across all proportions?",
+    "options": [
+      "A) The components must have radically different molar masses",
+      "B) The intermolecular forces between the different components must be similar to those within the pure substances",
+      "C) One component must be completely non-polar while the other is highly ionic",
+      "D) The total enthalpy of mixing must be highly endothermic"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "An aqueous solution contains a non-volatile, non-electrolyte solute. If the vapor pressure of pure water at 25°C is 23.8 torr and the mole fraction of the solute is 0.10, what is the vapor pressure lowering of the solution?",
+    "options": [
+      "A) 2.38 torr",
+      "B) 21.42 torr",
+      "C) 23.8 torr",
+      "D) 0.238 torr"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "The macro-structural phenomenon where a concentrated solution of a gas in water releases tiny bubbles immediately upon opening its pressurized containment vessel is governed by:",
+    "options": [
+      "A) Raoult's Law",
+      "B) Henry's Law",
+      "C) Dalton's Law",
+      "D) Charles's Law"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following aqueous solutions will exhibit the lowest freezing point temperature among the group, assuming equal molal concentrations?",
+    "options": [
+      "A) Glucose (C6H12O6)",
+      "B) Sodium chloride (NaCl)",
+      "C) Calcium chloride (CaCl2)",
+      "D) Iron(III) chloride (FeCl3)"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "The continuous scattering of a focused visible light beam as it transits through a fluid mixture, illuminating its path clearly, definitively classifies the fluid system as a:",
+    "options": [
+      "A) True homogeneous solution",
+      "B) Saturated crystalline solution",
+      "C) Colloid suspension",
+      "D) Heterogeneous coarse precipitate"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What mathematical expression defines the molality (m) of a prepared laboratory solution?",
+    "options": [
+      "A) Moles of solute divided by liters of solution",
+      "B) Moles of solute divided by kilograms of solvent",
+      "C) Grams of solute divided by grams of solution",
+      "D) Moles of solute divided by total moles of solution"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "During the multi-step thermodynamic process of solution formation, which specific step is invariably endothermic, requiring an input of external energy?",
+    "options": [
+      "A) Separation of solute particles from each other",
+      "B) Mixing of solute particles with solvent particles",
+      "C) Interaction of isolated ions with solvent molecules",
+      "D) Formation of strong solute-solvent ionic linkages"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "A solution mixture composed of acetone and chloroform displays a distinct negative deviation from Raoult's Law. What molecular factor causes this property?",
+    "options": [
+      "A) Acetone and chloroform molecules are completely immiscible",
+      "B) Strong inter-component hydrogen bonding forms between acetone and chloroform molecules",
+      "C) The cohesive forces within pure acetone are exponentially stronger than adhesive forces",
+      "D) The mixture undergoes spontaneous cracking into gaseous alkanes"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What physical pressure metric prevents the spontaneous, net osmotic migration of pure water molecules across a semipermeable membrane into an aqueous sugar solution?",
+    "options": [
+      "A) Vapor pressure",
+      "B) Hydrostatic barometric pressure",
+      "C) Osmotic pressure",
+      "D) Capillary suction pressure"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following concentration terms is entirely unitless, representing a simple mathematical ratio of particulate counts?",
+    "options": [
+      "A) Molarity",
+      "B) Molality",
+      "C) Mole fraction",
+      "D) Normality"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "A solution that contains the maximum possible mass of dissolved solute in equilibrium with undissolved solid at a specific temperature is defined as:",
+    "options": [
+      "A) Unsaturated solution",
+      "B) Saturated solution",
+      "C) Supersaturated solution",
+      "D) Concentrated stock fluid"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "When a non-volatile solute is dissolved into a liquid solvent, what happens to the boiling point and vapor pressure of the resulting liquid mixture?",
+    "options": [
+      "A) Boiling point decreases and vapor pressure increases",
+      "B) Boiling point increases and vapor pressure decreases",
+      "C) Both parameters increase simultaneously",
+      "D) Both parameters decrease simultaneously"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The continuous, erratic, zigzag micro-movement of colloidal particles suspended within a fluid dispersion medium is termed:",
+    "options": [
+      "A) Tyndall Effect",
+      "B) Brownian Motion",
+      "C) Electrophoretic migration",
+      "D) Dialytic diffusion"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following organic solutes is highly soluble in a polar solvent like water due to structural similarities and hydrogen bonding capabilities?",
+    "options": [
+      "A) Benzene (C6H6)",
+      "B) Carbon tetrachloride (CCl4)",
+      "C) Ethanol (C2H5OH)",
+      "D) Naphthalene (C10H8)"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "A solution is prepared by dissolving 20.0 grams of sodium hydroxide (NaOH, molar mass = 40.0 g/mol) into enough water to make exactly 500.0 mL of solution. What is its molarity?",
+    "options": [
+      "A) 0.50 M",
+      "B) 1.00 M",
+      "C) 2.00 M",
+      "D) 4.00 M"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which colloidal system classification matches a structural mixture where liquid droplets are completely dispersed throughout another immiscible liquid medium?",
+    "options": [
+      "A) Sol",
+      "B) Gel",
+      "C) Emulsion",
+      "D) Aerosol"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "If the heat of solution (ΔH_soln) for a binary mixture is calculated to be exactly zero, the thermodynamic mixing process is classified as:",
+    "options": [
+      "A) Highly exothermic",
+      "B) Highly endothermic",
+      "C) Ideal mixing",
+      "D) Non-spontaneous clustering"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What unique, metastable solution state holds more dissolved solute than its normal thermodynamic equilibrium limit allows at a given temperature?",
+    "options": [
+      "A) Dilute solution",
+      "B) Saturated solution",
+      "C) Supersaturated solution",
+      "D) Colloidal matrix"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "The thermodynamic parameter that serves as the primary overall driving force for the spontaneous dissolution of non-polar molecular solids into non-polar organic solvents is the:",
+    "options": [
+      "A) Sharp decrease in system enthalpy",
+      "B) Radical increase in system entropy (disorder)",
+      "C) Minimization of total atmospheric pressure",
+      "D) Generation of strong dipole-dipole attractions"
+    ],
+    "answer": "B"
+  },
+  
