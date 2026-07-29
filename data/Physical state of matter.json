@@ -7,7 +7,7 @@
       "C) Gas",
       "D) Plasma"
     ],
-    "answer": "A"
+    "answer": "0"
   },
   {
     "question": "Which state of matter has a definite volume but no definite shape?",
@@ -17,7 +17,7 @@
       "C) Gas",
       "D) Plasma"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Which state of matter has neither definite shape nor definite volume?",
@@ -27,7 +27,7 @@
       "C) Gas",
       "D) Plasma"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "According to the kinetic molecular theory, particles in a gas move:",
@@ -37,7 +37,7 @@
       "C) Randomly and rapidly",
       "D) Only upward"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which state of matter has the strongest intermolecular forces?",
@@ -47,7 +47,7 @@
       "C) Solid",
       "D) Plasma"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "The change from solid directly to gas is called:",
@@ -57,7 +57,7 @@
       "C) Freezing",
       "D) Melting"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "The process of changing a liquid into a gas is called:",
@@ -67,7 +67,7 @@
       "C) Freezing",
       "D) Deposition"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "The process by which a gas changes directly into a solid is called:",
@@ -77,7 +77,7 @@
       "C) Deposition",
       "D) Vaporization"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which process occurs when ice changes into water?",
@@ -87,7 +87,7 @@
       "C) Condensation",
       "D) Sublimation"
     ],
-    "answer": "B"
+    "answer": "2"
   },
   {
     "question": "Which process occurs when water changes into ice?",
@@ -97,7 +97,7 @@
       "C) Freezing",
       "D) Condensation"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "The force of attraction between molecules is known as:",
@@ -107,7 +107,7 @@
       "C) Gravitational force",
       "D) Magnetic force"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Which state of matter is the most compressible?",
@@ -117,7 +117,7 @@
       "C) Gas",
       "D) Plasma"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Diffusion occurs most rapidly in:",
@@ -127,7 +127,7 @@
       "C) Gases",
       "D) All equally"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "The SI unit of pressure is:",
@@ -137,7 +137,7 @@
       "C) mmHg",
       "D) Bar"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Which gas law states that pressure is inversely proportional to volume at constant temperature?",
@@ -147,7 +147,7 @@
       "C) Gay-Lussac's law",
       "D) Avogadro's law"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Charles's law states that volume is directly proportional to:",
@@ -157,7 +157,7 @@
       "C) Absolute temperature",
       "D) Mass"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "The temperature scale used in gas laws is:",
@@ -167,7 +167,7 @@
       "C) Kelvin",
       "D) Rankine"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "The pressure exerted by vapor in equilibrium with its liquid is called:",
@@ -177,7 +177,7 @@
       "C) Vapor pressure",
       "D) Gas pressure"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Boiling occurs when the vapor pressure of a liquid becomes equal to:",
@@ -187,7 +187,7 @@
       "C) Vacuum pressure",
       "D) Internal pressure only"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Increasing temperature generally causes gas particles to:",
@@ -197,7 +197,7 @@
       "C) Gain kinetic energy",
       "D) Lose mass"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which gas law states that pressure is directly proportional to absolute temperature at constant volume?",
@@ -207,7 +207,7 @@
       "C) Gay-Lussac's law",
       "D) Avogadro's law"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Avogadro's law states that the volume of a gas is directly proportional to:",
@@ -217,7 +217,7 @@
       "C) Number of moles",
       "D) Density"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "The ideal gas equation is:",
@@ -227,7 +227,7 @@
       "C) PV = RT",
       "D) P/T = n"
     ],
-    "answer": "A"
+    "answer": "0"
   },
   {
     "question": "In the ideal gas equation, R represents:",
@@ -237,7 +237,7 @@
       "C) Gas pressure",
       "D) Relative density"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "At constant temperature, increasing the pressure of a gas causes its volume to:",
@@ -247,7 +247,7 @@
       "C) Remain constant",
       "D) Become zero"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Which gas law explains the expansion of a balloon when heated?",
@@ -257,7 +257,7 @@
       "C) Graham's law",
       "D) Dalton's law"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Diffusion is the movement of particles from:",
@@ -267,7 +267,7 @@
       "C) High pressure to low pressure only",
       "D) Cold region to hot region only"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Effusion is the process by which a gas:",
@@ -277,7 +277,7 @@
       "C) Changes into a liquid",
       "D) Reacts with oxygen"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "According to Graham's law, lighter gases diffuse:",
@@ -287,7 +287,7 @@
       "C) More rapidly",
       "D) Only under pressure"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which gas diffuses faster?",
@@ -297,7 +297,7 @@
       "C) Hydrogen (H2)",
       "D) Nitrogen (N2)"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Real gases differ from ideal gases because real gas molecules:",
@@ -307,7 +307,7 @@
       "C) Have no mass",
       "D) Never collide"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Ideal gases behave most ideally at:",
@@ -317,7 +317,7 @@
       "C) High pressure and high temperature",
       "D) Low pressure and low temperature"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "The average kinetic energy of gas particles depends only on:",
@@ -327,7 +327,7 @@
       "C) Temperature",
       "D) Mass"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which of the following has the lowest density under the same conditions?",
@@ -337,7 +337,7 @@
       "C) Gas",
       "D) Plasma"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which state of matter flows but has a fixed volume?",
@@ -347,7 +347,7 @@
       "C) Gas",
       "D) Plasma"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "What happens to the kinetic energy of particles when temperature decreases?",
@@ -357,7 +357,7 @@
       "C) It remains constant",
       "D) It becomes zero immediately"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Which process releases heat to the surroundings?",
@@ -367,7 +367,7 @@
       "C) Condensation",
       "D) Sublimation"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which phase change absorbs heat from the surroundings?",
@@ -377,7 +377,7 @@
       "C) Melting",
       "D) Deposition"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "The boiling point of a liquid increases when:",
@@ -387,7 +387,7 @@
       "C) Temperature decreases",
       "D) The liquid freezes"
     ],
-    "answer": "A"
+    "answer": "0"
   },
   {
     "question": "Which statement about gases is correct?",
@@ -397,7 +397,7 @@
       "C) Gas particles move randomly in all directions",
       "D) Gas particles cannot be compressed"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "At standard temperature and pressure (STP), one mole of an ideal gas occupies:",
@@ -407,7 +407,7 @@
       "C) 24.0 L",
       "D) 44.8 L"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "The temperature at which a liquid boils depends mainly on:",
@@ -417,7 +417,7 @@
       "C) Shape of the container",
       "D) Volume of the liquid"
     ],
-    "answer": "A"
+    "answer": "0"
   },
   {
     "question": "Which of the following is an example of sublimation?",
@@ -427,7 +427,7 @@
       "C) Water changing to steam",
       "D) Steam changing to water"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Which phase change occurs when water vapor forms liquid water?",
@@ -437,7 +437,7 @@
       "C) Condensation",
       "D) Sublimation"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "The particles in a solid vibrate:",
@@ -447,7 +447,7 @@
       "C) Only when heated",
       "D) In straight lines only"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "The process of converting a gas into a liquid is called:",
@@ -457,7 +457,7 @@
       "C) Melting",
       "D) Sublimation"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Why do gases exert pressure on the walls of a container?",
@@ -467,7 +467,7 @@
       "C) Because gases have color",
       "D) Because gases dissolve in the container"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Increasing the temperature of a gas at constant volume causes its pressure to:",
@@ -477,7 +477,7 @@
       "C) Remain constant",
       "D) Become zero"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Which statement is true about liquids?",
@@ -487,7 +487,7 @@
       "C) They have neither definite shape nor volume",
       "D) They are highly compressible"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "According to the kinetic molecular theory, the average kinetic energy of gas particles is proportional to:",
@@ -497,6 +497,6 @@
       "C) Absolute temperature",
       "D) Number of moles"
     ],
-    "answer": "C"
+    "answer": "2"
   }
   ]
