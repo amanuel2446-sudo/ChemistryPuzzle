@@ -7,7 +7,7 @@
       "C) Nitrogen (N2)",
       "D) Ammonia (NH3)"
     ],
-    "answer": "D"
+    "answer": "3"
   },
   {
     "question": "According to Graham's Law of Effusion, if a given volume of methane gas (CH4) effuses through a pinhole in 20 seconds, how long will it take for the same volume of sulfur dioxide (SO2) to effuse under identical temperature and pressure conditions?",
@@ -17,7 +17,7 @@
       "C) 40 seconds",
       "D) 80 seconds"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "What is the primary intermolecular factor that accounts for the unusually high surface tension, high specific heat capacity, and elevated boiling point of liquid water?",
@@ -27,7 +27,7 @@
       "C) High instantaneous dipole-induced dipole forces",
       "D) Low equilibrium vapor pressure profile"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Which of the following materials is classified as an amorphous solid, lacking a long-range, repeating periodic crystalline arrangement?",
@@ -37,7 +37,7 @@
       "C) Table salt (NaCl)",
       "D) Diamond (C)"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "In the van der Waals equation for real gases, '[P + a(n/V)^2][V - nb] = nRT', what physical property of gas molecules does the correction constant 'a' represent?",
@@ -47,7 +47,7 @@
       "C) The average kinetic energy distribution of the system",
       "D) The structural collision frequency with the container walls"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "What is the coordination number of a constituent particle in a metallic crystal lattice that packs in a face-centered cubic (fcc) closest-packed arrangement?",
@@ -57,7 +57,7 @@
       "C) 8",
       "D) 12"
     ],
-    "answer": "D"
+    "answer": "3"
   },
   {
     "question": "At a pure substance's unique triple point on a pressure-temperature phase diagram, which of the following scenarios occurs?",
@@ -67,7 +67,7 @@
       "C) The solid phase sublimates instantly into a high-energy plasma state",
       "D) The critical temperature shifts inversely with applied external pressure"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Which of the following macroscopic liquid properties decreases systematically as the operating temperature of the liquid increases?",
@@ -77,7 +77,7 @@
       "C) Viscosity",
       "D) Kinetic energy distribution"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "An ideal gas sample occupies a volume of 4.0 L at 1.0 atm and 27°C. If the absolute temperature is raised to 327°C while holding the pressure constant, what is the new volume?",
@@ -87,7 +87,7 @@
       "C) 8.0 L",
       "D) 48.0 L"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which class of crystalline solids is typically brittle, exhibits a high melting point, and conducts electricity efficiently only when molten or dissolved in water?",
@@ -97,7 +97,7 @@
       "C) Ionic solids",
       "D) Molecular solids"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "According to the Kinetic Molecular Theory of Gases, the average kinetic energy of gas particles is directly proportional to which variable?",
@@ -107,7 +107,7 @@
       "C) Volumetric density of the sample",
       "D) Total pressure of the mixture"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "What phase change is occurring when a solid transforms directly into a gas without passing through an intervening liquid state?",
@@ -117,7 +117,7 @@
       "C) Condensation",
       "D) Vaporization"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "A container holds a mixture of oxygen, nitrogen, and helium gases with partial pressures of 0.25 atm, 0.45 atm, and 0.30 atm respectively. What is the total pressure of the gaseous system?",
@@ -127,7 +127,7 @@
       "C) 1.00 atm",
       "D) 1.25 atm"
     ],
-    "answer": "C"
+    "answer": "1"
   },
   {
     "question": "Which of the following compounds forms a highly extended covalent network solid resembling the geometric hybridization of diamond?",
@@ -137,7 +137,7 @@
       "C) Sulfur (S8)",
       "D) White phosphorus (P4)"
     ],
-    "answer": "A"
+    "answer": "0"
   },
   {
     "question": "The temperature above which a gas cannot be liquefied, regardless of the amount of external pressure applied to the system, is termed the:",
@@ -147,7 +147,7 @@
       "C) Critical temperature",
       "D) Absolute zero"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which of the following binary solution mixtures behaves ideally, perfectly obeying Raoult's Law across all concentration ranges?",
@@ -157,7 +157,7 @@
       "C) Benzene and Toluene",
       "D) Nitric acid and Water"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "What type of cubic crystal lattice structure possesses a single constituent particle situated exclusively at each of its eight corners and one particle dead-center in the middle of the unit cell?",
@@ -167,7 +167,7 @@
       "C) Face-centered cubic (fcc)",
       "D) Hexagonal closest-packed"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "If the ambient atmospheric pressure on top of a mountain is 0.70 atm instead of standard sea-level pressure (1.00 atm), what happens to the boiling point of water?",
@@ -177,7 +177,7 @@
       "C) It decreases below 100°C because vapor pressure matches external pressure sooner",
       "D) Water will freeze instantly instead of entering the liquid state"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which of the following physical processes is strictly exothermic, releasing thermal energy to the surroundings?",
@@ -187,7 +187,7 @@
       "C) Sublimation",
       "D) Freezing"
     ],
-    "answer": "D"
+    "answer": "3"
   },
   {
     "question": "Under what structural parameters does a real gas approximate ideal behavior most closely?",
@@ -197,7 +197,7 @@
       "C) Low temperature and low pressure",
       "D) High temperature and high pressure"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "The continuous, random zigzag movement of microscopic colloidal particles suspended in a fluid medium, caused by collisions with solvent molecules, is called:",
@@ -207,7 +207,7 @@
       "C) Osmotic Diffusion",
       "D) Capillary Action"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Which of the following molecular solids is bound together in its crystalline state primarily by instantaneous dipole-induced dipole forces (London dispersion forces)?",
@@ -217,7 +217,7 @@
       "C) Copper ingot (Cu)",
       "D) Silicon dioxide (SiO2)"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "What is the net number of atoms contained within a single unit cell of a primitive, simple cubic crystal system?",
@@ -227,7 +227,7 @@
       "C) 4",
       "D) 8"
     ],
-    "answer": "A"
+    "answer": "0"
   },
   {
     "question": "Henry's Law states that the solubility of a gas in a liquid solvent is directly proportional to which factor?",
@@ -237,7 +237,7 @@
       "C) Viscosity index of the target liquid",
       "D) Total molecular density of the gaseous envelope"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "A liquid is placed in a closed vacuum container at constant temperature. When the rate of evaporation equals the rate of condensation, the pressure exerted by the gas phase is called the:",
@@ -247,7 +247,7 @@
       "C) Equilibrium vapor pressure",
       "D) Osmotic pressure"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which of the following physical parameters represents a colligative property of a solution, depending solely on the concentration of solute particles rather than their chemical identity?",
@@ -257,7 +257,7 @@
       "C) Viscosity profile",
       "D) Electrical conductivity"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "What is the expected ideal van 't Hoff factor (i) for a dilute aqueous solution of aluminum sulfate, Al2(SO4)3, assuming complete ionic dissociation?",
@@ -267,7 +267,7 @@
       "C) 4",
       "D) 5"
     ],
-    "answer": "D"
+    "answer": "3"
   },
   {
     "question": "The physical phenomenon that causes a liquid to rise spontaneously up a narrow capillary tube against the pull of gravity is known as:",
@@ -277,7 +277,7 @@
       "C) Capillary action",
       "D) Vapor pressure minimization"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "An open container of water boils at 98°C in a high-altitude laboratory. What is the approximate local atmospheric pressure compared to sea level (1 atm)?",
@@ -287,7 +287,7 @@
       "C) Less than 1.00 atm",
       "D) Pressure has no bearing on boiling points"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which type of solid contains a highly delocalized 'sea of valence electrons' roaming freely through a rigid array of positive metal cations?",
@@ -297,7 +297,7 @@
       "C) Metallic solid",
       "D) Covalent network solid"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "According to Charles's Law, if the absolute temperature (in Kelvin) of a fixed mass of gas is halved while pressure remains constant, its volume will:",
@@ -307,7 +307,7 @@
       "C) Be cut in half",
       "D) Remain completely unchanged"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "What state of matter is generated when a gas is heated to exceptionally high temperatures, stripping valence electrons from nuclei to form an energetic ionized gas mixture?",
@@ -317,7 +317,7 @@
       "C) Plasma",
       "D) Supercritical fluid"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which of the following solution mixtures shows a negative deviation from Raoult's Law due to strong inter-component hydrogen bonding?",
@@ -327,7 +327,7 @@
       "C) Ethanol and Hexane",
       "D) Water and Benzene"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "What is the primary sub-microscopic structural difference between a crystalline solid and an amorphous solid?",
@@ -337,7 +337,7 @@
       "C) Amorphous solids lack a definitive chemical composition",
       "D) Crystalline solids are completely fluid at room temperature"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "If the absolute temperature of an ideal gas sample is kept constant while its volume is compressed to one-third of its original size, the final pressure will:",
@@ -347,7 +347,7 @@
       "C) Increase ninefold",
       "D) Remain completely constant"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Which of the following substances possesses a discrete molecular crystalline structure in its solid state?",
@@ -357,7 +357,7 @@
       "C) Iron (Fe)",
       "D) Potassium fluoride (KF)"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "What term defines the pressure required to completely arrest the net migration of pure solvent molecules through a semipermeable membrane into a more concentrated solution?",
@@ -367,7 +367,7 @@
       "C) Osmotic pressure",
       "D) Hydrostatic equilibrium"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "The structural scattering of visible light when a beam is passed through a liquid mixture, revealing the path of light, confirms the mixture is a:",
@@ -377,7 +377,7 @@
       "C) Colloid suspension",
       "D) Saturated gas solution"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "What is the net count of atoms enclosed entirely within a single unit cell of a body-centered cubic (bcc) metallic crystal?",
@@ -387,7 +387,7 @@
       "C) 4",
       "D) 6"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Which gas law coordinates the mathematical relationship between the volume and the total number of moles of gas at a fixed temperature and pressure?",
@@ -397,7 +397,7 @@
       "C) Avogadro's Law",
       "D) Dalton's Law"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "What is the physical significance of the critical point located on a standard single-component phase diagram?",
@@ -407,7 +407,7 @@
       "C) The substance decomposes completely into its elementary particles",
       "D) The sublimation curve intersects the melting point axis"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Which of the following structural entities forms an anisotropic crystal that cleaves along clean, predictable geometric planes when struck?",
@@ -417,7 +417,7 @@
       "C) Silica glass shard",
       "D) Melted paraffin wax mold"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "The thermal energy required to transform one mole of a liquid substance into its gaseous state at its constant boiling point is formally known as:",
@@ -427,7 +427,7 @@
       "C) Specific heat capacity",
       "D) Molar heat of sublimation"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "What happens to the freezing point of water when a non-volatile, non-electrolyte solute like sucrose is dissolved into it?",
@@ -437,7 +437,7 @@
       "C) It stays exactly at 0°C",
       "D) The solution can no longer freeze under any thermodynamic condition"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Which of the following gas species will travel with the highest root-mean-square (rms) molecular speed at a uniform temperature of 25°C?",
@@ -447,7 +447,7 @@
       "C) Carbon dioxide (CO2)",
       "D) Xenon (Xe)"
     ],
-    "answer": "A"
+    "answer": "0"
   },
   {
     "question": "What is the net atom yield contained within a single unit cell of a face-centered cubic (fcc) closest-packed array?",
@@ -457,7 +457,7 @@
       "C) 4",
       "D) 12"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "The intermolecular resistance that a liquid displays against internal shear forces and regular fluid flow is systematically called its:",
@@ -467,7 +467,7 @@
       "C) Surface tension",
       "D) Capillary coefficient"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "According to Dalton's Law of Partial Pressures, the total pressure of a non-reacting gas mixture is calculated by:",
@@ -477,7 +477,7 @@
       "C) Adding the partial pressures of each individual gas component",
       "D) Dividing the total volume by the universal gas constant"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which type of intermolecular force binds the covalent sheets of carbon atoms together in a solid macro-lattice of graphite?",
@@ -487,7 +487,7 @@
       "C) Weak London dispersion forces",
       "D) Electrostatic hydrogen bonds"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "What mathematical constant links pressure, volume, moles, and absolute temperature together in the Ideal Gas Equation (PV = nRT)?",
@@ -497,6 +497,6 @@
       "C) Planck's constant",
       "D) Boltzmann constant"
     ],
-    "answer": "B"
+    "answer": "1"
   }
 ]
