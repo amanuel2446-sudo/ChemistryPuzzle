@@ -298,6 +298,207 @@
       "D) Physical parameters like density and color continue to alter indefinitely"
     ],
     "answer": "B"
+  },
+  {
+    "question": "What is the correct structural expression for the equilibrium constant K_p of the heterogeneous gas-solid reaction: C(s) + H2O(g) ⇌ CO(g) + H2(g)?",
+    "options": [
+      "A) K_p = (P_CO * P_H2) / (P_C * P_H2O)",
+      "B) K_p = (P_CO * P_H2) / P_H2O",
+      "C) K_p = P_H2O / (P_CO * P_H2)",
+      "D) K_p = P_CO * P_H2"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The exothermic synthesis of sulfur trioxide is given by: 2SO2(g) + O2(g) ⇌ 2SO3(g). If the temperature of this reacting system is lowered at a constant volume, how will the species concentrations adjust?",
+    "options": [
+      "A) The concentration of SO3 will increase while SO2 and O2 decrease",
+      "B) The concentration of SO3 will decrease while SO2 and O2 increase",
+      "C) All component concentrations will drop simultaneously to preserve system mass",
+      "D) The concentrations remain entirely fixed because container volume is constant"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "What is the direct consequence of adding more solid sulfur to the following heterogeneous reaction chamber at dynamic equilibrium: S(s) + O2(g) ⇌ SO2(g)?",
+    "options": [
+      "A) The equilibrium position shifts forward to produce more SO2 gas",
+      "B) The equilibrium pales and shifts backward to consume O2 gas",
+      "C) There is no shift in the equilibrium partial pressures of the gaseous components",
+      "D) The numerical value of the equilibrium constant K_c doubles instantly"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "If a sparingly soluble salt like AgCl is placed in an aqueous solution that contains an excess of ammonia, its solubility increases primarily due to the formation of a:",
+    "options": [
+      "A) Volatile non-metal gas hydride",
+      "B) Stable, highly soluble coordination complex ion",
+      "C) Giant covalent network precipitate",
+      "D) Highly insoluble basic transition metal oxide"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "For a standard endothermic reaction, the activation energy of the forward reaction step is always which of the following compared to that of the reverse reaction step?",
+    "options": [
+      "A) Smaller",
+      "B) Greater",
+      "C) Perfectly uniform",
+      "D) It drops to absolute zero at equilibrium"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What mathematical expression relates the standard Gibbs free energy change (ΔG°) of a reversible chemical reaction to its structural equilibrium constant K?",
+    "options": [
+      "A) ΔG° = -RT * ln(K)",
+      "B) ΔG° = RT * ln(K)",
+      "C) K = -RT * ln(ΔG°)",
+      "D) ΔG° = -nFE°"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "A gaseous chemical reaction system displays a change in gas moles equal to Δn = -2. The unit of its equilibrium constant K_p in terms of atmospheric pressure (atm) is given by:",
+    "options": [
+      "A) atm",
+      "B) atm^-1",
+      "C) atm^-2",
+      "D) It remains completely dimensionless"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following sparingly soluble silver salts will possess the lowest molar solubility in pure water, based on their documented solubility product constants (K_sp)?",
+    "options": [
+      "A) AgCl (K_sp = 1.8 x 10^-10)",
+      "B) AgBr (K_sp = 5.0 x 10^-13)",
+      "C) AgI (K_sp = 8.3 x 10^-17)",
+      "D) All three salts have identical solubilities since they are binary"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "The fundamental chemical law stating that the speed of a chemical reaction is directly proportional to the product of the active masses of the reacting components is the:",
+    "options": [
+      "A) Law of Definite Proportions",
+      "B) Law of Mass Action",
+      "C) Law of Multiple Proportions",
+      "D) Henry's Empirical Gas Law"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "For the gaseous reaction system: N2(g) + O2(g) ⇌ 2NO(g) (ΔH > 0), which operational modification will force a forward shift to yield more nitric oxide gas?",
+    "options": [
+      "A) Increasing the total pressure by shrinking the vessel size",
+      "B) Raising the operating temperature of the system",
+      "C) Adding an efficient platinum mesh catalyst",
+      "D) Injecting an excess of inert Neon gas at constant volume"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "If the equilibrium constant K_c for a reaction is 2.0 x 10^-4, the equilibrium constant for the same reaction halved throughout (all stoichiometric coefficients divided by 2) is:",
+    "options": [
+      "A) 1.0 x 10^-4",
+      "B) 4.0 x 10^-8",
+      "C) 1.41 x 10^-2",
+      "D) 2.0 x 10^-2"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What chemical parameter can be extracted by analyzing the reaction quotient Q of a system at any arbitrary moment during a reversible chemical process?",
+    "options": [
+      "A) The absolute velocity of the forward reaction step",
+      "B) The direction in which the system must shift to attain dynamic equilibrium",
+      "C) The total activation energy barrier of the transition state",
+      "D) The structural orbital hybridization of the reacting atoms"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following conditions represents a classic example of a homogeneous equilibrium system?",
+    "options": [
+      "A) H2(g) + Cl2(g) ⇌ 2HCl(g)",
+      "B) NH4Cl(s) ⇌ NH3(g) + HCl(g)",
+      "C) C(s) + H2O(g) ⇌ CO(g) + H2(g)",
+      "D) AgCl(s) ⇌ Ag+(aq) + Cl-(aq)"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "What is the expected structural outcome if an aqueous solution of sodium chloride is added to a saturated solution of lead(II) chloride, PbCl2?",
+    "options": [
+      "A) The molar solubility of PbCl2 increases significantly due to ion pairing",
+      "B) A dense white precipitate of PbCl2 forms due to the common ion effect",
+      "C) Toxic chlorine gas begins to effervesce violently out of the beaker",
+      "D) The solution becomes completely endothermic and freezes solid"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "For the gaseous reaction: 2A(g) ⇌ B(g) + C(g), the value of the equilibrium constant K_c is found to be completely independent of which parameter?",
+    "options": [
+      "A) Operating system temperature",
+      "B) Total volume and pressure of the container",
+      "C) Both temperature and volume parameters simultaneously",
+      "D) Equilibrium constants are heavily dependent on all environmental parameters"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What term defines a chemical equilibrium system where the reacting chemical species are present in more than one distinct physical phase?",
+    "options": [
+      "A) Homogeneous equilibrium",
+      "B) Heterogeneous equilibrium",
+      "C) Metastable thermodynamic system",
+      "D) Complex coordinated equilibrium"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "If a system at equilibrium is subjected to a change in concentration, temperature, or pressure, the system shifts in a direction that minimizes the effect of that stress. This is a statement of:",
+    "options": [
+      "A) Hess's Law of Enthalpy Summary",
+      "B) Le Chatelier's Principle",
+      "C) Faraday's First Law of Electrolysis",
+      "D) Dalton's Law of Adjustments"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What mathematical relationship equates the numerical value of K_p to K_c when a gas reaction has a total change in gas moles equal to exactly zero (Δn = 0)?",
+    "options": [
+      "A) K_p = K_c / RT",
+      "B) K_p = K_c",
+      "C) K_p = K_c(RT)",
+      "D) K_p = 1 / K_c"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "If the calculated value of the reaction quotient Q is found to be zero for a system, this indicates that the reaction mixture contains:",
+    "options": [
+      "A) Pure product materials with zero reactants present",
+      "B) Pure reactant materials with zero products present",
+      "C) A perfectly balanced thermodynamic equilibrium matrix",
+      "D) The reaction has completed its thermal lifecycle and cannot shift"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the calculated molar solubility 'S' of a generic, sparingly soluble salt with the formula MX2 if its solubility product constant K_sp is known?",
+    "options": [
+      "A) S = (K_sp)^1/2",
+      "B) S = (K_sp / 4)^1/3",
+      "C) S = (K_sp / 27)^1/4",
+      "D) S = 2 * K_sp"
+    ],
+    "answer": "B"
   }
 ]
+
 
