@@ -7,7 +7,7 @@
       "C) NaCl",
       "D) CaO"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "According to Valence Shell Electron Pair Repulsion (VSEPR) theory, what is the geometric shape of the ClF3 molecule?",
@@ -17,7 +17,7 @@
       "C) T-shaped",
       "D) See-saw"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which of the following molecules possesses a permanent net dipole moment?",
@@ -27,7 +27,7 @@
       "C) SF4",
       "D) CCl4"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "What is the hybridization state of the central sulfur atom in the SF6 molecule?",
@@ -37,7 +37,7 @@
       "C) sp3d2",
       "D) dsp2"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which type of chemical bond is formed by the complete transfer of electrons from one atom to another?",
@@ -47,7 +47,7 @@
       "C) Metallic bond",
       "D) Coordinate covalent bond"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Based on Molecular Orbital (MO) theory, what is the bond order of the oxygen molecule ion (O2+)?",
@@ -57,7 +57,7 @@
       "C) 2.5",
       "D) 3.0"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which of the following molecules contains both sigma (σ) and pi (π) bonds?",
@@ -67,7 +67,7 @@
       "C) C2H4",
       "D) NH3"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which statement correctly describes the nature of bonding in a coordinate covalent bond?",
@@ -77,7 +77,7 @@
       "C) Electrons are completely transferred between the atoms",
       "D) Electrons are delocalized across a lattice of cations"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Which of the following substances has the highest boiling point due to intermolecular hydrogen bonding?",
@@ -87,7 +87,7 @@
       "C) H2Te",
       "D) H2O"
     ],
-    "answer": "D"
+    "answer": "3"
   },
   {
     "question": "According to Fajan's rules, which of the following ionic compounds exhibits the highest degree of covalent character?",
@@ -97,7 +97,7 @@
       "C) KCl",
       "D) CsCl"
     ],
-    "answer": "A"
+    "answer": "0"
   },
   {
     "question": "What is the formal charge on the central oxygen atom in an ozone (O3) molecule?",
@@ -107,7 +107,7 @@
       "C) +1",
       "D) +2"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which of the following molecules violates the octet rule by having an expanded valence shell?",
@@ -117,7 +117,7 @@
       "C) CCl4",
       "D) NF3"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "What is the correct order of decreasing bond strength for carbon-carbon bonds?",
@@ -127,7 +127,7 @@
       "C) Double > Triple > Single",
       "D) Triple > Single > Double"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "The bond angle in a perfectly tetrahedral molecule like methane (CH4) is approximately:",
@@ -137,7 +137,7 @@
       "C) 107.3°",
       "D) 109.5°"
     ],
-    "answer": "D"
+    "answer": "3"
   },
   {
     "question": "Which species is expected to be diamagnetic according to Molecular Orbital theory?",
@@ -147,7 +147,7 @@
       "C) N2",
       "D) NO"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "What type of hybridization is found in a carbon atom that forms a linear geometry, such as in ethyne (C2H2)?",
@@ -157,7 +157,7 @@
       "C) sp3",
       "D) sp3d"
     ],
-    "answer": "A"
+    "answer": "0"
   },
   {
     "question": "Which of the following compounds contains both ionic and covalent bonds?",
@@ -167,7 +167,7 @@
       "C) Carbon tetrachloride (CCl4)",
       "D) Magnesium chloride (MgCl2)"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Which intermolecular force is exclusively present between non-polar molecules like helium or methane?",
@@ -177,7 +177,7 @@
       "C) London dispersion forces",
       "D) Ion-dipole forces"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "What happens to the bond length as the bond order between two atoms increases?",
@@ -187,7 +187,7 @@
       "C) It remains completely unchanged",
       "D) It increases or decreases depending on the atomic size"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Which of the following represents an electron-deficient molecule that does not satisfy the octet rule?",
@@ -197,7 +197,7 @@
       "C) PH3",
       "D) CH4"
     ],
-    "answer": "A"
+    "answer": "0"
   },
   {
     "question": "The resonance structures of a molecule like carbonate (CO3^2-) indicate that:",
@@ -207,7 +207,7 @@
       "C) One bond is permanently shorter than the other two bonds",
       "D) The actual structure is an unhybridized mixture of single bonds"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Which of the following elements can form the strongest metallic bonds due to its high number of delocalized valence electrons?",
@@ -217,7 +217,7 @@
       "C) Aluminum (Al)",
       "D) Potassium (K)"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "What is the molecular geometry of the Xenon tetrafluoride (XeF4) molecule?",
@@ -227,7 +227,7 @@
       "C) Square planar",
       "D) Octahedral"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "A chemical bond formed by the sideways overlap of parallel atomic p-orbitals is called a:",
@@ -237,7 +237,7 @@
       "C) Coordinate bond",
       "D) Ionic bond"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Which of the following pairs of atoms will form the most highly polar covalent bond?",
@@ -247,7 +247,7 @@
       "C) O - H",
       "D) F - H"
     ],
-    "answer": "D"
+    "answer": "3"
   },
   {
     "question": "What is the total number of valence electrons present in the ammonium ion (NH4+)?",
@@ -257,7 +257,7 @@
       "C) 10",
       "D) 11"
     ],
-    "answer": "A"
+    "answer": "0"
   },
   {
     "question": "According to VSEPR theory, the deviation of the bond angle in water (104.5°) from the ideal tetrahedral angle is caused by:",
@@ -267,7 +267,7 @@
       "C) High electronegativity of the hydrogen atoms",
       "D) Low electronegativity of the central oxygen atom"
     ],
-    "answer": "A"
+    "answer": "0"
   },
   {
     "question": "Which of the following solid structures is held together entirely by a continuous network of covalent bonds?",
@@ -277,7 +277,7 @@
       "C) Diamond (C)",
       "D) Iodine (I2)"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "What is the bond order of the dinitrogen molecule (N2) based on Molecular Orbital theory?",
@@ -287,7 +287,7 @@
       "C) 3",
       "D) 4"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which property is typically characteristic of typical ionic compounds in their solid state?",
@@ -297,7 +297,7 @@
       "C) Malleability and ductility",
       "D) Brittle crystal lattice structure"
     ],
-    "answer": "D"
+    "answer": "3"
   },
   {
     "question": "Which of the following molecules has a linear molecular geometry?",
@@ -307,7 +307,7 @@
       "C) H2O",
       "D) OF2"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "What is the hybridization state of the central boron atom in boron trifluoride (BF3)?",
@@ -317,7 +317,7 @@
       "C) sp3",
       "D) dsp2"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "The concept of 'electron sea model' is most useful for explaining the properties of which class of materials?",
@@ -327,7 +327,7 @@
       "C) Molecular solids",
       "D) Pure metals"
     ],
-    "answer": "D"
+    "answer": "3"
   },
   {
     "question": "Which of the following species has a square pyramidal molecular geometry?",
@@ -337,7 +337,7 @@
       "C) SF6",
       "D) XeF4"
     ],
-    "answer": "A"
+    "answer": "0"
   },
   {
     "question": "The potential energy well diagram for a diatomic molecule shows that a chemical bond forms at a distance where:",
@@ -347,7 +347,7 @@
       "C) Kinetic energy of the system drops to absolute zero",
       "D) The two atomic nuclei merge together completely"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "How many sigma (σ) and pi (π) bonds are present in a molecule of benzene (C6H6)?",
@@ -357,7 +357,7 @@
       "C) 9 σ and 3 π",
       "D) 6 σ and 6 π"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Which of the following elements can form intramolecular or intermolecular hydrogen bonds due to its small size and high electronegativity?",
@@ -367,7 +367,7 @@
       "C) Nitrogen",
       "D) Phosphorus"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "What is the molecular geometry of the hydronium ion (H3O+)?",
@@ -377,7 +377,7 @@
       "C) Tetrahedral",
       "D) T-shaped"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Which statement is true regarding anti-bonding molecular orbitals (MOs)?",
@@ -387,7 +387,7 @@
       "C) They contain a nodal plane between the bonded nuclei",
       "D) They favor the formation of a stable chemical bond"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which of the following compounds exhibits predominantly directional bonding properties?",
@@ -397,7 +397,7 @@
       "C) K2O",
       "D) MgF2"
     ],
-    "answer": "A"
+    "answer": "0"
   },
   {
     "question": "What is the total number of lone pairs on the central atom of the I3^- (triiodide) ion?",
@@ -407,7 +407,7 @@
       "C) 3",
       "D) 4"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which of the following orders correctly represents the increasing bond angle among the given molecules?",
@@ -417,7 +417,7 @@
       "C) NH3 < H2O < CH4 < CO2",
       "D) CH4 < NH3 < H2O < CO2"
     ],
-    "answer": "A"
+    "answer": "0"
   },
   {
     "question": "Which crystalline solid is soft, has a low melting point, and does not conduct electricity in either solid or liquid states?",
@@ -427,7 +427,7 @@
       "C) Copper (Cu)",
       "D) Potassium bromide (KBr)"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "What is the hybridization of carbon in a carbonyl group (C=O) found in aldehydes and ketones?",
@@ -437,7 +437,7 @@
       "C) sp3",
       "D) sp3d"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "The dipole moment of a symmetrical linear molecule like beryllium hydride (BeH2) is:",
@@ -447,7 +447,7 @@
       "C) Double the dipole of one Be-H bond",
       "D) Highly variable depending on the temperature"
     ],
-    "answer": "A"
+    "answer": "0"
   },
   {
     "question": "Which of the following terms describes the energy required to completely break one mole of a specific chemical bond in the gaseous state?",
@@ -457,7 +457,7 @@
       "C) Bond dissociation energy",
       "D) Electron affinity"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "According to Molecular Orbital theory, which of the following species does not exist as a stable diatomic molecule due to a bond order of zero?",
@@ -467,7 +467,7 @@
       "C) Li2",
       "D) Be2"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "The geometry of a molecule with 5 bonding pairs and 1 lone pair on its central atom is classified as:",
@@ -477,7 +477,7 @@
       "C) Square pyramidal",
       "D) Trigonal bipyramidal"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which type of bonding accounts for the high thermal and electrical conductivities of solid copper?",
@@ -487,7 +487,7 @@
       "C) Metallic bonding",
       "D) Ionic bonding"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "What is the hybridization state of phosphorus in the phosphorus trichloride (PCl3) molecule?",
@@ -497,7 +497,7 @@
       "C) sp3d",
       "D) sp3d2"
     ],
-    "answer": "B"
+    "answer": "1"
   }
 ]
 
