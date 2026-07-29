@@ -1,0 +1,252 @@
+[
+  {
+    "question": "Which of the following oxygen-containing organic compounds exhibits the highest boiling point due to extensive intermolecular hydrogen bonding?",
+    "options": [
+      "A) Ethoxyethane",
+      "B) Propanal",
+      "C) Propan-1-ol",
+      "D) Propane"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is the major organic product obtained when a secondary alcohol like propan-2-ol undergoes oxidation with acidified potassium dichromate (K2Cr2O7)?",
+    "options": [
+      "A) Propanal",
+      "B) Propanone",
+      "C) Propanoic acid",
+      "D) Propene"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which reagent is used as a specific test to distinguish between aldehydes and ketones, forming a shiny silver mirror on the inner walls of the test tube?",
+    "options": [
+      "A) Fehling's solution",
+      "B) Tollen's reagent",
+      "C) Lucas reagent",
+      "D) 2,4-DNP reagent"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The chemical reaction between a carboxylic acid and an alcohol in the presence of an acid catalyst to produce a sweet-smelling compound is known as:",
+    "options": [
+      "A) Saponification",
+      "B) Esterification",
+      "C) Fermentation",
+      "D) Hydration"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following compounds reacts fastest with the Lucas reagent (conc. HCl + anhydrous ZnCl2) at room temperature to form an insoluble alkyl chloride?",
+    "options": [
+      "A) Butan-1-ol",
+      "B) Butan-2-ol",
+      "C) 2-Methylpropan-2-ol",
+      "D) Ethanol"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is the correct IUPAC name for the structural formula CH3-CH(OH)-CH2-CHO?",
+    "options": [
+      "A) 3-Hydroxybutanal",
+      "B) 2-Hydroxybutanal",
+      "C) 3-Hydroxybutanone",
+      "D) 1-Oxobutan-3-ol"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Why is phenol significantly more acidic than aliphatic alcohols like ethanol?",
+    "options": [
+      "A) Phenol contains a more polar aliphatic backbone",
+      "B) The phenoxide ion is highly stabilized by resonance delocalization into the aromatic ring",
+      "C) Ethanol easily undergoes intramolecular dehydration over phenol",
+      "D) The hydroxyl oxygen in phenol is heavily shielded by hyperconjugation"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which compound is selectively generated when an ester undergoes basic alkaline hydrolysis (saponification)?",
+    "options": [
+      "A) An acid chloride and an amine",
+      "B) A carboxylate salt and an alcohol",
+      "C) A carboxylic acid and an ether",
+      "D) An aldehyde and an alkane"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The reduction of a carbonyl group in ketones using zinc amalgam and concentrated hydrochloric acid to form an alkane is called the:",
+    "options": [
+      "A) Wolff-Kishner reduction",
+      "B) Clemmensen reduction",
+      "C) Rosenmund reduction",
+      "D) Cannizzaro reaction"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the primary industrial method for preparing ethanol in Ethiopia using local agricultural derivatives like sugarcane molasses?",
+    "options": [
+      "A) Catalytic hydration of ethene",
+      "B) Anaerobic fermentation of sugars by yeast",
+      "C) Alkaline hydrolysis of bromoethane",
+      "D) Reduction of ethanoic acid with LiAlH4"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following organic structures represents a pair of functional isomers?",
+    "options": [
+      "A) Propan-1-ol and Propan-2-ol",
+      "B) Propanal and Propanone",
+      "C) Ethanoic acid and Propanoic acid",
+      "D) Methoxymethane and Dimethyl ether"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the total number of structural isomers possible for an alcohol possessing the molecular formula C4H10O?",
+    "options": [
+      "A) 2",
+      "B) 3",
+      "C) 4",
+      "D) 5"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which carboxylic acid derivative exhibits the highest reactivity toward nucleophilic acyl substitution reactions?",
+    "options": [
+      "A) Acid anhydride",
+      "B) Acid chloride (Acyl chloride)",
+      "C) Ester",
+      "D) Amide"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "When ethyl ethanoate is treated with an excess of a Grignard reagent (CH3MgBr) followed by acidic workup, the final organic product is a/an:",
+    "options": [
+      "A) Primary alcohol",
+      "B) Secondary alcohol",
+      "C) Tertiary alcohol",
+      "D) Ether"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following methods can be effectively utilized to synthesize an ether like ethoxyethane directly from sodium ethoxide?",
+    "options": [
+      "A) Kolbe's electrolysis",
+      "B) Williamson ether synthesis",
+      "C) Friedel-Crafts alkylation",
+      "D) Wurtz reaction"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What structural feature must an aldehyde or ketone possess to yield a bright yellow precipitate of iodoform when treated with I2 and NaOH?",
+    "options": [
+      "A) A terminal alkyne group",
+      "B) A methyl carbonyl group (CH3-C=O)",
+      "C) An isolated aromatic ring system",
+      "D) A quaternary carbon atom adjacent to the oxygen"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following options lists the compounds in the correct order of increasing water solubility?",
+    "options": [
+      "A) Pentan-1-ol < Butan-1-ol < Propan-1-ol < Ethanol",
+      "B) Ethanol < Propan-1-ol < Butan-1-ol < Pentan-1-ol",
+      "C) Pentan-1-ol < Ethanol < Propan-1-ol < Butan-1-ol",
+      "D) Butan-1-ol < Pentan-1-ol < Ethanol < Propan-1-ol"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "What type of hybrid orbitals are used by the carbonyl carbon atom in an aldehyde molecule?",
+    "options": [
+      "A) sp",
+      "B) sp2",
+      "C) sp3",
+      "D) dsp2"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following organic acids is structurally classified as a dicarboxylic acid?",
+    "options": [
+      "A) Ethanoic acid",
+      "B) Benzoic acid",
+      "C) Oxalic acid",
+      "D) Propanoic acid"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "The acid-catalyzed dehydration of an alcohol to produce an alkene follows which empirical rule to determine the major product?",
+    "options": [
+      "A) Markovnikov's Rule",
+      "B) Zaitsev's (Saytzeff's) Rule",
+      "C) Hund's Rule",
+      "D) Hückel's Rule"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What product is systematically formed during the reaction of an aldehyde with one equivalent of an alcohol in the presence of dry HCl gas?",
+    "options": [
+      "A) Acetal",
+      "B) Hemiacetal",
+      "C) Ketal",
+      "D) Hemiketal"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following substances represents the common chemical component known as 'Formalin' used to preserve biological specimens?",
+    "options": [
+      "A) 40% aqueous solution of Methanal",
+      "B) 100% pure Ethanal liquid",
+      "C) 40% aqueous solution of Propanone",
+      "D) A mixture of Ethanol and Methanol"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "The treatment of benzoic acid with phosphorus pentachloride (PCl5) results in the formation of which inorganic and organic products?",
+    "options": [
+      "A) Benzoyl chloride, POCl3, and HCl",
+      "B) Chlorobenzene, PCl3, and H2O",
+      "C) Benzyl alcohol and Cl2 gas",
+      "D) Benzamide and phosphoric acid"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "What is the systematic IUPAC name for the ester compound represented by the formula CH3-CH2-COO-CH3?",
+    "options": [
+      "A) Methyl propanoate",
+      "B) Propyl methanoate",
+      "C) Ethyl ethanoate",
+      "D) Methyl ethanoate"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following aromatic oxygen compounds gives a characteristic violet coloration when treated with a neutral FeCl3 solution?",
+    "options": [
+      "A) Benzyl alcohol",
+      "B) Phenol",
+      "C) Anisole (Methoxybenzene)",
+      "D) Benzoic acid"
+    ],
+    "answer": "B"
+  },
+  
