@@ -7,7 +7,7 @@
       "C) Neopentane",
       "D) Isobutane"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "What is the primary organic product obtained from the acid-catalyzed hydration of 1-butene?",
@@ -17,7 +17,7 @@
       "C) Butanal",
       "D) 2-Butanone"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "According to Hückel's rule, which of the following cyclic compounds is classified as aromatic?",
@@ -27,7 +27,7 @@
       "C) Cycloheptatrienyl cation",
       "D) Cyclobutadiene"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which type of reaction mechanism is dominant when benzene reacts with a mixture of concentrated nitric acid and sulfuric acid?",
@@ -37,7 +37,7 @@
       "C) Electrophilic substitution",
       "D) Free radical substitution"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "What is the major product formed when 2-bromo-2-methylbutane undergoes elimination (dehydrohalogenation) in the presence of a strong base?",
@@ -47,7 +47,7 @@
       "C) 3-Methyl-1-butene",
       "D) 2-Methylbutane"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Which of the following alkenes can exist as a pair of geometric (cis/trans) isomers?",
@@ -57,7 +57,7 @@
       "C) 2-Butene",
       "D) Propene"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "The free radical chlorination of methane to form chloromethane is initiated by which of the following processes?",
@@ -67,7 +67,7 @@
       "C) Homolytic cleavage of a Cl-Cl bond by light",
       "D) Heterolytic cleavage of a C-H bond by a catalyst"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which reagent can be used to easily distinguish a terminal alkyne like 1-butyne from an internal alkyne like 2-butyne?",
@@ -77,7 +77,7 @@
       "C) Cold, dilute alkaline KMnO4",
       "D) Hydrogen gas with a Pt catalyst"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "What is the correct IUPAC name for the hydrocarbon compound represented by (CH3)2CHCH(CH3)CH2CH3?",
@@ -87,7 +87,7 @@
       "C) 2-Isopropylbutane",
       "D) Isoheptane"
     ],
-    "answer": "A"
+    "answer": "0"
   },
   {
     "question": "Which of the following configurations represents the most stable conformation of cyclohexane?",
@@ -97,7 +97,7 @@
       "C) Half-chair conformation",
       "D) Chair conformation"
     ],
-    "answer": "D"
+    "answer": "3"
   },
   {
     "question": "What is the main reason why alkanes are chemically unreactive or paraffinic under normal laboratory conditions?",
@@ -107,7 +107,7 @@
       "C) They possess strong, non-polar sigma bonds throughout",
       "D) They contain easily accessible delocalized pi electrons"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "The addition of hydrogen bromide (HBr) to propene in the presence of organic peroxides yields which major product?",
@@ -117,7 +117,7 @@
       "C) 1,2-Dibromopropane",
       "D) 2,2-Dibromopropane"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Which of the following organic structures contains a carbon atom with sp hybridization?",
@@ -127,7 +127,7 @@
       "C) Ethane",
       "D) Benzene"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "What product is formed when calcium carbide (CaC2) reacts violently with water?",
@@ -137,7 +137,7 @@
       "C) Ethyne",
       "D) Propane"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which of the following statements regarding the structural properties of a benzene ring is fully correct?",
@@ -147,7 +147,7 @@
       "C) It easily undergoes addition reactions with bromine water",
       "D) The carbon atoms are arranged in a non-planar geometry"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "What is the total number of structural isomers possible for an alkane with the molecular formula C5H12?",
@@ -157,7 +157,7 @@
       "C) 4",
       "D) 5"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "The conversion of an alkane into an alkene and smaller alkanes by heating under pressure without oxygen is called:",
@@ -167,7 +167,7 @@
       "C) Cracking",
       "D) Combustion"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which of the following substituent groups acts as a deactivating, meta-director during electrophilic aromatic substitution?",
@@ -177,7 +177,7 @@
       "C) -NO2",
       "D) -OH"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "What is the correct order of increasing stability for the following carbon-centered carbocations?",
@@ -187,7 +187,7 @@
       "C) Secondary < Tertiary < Primary < Methyl",
       "D) Methyl < Tertiary < Secondary < Primary"
     ],
-    "answer": "A"
+    "answer": "0"
   },
   {
     "question": "The decolorization of a cold, purple potassium permanganate solution by an alkene produces which organic class?",
@@ -197,7 +197,7 @@
       "C) Vicinal diol",
       "D) Carboxylic acid"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which hydrocarbon is the principal component of Liquefied Petroleum Gas (LPG) used widely as domestic fuel?",
@@ -207,7 +207,7 @@
       "C) Propane",
       "D) Octane"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "What is the total number of pi (π) bonds present in a molecule of 1-penten-4-yne?",
@@ -217,7 +217,7 @@
       "C) 3",
       "D) 4"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which catalyst is traditionally utilized to complete the Friedel-Crafts alkylation reaction of benzene?",
@@ -227,7 +227,7 @@
       "C) Ni",
       "D) H2SO4"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "The hydrogenation of an alkyne using a poisoned palladium catalyst (Lindlar's catalyst) specifically yields a/an:",
@@ -237,7 +237,7 @@
       "C) trans-Alkene",
       "D) Polymer"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Which of the following structural pairs represents an example of functional group isomerism?",
@@ -247,7 +247,7 @@
       "C) n-Butane and Isobutane",
       "D) cis-2-Butene and trans-2-Butene"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Which of the following rules directly dictates the regiochemical outcome during the electrophilic addition of asymmetrical reagents to asymmetrical alkenes?",
@@ -257,7 +257,7 @@
       "C) Zaitsev's Rule",
       "D) Le Chatelier's Principle"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "What type of hybrid orbitals are used by the carbon atoms involved in a double bond within an alkene molecule?",
@@ -267,7 +267,7 @@
       "C) sp3",
       "D) dsp2"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Which of the following alkanes cannot be synthesized in high yield by the classic Wurtz reaction?",
@@ -277,7 +277,7 @@
       "C) n-Propane",
       "D) n-Hexane"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "What is the expected spatial orientation and structural geometry around a triply-bonded carbon atom in an alkyne?",
@@ -287,7 +287,7 @@
       "C) Linear",
       "D) V-shaped"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which product is selectively generated during the ozonolysis of 2-methyl-2-butene followed by a reductive workup with Zn/H2O?",
@@ -297,7 +297,7 @@
       "C) Propanal and Methanal",
       "D) Butanone and Methanal"
     ],
-    "answer": "A"
+    "answer": "0"
   },
   {
     "question": "The phenomenon where a single chemical structure cannot adequately represent a molecule like benzene, requiring a hybrid overview, is called:",
@@ -307,7 +307,7 @@
       "C) Stereoisomerism",
       "D) Catallaxy"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "What is the general molecular formula that encompasses all open-chain monoalkynes?",
@@ -317,7 +317,7 @@
       "C) CnH2n-2",
       "D) CnH2n-4"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "When toluene (methylbenzene) undergoes harsh oxidation with a hot, acidic solution of KMnO4, the resulting organic product is:",
@@ -327,7 +327,7 @@
       "C) Benzoic acid",
       "D) Phenol"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which structural feature introduces non-superimposable mirror images (enantiomers) into complex branched hydrocarbons?",
@@ -337,7 +337,7 @@
       "C) Chiral carbon atom",
       "D) Aromatic ring"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "The explosive combustion of acetylene (ethyne) in excess oxygen gas yields which of the following set of final products?",
@@ -347,7 +347,7 @@
       "C) Carbon black and Steam",
       "D) Methane and Carbon dioxide"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Which of the following organic structures represents a critical starting material utilized globally for the industrial manufacture of synthetic polystyrene?",
@@ -357,7 +357,7 @@
       "C) Styrene (Vinylbenzene)",
       "D) Chlorobenzene"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "What is the total number of structural isomers possible for the monobrominated derivatives of propane?",
@@ -367,7 +367,7 @@
       "C) 3",
       "D) 4"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Which of the following hydrocarbon sub-classes burns with a highly smoky, sooty flame due to an exceptionally high carbon-to-hydrogen ratio?",
@@ -377,7 +377,7 @@
       "C) Arenes (Aromatic hydrocarbons)",
       "D) Branched alkanes"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "What is the principal thermodynamic driving force that causes benzene to undergo substitution rather than addition reactions?",
@@ -387,7 +387,7 @@
       "C) High electronegativity of the ring carbons",
       "D) Volatility of the hydrogen gas byproduct"
     ],
-    "answer": "A"
+    "answer": "0"
   },
   {
     "question": "The direct polymerization of ethene monomers under specialized high-pressure catalytic conditions yields which valuable polymer?",
@@ -397,7 +397,7 @@
       "C) Polypropylene",
       "D) Polystyrene"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Which historical experiment or theory correctly invalidated the literal 'alternating single-double bond' model proposed initially by Kekulé for benzene?",
@@ -407,7 +407,7 @@
       "C) Finding that benzene reacts rapidly with cold bromine in the dark",
       "D) Measuring an unexpectedly high heat of hydrogenation"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "What is the precise relationship shared between the structures of 1-butene and 2-butene?",
@@ -417,7 +417,7 @@
       "C) Functional isomers",
       "D) Geometric isomers"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "The substitution of a hydrogen atom in benzene by an acyl group using an acyl chloride in the presence of AlCl3 is known as:",
@@ -427,7 +427,7 @@
       "C) Gattermann Reaction",
       "D) Wurtz-Fittig Reaction"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Which structural conformation of butane exhibits the highest potential energy due to maximum steric strain and torsional alignment?",
@@ -437,7 +437,7 @@
       "C) Fully eclipsed conformation",
       "D) Partially eclipsed conformation"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "The process of converting linear hydrocarbon fractions into highly branched cyclic aromatic structures to improve gasoline octane rating is called:",
@@ -447,7 +447,7 @@
       "C) Hydrocracking",
       "D) Isomerization"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "What is the primary organic product when 1-butyne is treated with excess chlorine gas (Cl2) in an inert solvent like CCl4?",
@@ -457,7 +457,7 @@
       "C) 1,1,2,2-Tetrachlorobutane",
       "D) 1,1,2,2-Tetrachlorobutene"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which of the following organic reagents behaves strictly as an electrophile during typical hydrocarbon reactions?",
@@ -467,7 +467,7 @@
       "C) NO2+",
       "D) CN-"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "The systematic IUPAC name for the allylic group radical structure H2C=CH-CH2- is formally designated as:",
@@ -477,7 +477,7 @@
       "C) Ethyl radical",
       "D) Methyl radical"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Which of the following physical patterns accurately summarizes the density profile of liquid alkanes relative to water?",
@@ -487,7 +487,7 @@
       "C) They are less dense than water and highly soluble",
       "D) They possess identical density values to water"
     ],
-    "answer": "A"
+    "answer": "0"
   },
   {
     "question": "What unique compound is formulated when benzene is reacted with chlorine gas under direct, intensive ultraviolet light instead of a Lewis acid?",
@@ -497,7 +497,7 @@
       "C) Benzene hexachloride (1,2,3,4,5,6-hexachlorocyclohexane)",
       "D) M-dichlorobenzene"
     ],
-    "answer": "C"
+    "answer": "2"
   }
 ]
 
