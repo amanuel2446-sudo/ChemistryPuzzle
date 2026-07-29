@@ -99,4 +99,104 @@
     ],
     "answer": 0
   },
-  
+  {
+  "question": "Who proposed that electrons move in fixed energy levels around the nucleus?",
+  "options": [
+    "A) John Dalton",
+    "B) Ernest Rutherford",
+    "C) Niels Bohr",
+    "D) J. J. Thomson"
+  ],
+  "answer": 2
+},
+{
+  "question": "Bohr's atomic model successfully explained the spectrum of:",
+  "options": [
+    "A) Oxygen",
+    "B) Carbon",
+    "C) Hydrogen",
+    "D) Helium"
+  ],
+  "answer": 2
+},
+{
+  "question": "The maximum number of electrons that can occupy the first energy level is:",
+  "options": [
+    "A) 2",
+    "B) 8",
+    "C) 18",
+    "D) 32"
+  ],
+  "answer": 0
+},
+{
+  "question": "Which quantum number determines the principal energy level of an electron?",
+  "options": [
+    "A) Spin quantum number",
+    "B) Principal quantum number",
+    "C) Magnetic quantum number",
+    "D) Azimuthal quantum number"
+  ],
+  "answer": 1
+},
+{
+  "question": "Which orbital has a spherical shape?",
+  "options": [
+    "A) p-orbital",
+    "B) d-orbital",
+    "C) s-orbital",
+    "D) f-orbital"
+  ],
+  "answer": 2
+},
+{
+  "question": "According to the Aufbau principle, electrons occupy:",
+  "options": [
+    "A) Higher-energy orbitals first",
+    "B) Lower-energy orbitals first",
+    "C) Random orbitals",
+    "D) Only p-orbitals"
+  ],
+  "answer": 1
+},
+{
+  "question": "According to Pauli's Exclusion Principle, an orbital can contain a maximum of:",
+  "options": [
+    "A) 1 electron",
+    "B) 2 electrons with opposite spins",
+    "C) 3 electrons",
+    "D) 4 electrons"
+  ],
+  "answer": 1
+},
+{
+  "question": "Hund's rule states that electrons occupy orbitals:",
+  "options": [
+    "A) In pairs first",
+    "B) Randomly",
+    "C) Singly with parallel spins before pairing",
+    "D) Only after all shells are filled"
+  ],
+  "answer": 2
+},
+{
+  "question": "The electron configuration of sodium (Na) is:",
+  "options": [
+    "A) 2,8,1",
+    "B) 2,7,2",
+    "C) 2,8,2",
+    "D) 2,6,3"
+  ],
+  "answer": 0
+},
+{
+  "question": "Which electron configuration represents neon (Ne)?",
+  "options": [
+    "A) 2,8",
+    "B) 2,8,1",
+    "C) 2,7",
+    "D) 2,6"
+  ],
+  "answer": 0
+},
+
