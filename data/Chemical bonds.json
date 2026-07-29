@@ -1,0 +1,252 @@
+[
+  {
+    "question": "Which of the following compounds exhibits the highest lattice energy?",
+    "options": [
+      "A) NaF",
+      "B) MgO",
+      "C) NaCl",
+      "D) CaO"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "According to Valence Shell Electron Pair Repulsion (VSEPR) theory, what is the geometric shape of the ClF3 molecule?",
+    "options": [
+      "A) Trigonal planar",
+      "B) Trigonal pyramidal",
+      "C) T-shaped",
+      "D) See-saw"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following molecules possesses a permanent net dipole moment?",
+    "options": [
+      "A) CO2",
+      "B) BF3",
+      "C) SF4",
+      "D) CCl4"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is the hybridization state of the central sulfur atom in the SF6 molecule?",
+    "options": [
+      "A) sp3",
+      "B) sp3d",
+      "C) sp3d2",
+      "D) dsp2"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which type of chemical bond is formed by the complete transfer of electrons from one atom to another?",
+    "options": [
+      "A) Covalent bond",
+      "B) Ionic bond",
+      "C) Metallic bond",
+      "D) Coordinate covalent bond"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Based on Molecular Orbital (MO) theory, what is the bond order of the oxygen molecule ion (O2+)?",
+    "options": [
+      "A) 1.5",
+      "B) 2.0",
+      "C) 2.5",
+      "D) 3.0"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following molecules contains both sigma (σ) and pi (π) bonds?",
+    "options": [
+      "A) CH4",
+      "B) H2O",
+      "C) C2H4",
+      "D) NH3"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which statement correctly describes the nature of bonding in a coordinate covalent bond?",
+    "options": [
+      "A) Both atoms contribute one electron to the shared pair",
+      "B) One atom contributes both electrons to the shared pair",
+      "C) Electrons are completely transferred between the atoms",
+      "D) Electrons are delocalized across a lattice of cations"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following substances has the highest boiling point due to intermolecular hydrogen bonding?",
+    "options": [
+      "A) H2S",
+      "B) H2Se",
+      "C) H2Te",
+      "D) H2O"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "According to Fajan's rules, which of the following ionic compounds exhibits the highest degree of covalent character?",
+    "options": [
+      "A) LiCl",
+      "B) NaCl",
+      "C) KCl",
+      "D) CsCl"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "What is the formal charge on the central oxygen atom in an ozone (O3) molecule?",
+    "options": [
+      "A) -1",
+      "B) 0",
+      "C) +1",
+      "D) +2"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following molecules violates the octet rule by having an expanded valence shell?",
+    "options": [
+      "A) PCl3",
+      "B) PCl5",
+      "C) CCl4",
+      "D) NF3"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the correct order of decreasing bond strength for carbon-carbon bonds?",
+    "options": [
+      "A) Single > Double > Triple",
+      "B) Triple > Double > Single",
+      "C) Double > Triple > Single",
+      "D) Triple > Single > Double"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The bond angle in a perfectly tetrahedral molecule like methane (CH4) is approximately:",
+    "options": [
+      "A) 90.0°",
+      "B) 104.5°",
+      "C) 107.3°",
+      "D) 109.5°"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which species is expected to be diamagnetic according to Molecular Orbital theory?",
+    "options": [
+      "A) O2",
+      "B) B2",
+      "C) N2",
+      "D) NO"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What type of hybridization is found in a carbon atom that forms a linear geometry, such as in ethyne (C2H2)?",
+    "options": [
+      "A) sp",
+      "B) sp2",
+      "C) sp3",
+      "D) sp3d"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following compounds contains both ionic and covalent bonds?",
+    "options": [
+      "A) High density polyethylene",
+      "B) Sodium hydroxide (NaOH)",
+      "C) Carbon tetrachloride (CCl4)",
+      "D) Magnesium chloride (MgCl2)"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which intermolecular force is exclusively present between non-polar molecules like helium or methane?",
+    "options": [
+      "A) Dipole-dipole forces",
+      "B) Hydrogen bonding",
+      "C) London dispersion forces",
+      "D) Ion-dipole forces"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What happens to the bond length as the bond order between two atoms increases?",
+    "options": [
+      "A) It increases regularly",
+      "B) It decreases regularly",
+      "C) It remains completely unchanged",
+      "D) It increases or decreases depending on the atomic size"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following represents an electron-deficient molecule that does not satisfy the octet rule?",
+    "options": [
+      "A) BH3",
+      "B) NH3",
+      "C) PH3",
+      "D) CH4"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "The resonance structures of a molecule like carbonate (CO3^2-) indicate that:",
+    "options": [
+      "A) The molecule rapidly shifts back and forth between different structures",
+      "B) All carbon-oxygen bonds are of equal length and strength",
+      "C) One bond is permanently shorter than the other two bonds",
+      "D) The actual structure is an unhybridized mixture of single bonds"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following elements can form the strongest metallic bonds due to its high number of delocalized valence electrons?",
+    "options": [
+      "A) Sodium (Na)",
+      "B) Magnesium (Mg)",
+      "C) Aluminum (Al)",
+      "D) Potassium (K)"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is the molecular geometry of the Xenon tetrafluoride (XeF4) molecule?",
+    "options": [
+      "A) Tetrahedral",
+      "B) See-saw",
+      "C) Square planar",
+      "D) Octahedral"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "A chemical bond formed by the sideways overlap of parallel atomic p-orbitals is called a:",
+    "options": [
+      "A) Sigma (σ) bond",
+      "B) Pi (π) bond",
+      "C) Coordinate bond",
+      "D) Ionic bond"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following pairs of atoms will form the most highly polar covalent bond?",
+    "options": [
+      "A) C - H",
+      "B) N - H",
+      "C) O - H",
+      "D) F - H"
+    ],
+    "answer": "D"
+  },
+  
