@@ -7,7 +7,7 @@
       "C) When the volume of the reaction vessel is halved under constant pressure",
       "D) When the value of the universal gas constant (R) approaches absolute zero"
     ],
-    "answer": "A"
+    "answer": "0"
   },
   {
     "question": "The exothermic synthesis of ammonia is represented by: N2(g) + 3H2(g) ⇌ 2NH3(g) (ΔH < 0). According to Le Chatelier's principle, which of the following operational shifts will maximize the equilibrium yield of NH3?",
@@ -17,7 +17,7 @@
       "C) Increasing the volume of the reaction container at a high temperature",
       "D) Introducing an inert gas like Argon at constant volume conditions"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "What is the correct mathematical expression for the equilibrium constant K_c of the heterogeneous reaction: CaCO3(s) ⇌ CaO(s) + CO2(g)?",
@@ -27,7 +27,7 @@
       "C) K_c = [CO2]",
       "D) K_c = [CaO] / [CaCO3]"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "If a chemical system at a given temperature possesses a reaction quotient (Q) that is significantly larger than its equilibrium constant (K), how will the system proceed to re-establish dynamic equilibrium?",
@@ -37,7 +37,7 @@
       "C) The system will remain static because Q has no bearing on directional shifts",
       "D) The numerical value of the equilibrium constant K will increase to match Q"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "What happens to the numerical value of the equilibrium constant K_c for an endothermic reaction if the operating temperature of the system is increased?",
@@ -47,7 +47,7 @@
       "C) It remains completely unchanged",
       "D) It drops instantly to zero"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "A reversible reaction has an equilibrium constant K_1. If the chemical equation is written in the reverse direction, the new equilibrium constant K_2 is mathematically equal to:",
@@ -57,7 +57,7 @@
       "C) (K_1)^2",
       "D) K_1 / 2"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Which of the following actions will cause a permanent shift in the equilibrium position of a gaseous reaction without altering the numerical value of its equilibrium constant K?",
@@ -67,7 +67,7 @@
       "C) Introducing a highly efficient solid transition metal catalyst",
       "D) Changing the chemical identity of the solvent matrix"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "For the equilibrium system: 2SO2(g) + O2(g) ⇌ 2SO3(g), the mathematical relationship linking K_p and K_c is given by which expression?",
@@ -77,7 +77,7 @@
       "C) K_p = K_c(RT)^-2",
       "D) K_p = K_c"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "What is the primary physical function of a catalyst when introduced into a chemical system that is already in a state of dynamic equilibrium?",
@@ -87,7 +87,7 @@
       "C) It selectively suppresses the reverse reaction rate to maximize profit margins",
       "D) It alters the total enthalpy change (ΔH) of the reaction path"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Under what condition will the introduction of an inert gas like Helium cause a visible shift in the equilibrium position of a gaseous reaction system?",
@@ -97,7 +97,7 @@
       "C) When the reaction is completely thermoneutral (ΔH = 0)",
       "D) Inert gases can never induce a shift under any thermodynamic constraint"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "What is the correct mathematical relationship for the solubility product constant K_sp of the sparingly soluble salt silver chromate, Ag2CrO4?",
@@ -107,7 +107,7 @@
       "C) K_sp = [2Ag+][CrO4^2-]",
       "D) K_sp = [Ag+][CrO4^2-]^2"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "The suppression of the ionic dissociation of a weak electrolyte solution upon the addition of a strong electrolyte containing a shared ion is called the:",
@@ -117,7 +117,7 @@
       "C) Odd Ion Acceleration",
       "D) Salt hydrolysis effect"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "If the molar solubility of a sparingly soluble binary salt like BaSO4 is designated as 'S' mol/L, its solubility product constant K_sp is given by:",
@@ -127,7 +127,7 @@
       "C) K_sp = S^2",
       "D) K_sp = 4S^3"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "For a chemical reaction with a very large equilibrium constant (e.g., K = 1.0 x 10^15) at room temperature, the equilibrium mixture will contain:",
@@ -137,7 +137,7 @@
       "C) Perfectly equal concentrations of reactants and products",
       "D) The system can never reach equilibrium because the speed is too high"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "The equilibrium system: N2O4(g) ⇌ 2NO2(g) is endothermic. If the temperature of the amber-colored gas mixture is lowered, what visual change is expected?",
@@ -147,7 +147,7 @@
       "C) The gas undergoes instantaneous precipitation into white crystals",
       "D) No visible change occurs since temperature has no structural effect"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "What is the direct consequence of reducing the total volume of the reaction container for the system: C(s) + CO2(g) ⇌ 2CO(g)?",
@@ -157,7 +157,7 @@
       "C) The rate of the forward reaction drops instantly to zero",
       "D) The total mass of solid carbon in the system remains unaffected"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "When two independent chemical steps with equilibrium constants K_1 and K_2 are added together to form a net summary equation, the net equilibrium constant K_net is calculated by:",
@@ -167,7 +167,7 @@
       "C) Multiplying K_1 by K_2",
       "D) Dividing K_1 by K_2"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Under what structural parameter will an increase in the total external pressure fail to induce a directional shift in a gaseous equilibrium system?",
@@ -177,7 +177,7 @@
       "C) When the reaction is highly exothermic",
       "D) Pressure alterations always force a shift in all gaseous reactions"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "If the ionic product (Q_sp) of a sparingly soluble salt mixture in water is calculated to be strictly less than its documented K_sp value, the solution is classified as:",
@@ -187,7 +187,7 @@
       "C) Supersaturated in a highly unstable thermodynamic state",
       "D) Completely neutralized into pure distilled water"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "What happens to the molar solubility of calcium fluoride, CaF2, if it is dissolved in an aqueous solution of 0.10 M NaF instead of pure distilled water?",
@@ -197,7 +197,7 @@
       "C) Its solubility remains completely constant",
       "D) CaF2 reacts with NaF to produce toxic fluorine gas"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "The dynamic nature of chemical equilibrium means that at the equilibrium point:",
@@ -207,7 +207,7 @@
       "C) The masses of reactants and products are perfectly uniform",
       "D) The activation energy of the reaction drops to zero"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "What is the unit of the equilibrium constant K_c for the gas phase reaction: H2(g) + I2(g) ⇌ 2HI(g)?",
@@ -217,7 +217,7 @@
       "C) (mol/L)^-2",
       "D) It is a completely dimensionless quantity"
     ],
-    "answer": "D"
+    "answer": "3"
   },
   {
     "question": "For the endothermic decomposition: PCl5(g) ⇌ PCl3(g) + Cl2(g), which modification will systematically lower the total concentration of PCl5 at equilibrium?",
@@ -227,7 +227,7 @@
       "C) Decreasing the total volume of the reaction container",
       "D) Removing PCl3 gas and adding an inert inhibitor"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "If a chemical equation is multiplied throughout by a stoichiometric factor of 3, the original equilibrium constant K will transform into:",
@@ -237,7 +237,7 @@
       "C) K^3",
       "D) K + 3"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which of the following compounds will exhibit an increased solubility if the pH of the aqueous solvent is lowered by adding a strong mineral acid?",
@@ -247,7 +247,7 @@
       "C) CaCO3",
       "D) BaSO4"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "What is the mathematical relation linking the solubility product K_sp to the molar solubility 'S' for a sparingly soluble salt with the formula M(OH)3?",
@@ -257,7 +257,7 @@
       "C) K_sp = 27S^4",
       "D) K_sp = 108S^5"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Under what condition will the numerical value of the equilibrium constant K change for a given chemical system?",
@@ -267,7 +267,7 @@
       "C) When the operating temperature of the system is altered",
       "D) When a more selective catalyst is introduced"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "For the gas phase equilibrium: 2NO(g) + Cl2(g) ⇌ 2NOCl(g), if the volume of the reaction chamber is doubled at constant temperature, the equilibrium position will:",
@@ -277,7 +277,7 @@
       "C) Remain entirely unaffected because temperature is constant",
       "D) Cause the reaction quotient Q to match K instantly"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "If the reaction quotient Q for a system is exactly equal to its equilibrium constant K, this indicates that the system is:",
@@ -287,7 +287,7 @@
       "C) In a state of dynamic chemical equilibrium",
       "D) Completely exhausted of all available reactant molecules"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which of the following statements regarding a state of chemical equilibrium is fully correct?",
@@ -297,7 +297,7 @@
       "C) The total moles of reactants must equal the total moles of products at equilibrium",
       "D) Physical parameters like density and color continue to alter indefinitely"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "What is the correct structural expression for the equilibrium constant K_p of the heterogeneous gas-solid reaction: C(s) + H2O(g) ⇌ CO(g) + H2(g)?",
@@ -307,7 +307,7 @@
       "C) K_p = P_H2O / (P_CO * P_H2)",
       "D) K_p = P_CO * P_H2"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "The exothermic synthesis of sulfur trioxide is given by: 2SO2(g) + O2(g) ⇌ 2SO3(g). If the temperature of this reacting system is lowered at a constant volume, how will the species concentrations adjust?",
@@ -317,7 +317,7 @@
       "C) All component concentrations will drop simultaneously to preserve system mass",
       "D) The concentrations remain entirely fixed because container volume is constant"
     ],
-    "answer": "A"
+    "answer": "0"
   },
   {
     "question": "What is the direct consequence of adding more solid sulfur to the following heterogeneous reaction chamber at dynamic equilibrium: S(s) + O2(g) ⇌ SO2(g)?",
@@ -327,7 +327,7 @@
       "C) There is no shift in the equilibrium partial pressures of the gaseous components",
       "D) The numerical value of the equilibrium constant K_c doubles instantly"
     ],
-    "answer": "C"
+    "answer": "0"
   },
   {
     "question": "If a sparingly soluble salt like AgCl is placed in an aqueous solution that contains an excess of ammonia, its solubility increases primarily due to the formation of a:",
@@ -337,7 +337,7 @@
       "C) Giant covalent network precipitate",
       "D) Highly insoluble basic transition metal oxide"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "For a standard endothermic reaction, the activation energy of the forward reaction step is always which of the following compared to that of the reverse reaction step?",
@@ -347,7 +347,7 @@
       "C) Perfectly uniform",
       "D) It drops to absolute zero at equilibrium"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "What mathematical expression relates the standard Gibbs free energy change (ΔG°) of a reversible chemical reaction to its structural equilibrium constant K?",
@@ -357,7 +357,7 @@
       "C) K = -RT * ln(ΔG°)",
       "D) ΔG° = -nFE°"
     ],
-    "answer": "A"
+    "answer": "0"
   },
   {
     "question": "A gaseous chemical reaction system displays a change in gas moles equal to Δn = -2. The unit of its equilibrium constant K_p in terms of atmospheric pressure (atm) is given by:",
@@ -367,7 +367,7 @@
       "C) atm^-2",
       "D) It remains completely dimensionless"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "Which of the following sparingly soluble silver salts will possess the lowest molar solubility in pure water, based on their documented solubility product constants (K_sp)?",
@@ -377,7 +377,7 @@
       "C) AgI (K_sp = 8.3 x 10^-17)",
       "D) All three salts have identical solubilities since they are binary"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "The fundamental chemical law stating that the speed of a chemical reaction is directly proportional to the product of the active masses of the reacting components is the:",
@@ -387,7 +387,7 @@
       "C) Law of Multiple Proportions",
       "D) Henry's Empirical Gas Law"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "For the gaseous reaction system: N2(g) + O2(g) ⇌ 2NO(g) (ΔH > 0), which operational modification will force a forward shift to yield more nitric oxide gas?",
@@ -397,7 +397,7 @@
       "C) Adding an efficient platinum mesh catalyst",
       "D) Injecting an excess of inert Neon gas at constant volume"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "If the equilibrium constant K_c for a reaction is 2.0 x 10^-4, the equilibrium constant for the same reaction halved throughout (all stoichiometric coefficients divided by 2) is:",
@@ -407,7 +407,7 @@
       "C) 1.41 x 10^-2",
       "D) 2.0 x 10^-2"
     ],
-    "answer": "C"
+    "answer": "2"
   },
   {
     "question": "What chemical parameter can be extracted by analyzing the reaction quotient Q of a system at any arbitrary moment during a reversible chemical process?",
@@ -417,7 +417,7 @@
       "C) The total activation energy barrier of the transition state",
       "D) The structural orbital hybridization of the reacting atoms"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "Which of the following conditions represents a classic example of a homogeneous equilibrium system?",
@@ -427,7 +427,7 @@
       "C) C(s) + H2O(g) ⇌ CO(g) + H2(g)",
       "D) AgCl(s) ⇌ Ag+(aq) + Cl-(aq)"
     ],
-    "answer": "A"
+    "answer": "0"
   },
   {
     "question": "What is the expected structural outcome if an aqueous solution of sodium chloride is added to a saturated solution of lead(II) chloride, PbCl2?",
@@ -437,7 +437,7 @@
       "C) Toxic chlorine gas begins to effervesce violently out of the beaker",
       "D) The solution becomes completely endothermic and freezes solid"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "For the gaseous reaction: 2A(g) ⇌ B(g) + C(g), the value of the equilibrium constant K_c is found to be completely independent of which parameter?",
@@ -447,7 +447,7 @@
       "C) Both temperature and volume parameters simultaneously",
       "D) Equilibrium constants are heavily dependent on all environmental parameters"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "What term defines a chemical equilibrium system where the reacting chemical species are present in more than one distinct physical phase?",
@@ -457,7 +457,7 @@
       "C) Metastable thermodynamic system",
       "D) Complex coordinated equilibrium"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "If a system at equilibrium is subjected to a change in concentration, temperature, or pressure, the system shifts in a direction that minimizes the effect of that stress. This is a statement of:",
@@ -467,7 +467,7 @@
       "C) Faraday's First Law of Electrolysis",
       "D) Dalton's Law of Adjustments"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "What mathematical relationship equates the numerical value of K_p to K_c when a gas reaction has a total change in gas moles equal to exactly zero (Δn = 0)?",
@@ -477,7 +477,7 @@
       "C) K_p = K_c(RT)",
       "D) K_p = 1 / K_c"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "If the calculated value of the reaction quotient Q is found to be zero for a system, this indicates that the reaction mixture contains:",
@@ -487,7 +487,7 @@
       "C) A perfectly balanced thermodynamic equilibrium matrix",
       "D) The reaction has completed its thermal lifecycle and cannot shift"
     ],
-    "answer": "B"
+    "answer": "1"
   },
   {
     "question": "What is the calculated molar solubility 'S' of a generic, sparingly soluble salt with the formula MX2 if its solubility product constant K_sp is known?",
@@ -497,7 +497,7 @@
       "C) S = (K_sp / 27)^1/4",
       "D) S = 2 * K_sp"
     ],
-    "answer": "B"
+    "answer": "1"
   }
 ]
 
