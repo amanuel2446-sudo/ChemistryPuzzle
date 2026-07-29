@@ -249,4 +249,254 @@
     ],
     "answer": "C"
   },
-  
+  {
+    "question": "Which of the following physical parameters represents a colligative property of a solution, depending solely on the concentration of solute particles rather than their chemical identity?",
+    "options": [
+      "A) Surface tension",
+      "B) Boiling point elevation",
+      "C) Viscosity profile",
+      "D) Electrical conductivity"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the expected ideal van 't Hoff factor (i) for a dilute aqueous solution of aluminum sulfate, Al2(SO4)3, assuming complete ionic dissociation?",
+    "options": [
+      "A) 2",
+      "B) 3",
+      "C) 4",
+      "D) 5"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "The physical phenomenon that causes a liquid to rise spontaneously up a narrow capillary tube against the pull of gravity is known as:",
+    "options": [
+      "A) Viscosity",
+      "B) Surface tension",
+      "C) Capillary action",
+      "D) Vapor pressure minimization"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "An open container of water boils at 98°C in a high-altitude laboratory. What is the approximate local atmospheric pressure compared to sea level (1 atm)?",
+    "options": [
+      "A) Exactly 1.00 atm",
+      "B) Greater than 1.00 atm",
+      "C) Less than 1.00 atm",
+      "D) Pressure has no bearing on boiling points"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which type of solid contains a highly delocalized 'sea of valence electrons' roaming freely through a rigid array of positive metal cations?",
+    "options": [
+      "A) Ionic solid",
+      "B) Molecular solid",
+      "C) Metallic solid",
+      "D) Covalent network solid"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "According to Charles's Law, if the absolute temperature (in Kelvin) of a fixed mass of gas is halved while pressure remains constant, its volume will:",
+    "options": [
+      "A) Double",
+      "B) Quadruple",
+      "C) Be cut in half",
+      "D) Remain completely unchanged"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What state of matter is generated when a gas is heated to exceptionally high temperatures, stripping valence electrons from nuclei to form an energetic ionized gas mixture?",
+    "options": [
+      "A) Liquid crystal",
+      "B) Amorphous phase",
+      "C) Plasma",
+      "D) Supercritical fluid"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following solution mixtures shows a negative deviation from Raoult's Law due to strong inter-component hydrogen bonding?",
+    "options": [
+      "A) Hexane and Heptane",
+      "B) Acetone and Chloroform",
+      "C) Ethanol and Hexane",
+      "D) Water and Benzene"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the primary sub-microscopic structural difference between a crystalline solid and an amorphous solid?",
+    "options": [
+      "A) Amorphous solids have a sharp, well-defined melting point",
+      "B) Crystalline solids possess long-range, highly ordered internal particulate arrangements",
+      "C) Amorphous solids lack a definitive chemical composition",
+      "D) Crystalline solids are completely fluid at room temperature"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "If the absolute temperature of an ideal gas sample is kept constant while its volume is compressed to one-third of its original size, the final pressure will:",
+    "options": [
+      "A) Decrease to one-third",
+      "B) Triple",
+      "C) Increase ninefold",
+      "D) Remain completely constant"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following substances possesses a discrete molecular crystalline structure in its solid state?",
+    "options": [
+      "A) Graphite (C)",
+      "B) Iodine (I2)",
+      "C) Iron (Fe)",
+      "D) Potassium fluoride (KF)"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What term defines the pressure required to completely arrest the net migration of pure solvent molecules through a semipermeable membrane into a more concentrated solution?",
+    "options": [
+      "A) Vapor pressure",
+      "B) Barometric pressure",
+      "C) Osmotic pressure",
+      "D) Hydrostatic equilibrium"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "The structural scattering of visible light when a beam is passed through a liquid mixture, revealing the path of light, confirms the mixture is a:",
+    "options": [
+      "A) True homogeneous solution",
+      "B) Pure element liquid",
+      "C) Colloid suspension",
+      "D) Saturated gas solution"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is the net count of atoms enclosed entirely within a single unit cell of a body-centered cubic (bcc) metallic crystal?",
+    "options": [
+      "A) 1",
+      "B) 2",
+      "C) 4",
+      "D) 6"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which gas law coordinates the mathematical relationship between the volume and the total number of moles of gas at a fixed temperature and pressure?",
+    "options": [
+      "A) Boyle's Law",
+      "B) Charles's Law",
+      "C) Avogadro's Law",
+      "D) Dalton's Law"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is the physical significance of the critical point located on a standard single-component phase diagram?",
+    "options": [
+      "A) The solid phase converts entirely into a liquid phase",
+      "B) Liquid and gas phases merge into a single, indistinguishable supercritical fluid state",
+      "C) The substance decomposes completely into its elementary particles",
+      "D) The sublimation curve intersects the melting point axis"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following structural entities forms an anisotropic crystal that cleaves along clean, predictable geometric planes when struck?",
+    "options": [
+      "A) Polyethylene plastic sheet",
+      "B) Sodium chloride crystal block",
+      "C) Silica glass shard",
+      "D) Melted paraffin wax mold"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The thermal energy required to transform one mole of a liquid substance into its gaseous state at its constant boiling point is formally known as:",
+    "options": [
+      "A) Molar heat of fusion",
+      "B) Molar heat of vaporization",
+      "C) Specific heat capacity",
+      "D) Molar heat of sublimation"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What happens to the freezing point of water when a non-volatile, non-electrolyte solute like sucrose is dissolved into it?",
+    "options": [
+      "A) It rises above 0°C",
+      "B) It lowers below 0°C",
+      "C) It stays exactly at 0°C",
+      "D) The solution can no longer freeze under any thermodynamic condition"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following gas species will travel with the highest root-mean-square (rms) molecular speed at a uniform temperature of 25°C?",
+    "options": [
+      "A) Hydrogen (H2)",
+      "B) Oxygen (O2)",
+      "C) Carbon dioxide (CO2)",
+      "D) Xenon (Xe)"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "What is the net atom yield contained within a single unit cell of a face-centered cubic (fcc) closest-packed array?",
+    "options": [
+      "A) 1",
+      "B) 2",
+      "C) 4",
+      "D) 12"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "The intermolecular resistance that a liquid displays against internal shear forces and regular fluid flow is systematically called its:",
+    "options": [
+      "A) Volatility index",
+      "B) Viscosity",
+      "C) Surface tension",
+      "D) Capillary coefficient"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "According to Dalton's Law of Partial Pressures, the total pressure of a non-reacting gas mixture is calculated by:",
+    "options": [
+      "A) Multiplying all partial pressures together",
+      "B) Averaging the molecular weights of the component gases",
+      "C) Adding the partial pressures of each individual gas component",
+      "D) Dividing the total volume by the universal gas constant"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which type of intermolecular force binds the covalent sheets of carbon atoms together in a solid macro-lattice of graphite?",
+    "options": [
+      "A) Dynamic metallic cross-linking",
+      "B) Strong directional covalent networks",
+      "C) Weak London dispersion forces",
+      "D) Electrostatic hydrogen bonds"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What mathematical constant links pressure, volume, moles, and absolute temperature together in the Ideal Gas Equation (PV = nRT)?",
+    "options": [
+      "A) Avogadro's number",
+      "B) Universal Gas Constant (R)",
+      "C) Planck's constant",
+      "D) Boltzmann constant"
+    ],
+    "answer": "B"
+  }
+]
