@@ -249,5 +249,256 @@
     ],
     "answer": "B"
   },
-  
+  {
+    "question": "Which of the following rules directly dictates the regiochemical outcome during the electrophilic addition of asymmetrical reagents to asymmetrical alkenes?",
+    "options": [
+      "A) Hund's Rule",
+      "B) Markovnikov's Rule",
+      "C) Zaitsev's Rule",
+      "D) Le Chatelier's Principle"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What type of hybrid orbitals are used by the carbon atoms involved in a double bond within an alkene molecule?",
+    "options": [
+      "A) sp",
+      "B) sp2",
+      "C) sp3",
+      "D) dsp2"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following alkanes cannot be synthesized in high yield by the classic Wurtz reaction?",
+    "options": [
+      "A) Ethane",
+      "B) n-Butane",
+      "C) n-Propane",
+      "D) n-Hexane"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is the expected spatial orientation and structural geometry around a triply-bonded carbon atom in an alkyne?",
+    "options": [
+      "A) Tetrahedral",
+      "B) Trigonal planar",
+      "C) Linear",
+      "D) V-shaped"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which product is selectively generated during the ozonolysis of 2-methyl-2-butene followed by a reductive workup with Zn/H2O?",
+    "options": [
+      "A) Propanone and Ethanal",
+      "B) Ethanal and Methanal",
+      "C) Propanal and Methanal",
+      "D) Butanone and Methanal"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "The phenomenon where a single chemical structure cannot adequately represent a molecule like benzene, requiring a hybrid overview, is called:",
+    "options": [
+      "A) Tautomerism",
+      "B) Resonance",
+      "C) Stereoisomerism",
+      "D) Catallaxy"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the general molecular formula that encompasses all open-chain monoalkynes?",
+    "options": [
+      "A) CnH2n+2",
+      "B) CnH2n",
+      "C) CnH2n-2",
+      "D) CnH2n-4"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "When toluene (methylbenzene) undergoes harsh oxidation with a hot, acidic solution of KMnO4, the resulting organic product is:",
+    "options": [
+      "A) Benzaldehyde",
+      "B) Benzyl alcohol",
+      "C) Benzoic acid",
+      "D) Phenol"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which structural feature introduces non-superimposable mirror images (enantiomers) into complex branched hydrocarbons?",
+    "options": [
+      "A) Double bond",
+      "B) Triple bond",
+      "C) Chiral carbon atom",
+      "D) Aromatic ring"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "The explosive combustion of acetylene (ethyne) in excess oxygen gas yields which of the following set of final products?",
+    "options": [
+      "A) Carbon monoxide and Hydrogen gas",
+      "B) Carbon dioxide and Water vapor",
+      "C) Carbon black and Steam",
+      "D) Methane and Carbon dioxide"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following organic structures represents a critical starting material utilized globally for the industrial manufacture of synthetic polystyrene?",
+    "options": [
+      "A) Ethene",
+      "B) Phenol",
+      "C) Styrene (Vinylbenzene)",
+      "D) Chlorobenzene"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is the total number of structural isomers possible for the monobrominated derivatives of propane?",
+    "options": [
+      "A) 1",
+      "B) 2",
+      "C) 3",
+      "D) 4"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following hydrocarbon sub-classes burns with a highly smoky, sooty flame due to an exceptionally high carbon-to-hydrogen ratio?",
+    "options": [
+      "A) Alkanes",
+      "B) Cycloalkanes",
+      "C) Arenes (Aromatic hydrocarbons)",
+      "D) Branched alkanes"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is the principal thermodynamic driving force that causes benzene to undergo substitution rather than addition reactions?",
+    "options": [
+      "A) Preservation of high thermodynamic resonance stability",
+      "B) Low steric hindrance of the incoming nucleophile",
+      "C) High electronegativity of the ring carbons",
+      "D) Volatility of the hydrogen gas byproduct"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "The direct polymerization of ethene monomers under specialized high-pressure catalytic conditions yields which valuable polymer?",
+    "options": [
+      "A) Polyvinyl chloride",
+      "B) Polyethylene",
+      "C) Polypropylene",
+      "D) Polystyrene"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which historical experiment or theory correctly invalidated the literal 'alternating single-double bond' model proposed initially by Kekulé for benzene?",
+    "options": [
+      "A) The detection of two distinct ortho-dibromobenzene isomers",
+      "B) X-ray diffraction proving all C-C bond lengths are uniform",
+      "C) Finding that benzene reacts rapidly with cold bromine in the dark",
+      "D) Measuring an unexpectedly high heat of hydrogenation"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the precise relationship shared between the structures of 1-butene and 2-butene?",
+    "options": [
+      "A) Chain isomers",
+      "B) Position isomers",
+      "C) Functional isomers",
+      "D) Geometric isomers"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The substitution of a hydrogen atom in benzene by an acyl group using an acyl chloride in the presence of AlCl3 is known as:",
+    "options": [
+      "A) Friedel-Crafts Alkylation",
+      "B) Friedel-Crafts Acylation",
+      "C) Gattermann Reaction",
+      "D) Wurtz-Fittig Reaction"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which structural conformation of butane exhibits the highest potential energy due to maximum steric strain and torsional alignment?",
+    "options": [
+      "A) Anti-conformation",
+      "B) Gauche-conformation",
+      "C) Fully eclipsed conformation",
+      "D) Partially eclipsed conformation"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "The process of converting linear hydrocarbon fractions into highly branched cyclic aromatic structures to improve gasoline octane rating is called:",
+    "options": [
+      "A) Pyrolysis",
+      "B) Catalytic reforming",
+      "C) Hydrocracking",
+      "D) Isomerization"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the primary organic product when 1-butyne is treated with excess chlorine gas (Cl2) in an inert solvent like CCl4?",
+    "options": [
+      "A) 1,2-Dichlorobutane",
+      "B) 1,2-Dichlorobutene",
+      "C) 1,1,2,2-Tetrachlorobutane",
+      "D) 1,1,2,2-Tetrachlorobutene"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following organic reagents behaves strictly as an electrophile during typical hydrocarbon reactions?",
+    "options": [
+      "A) NH3",
+      "B) H2O",
+      "C) NO2+",
+      "D) CN-"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "The systematic IUPAC name for the allylic group radical structure H2C=CH-CH2- is formally designated as:",
+    "options": [
+      "A) Vinyl radical",
+      "B) 2-Propenyl radical",
+      "C) Ethyl radical",
+      "D) Methyl radical"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following physical patterns accurately summarizes the density profile of liquid alkanes relative to water?",
+    "options": [
+      "A) They are less dense than water and completely immiscible",
+      "B) They are more dense than water and completely immiscible",
+      "C) They are less dense than water and highly soluble",
+      "D) They possess identical density values to water"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "What unique compound is formulated when benzene is reacted with chlorine gas under direct, intensive ultraviolet light instead of a Lewis acid?",
+    "options": [
+      "A) Chlorobenzene",
+      "B) Hexachlorobenzene",
+      "C) Benzene hexachloride (1,2,3,4,5,6-hexachlorocyclohexane)",
+      "D) M-dichlorobenzene"
+    ],
+    "answer": "C"
+  }
+]
+
 
