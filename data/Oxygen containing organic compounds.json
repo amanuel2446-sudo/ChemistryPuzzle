@@ -249,4 +249,255 @@
     ],
     "answer": "B"
   },
-  
+  {
+    "question": "Which of the following effects explains why trichloroethanoic acid is a much stronger acid than ethanoic acid?",
+    "options": [
+      "A) Positive inductive effect (+I) of the chlorine atoms",
+      "B) Negative inductive effect (-I) of the highly electronegative chlorine atoms",
+      "C) Resonance electron donation into the carboxylate carbon",
+      "D) Steric hindrance blocking the hydration of the proton"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What organic intermediate is formed first during the acid-catalyzed dehydration of ethanol to ethene?",
+    "options": [
+      "A) Carbanion",
+      "B) Carbocation (Ethyl oxonium/carbonium ion)",
+      "C) Free radical",
+      "D) Carbene"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "An organic compound with the molecular formula C3H6O does not reduce Tollen's reagent but forms a crystalline product with hydroxylamine. It is a/an:",
+    "options": [
+      "A) Alcohol",
+      "B) Aldehyde",
+      "C) Ketone",
+      "D) Ether"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What structural assembly is formed by the elimination of a water molecule from two adjacent molecules of a carboxylic acid upon heating with P2O5?",
+    "options": [
+      "A) An ester",
+      "B) An acid anhydride",
+      "C) An acyl chloride",
+      "D) A ketone"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which statement regarding ethers is chemically correct?",
+    "options": [
+      "A) Ethers have boiling points comparable to alcohols of similar molar mass",
+      "B) Ethers are highly reactive towards oxidizing and reducing agents",
+      "C) Ethers possess a bent C-O-C molecular geometry with a net dipole moment",
+      "D) Ethers readily form dense intermolecular hydrogen bonds with each other"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "The reduction of aldehydes using sodium borohydride (NaBH4) selectively generates which class of compounds?",
+    "options": [
+      "A) Primary alcohols",
+      "B) Secondary alcohols",
+      "C) Tertiary alcohols",
+      "D) Alkanes"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following tests can cleanly differentiate between phenol and benzoic acid in a high school chemistry laboratory?",
+    "options": [
+      "A) Sodium metal test",
+      "B) Aqueous sodium bicarbonate (NaHCO3) test",
+      "C) Litmus paper test",
+      "D) Lucas test"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the common trivial name for the simplest aliphatic dicarboxylic acid, HOOC-COOH?",
+    "options": [
+      "A) Malonic acid",
+      "B) Succinic acid",
+      "C) Oxalic acid",
+      "D) Glutaric acid"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Aldehydes that completely lack alpha-hydrogen atoms undergo self-oxidation and reduction when treated with concentrated alkali. This is known as the:",
+    "options": [
+      "A) Aldol condensation",
+      "B) Cannizzaro reaction",
+      "C) Perkin reaction",
+      "D) Reimer-Tiemann reaction"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What type of product is formed when ethanol is heated with concentrated sulfuric acid at a carefully regulated temperature of 140°C (413 K)?",
+    "options": [
+      "A) Ethene gas",
+      "B) Ethoxyethane",
+      "C) Ethyl hydrogen sulfate",
+      "D) Ethanoic acid"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following organic derivatives acts as the principal flavoring ester mimicking the natural scent of bananas?",
+    "options": [
+      "A) Ethyl butyrate",
+      "B) Isopentyl acetate (3-methylbutyl ethanoate)",
+      "C) Octyl acetate",
+      "D) Methyl salicylate"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The formation of a brick-red precipitate when an organic compound is boiled with Fehling's solution confirms the presence of an:",
+    "options": [
+      "A) Aliphatic aldehyde",
+      "B) Aromatic ketone",
+      "C) Aliphatic alcohol",
+      "D) Ester"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "What is the IUPAC name for the cyclic ether containing a three-membered ring with one oxygen atom?",
+    "options": [
+      "A) Oxetane",
+      "B) Oxirane (Epoxide)",
+      "C) Oxolane",
+      "D) Dioxane"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which alcohol is known colloquially as 'wood spirit' and is highly toxic, causing permanent blindness if ingested?",
+    "options": [
+      "A) Ethanol",
+      "B) Methanol",
+      "C) Propan-1-ol",
+      "D) Glycerol"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The condensation reaction of an aldehyde containing alpha-hydrogens in the presence of a dilute base to form a beta-hydroxyaldehyde is called:",
+    "options": [
+      "A) Claisen condensation",
+      "B) Aldol condensation",
+      "C) Benzoin condensation",
+      "D) Friedel-Crafts reaction"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which reagent converts a carboxylic acid directly into a primary alcohol in high yield without affecting isolated double bonds?",
+    "options": [
+      "A) NaBH4 / Methanol",
+      "B) LiAlH4 / dry ether",
+      "C) H2 / Ni catalyst",
+      "D) Zn / HCl"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What chemical change is observed when primary alcohols are passed over heated copper gauge at 300°C?",
+    "options": [
+      "A) Dehydration to form alkenes",
+      "B) Dehydrogenation to form aldehydes",
+      "C) Oxidation to form carboxylic acids",
+      "D) Substitution to form alkyl halides"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The structural formula of Glycerol (Glycerin), an ingredient often formulated in Ethiopian cosmetic creams, corresponds to:",
+    "options": [
+      "A) Propane-1,2-diol",
+      "B) Propane-1,2,3-triol",
+      "C) Ethane-1,2-diol",
+      "D) Butane-1,4-diol"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following organic structures will yield benzoic acid upon intensive refluxing with alkaline potassium permanganate (KMnO4)?",
+    "options": [
+      "A) Toluene (Methylbenzene)",
+      "B) Chlorobenzene",
+      "C) Nitrobenzene",
+      "D) Bromobenzene"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "What type of intermolecular attraction handles the structural solubility profile of short-chain carboxylic acids in water?",
+    "options": [
+      "A) Ion-dipole forces",
+      "B) Hydrogen bonding between water molecules and the carboxyl group",
+      "C) London dispersion forces across the hydrophobic tail",
+      "D) Permanent coordinate covalent cross-linkages"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which compound serves as the major product when phenol undergoes electrophilic substitution with excess bromine water at room temperature?",
+    "options": [
+      "A) 2-Bromophenol",
+      "B) 4-Bromophenol",
+      "C) 2,4,6-Tribromophenol",
+      "D) 3-Bromophenol"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "The systematic IUPAC name for the ketone compound structurally given as CH3-CH2-CO-CH2-CH3 is:",
+    "options": [
+      "A) Pentan-2-one",
+      "B) Pentan-3-one",
+      "C) Butanone",
+      "D) 3-Oxopentane"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which chemical family does aspirin (acetylsalicylic acid) fundamentally belong to based on its secondary modifications?",
+    "options": [
+      "A) Simple acyclic ether",
+      "B) Aliphatic diol",
+      "C) Ester containing a carboxylic acid functional group",
+      "D) Macromolecular polyamide"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What happens to the rate of nucleophilic addition to carbonyl centers as the size of the alkyl groups flanking the carbonyl group increases?",
+    "options": [
+      "A) It increases due to electronic stabilization",
+      "B) It decreases due to steric hindrance and inductive electron donation",
+      "C) It remains completely unchanged",
+      "D) It alternates randomly depending on solvent choice"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following compounds has the highest boiling point among these constitutional isomers?",
+    "options": [
+      "A) Butanoic acid",
+      "B) Methyl propanoate",
+      "C) Ethyl ethanoate",
+      "D) Propyl methanoate"
+    ],
+    "answer": "A"
+  }
+]
+
