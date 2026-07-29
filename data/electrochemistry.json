@@ -299,4 +299,205 @@
     ],
     "answer": "A"
   },
-  
+  {
+    "question": "Which of the following processes represents the exact reaction occurring at the cathode during the industrial purification of copper by electrolysis?",
+    "options": [
+      "A) Cu(s) → Cu2+(aq) + 2e-",
+      "B) Cu2+(aq) + 2e- → Cu(s)",
+      "C) 2H2O(l) + 2e- → H2(g) + 2OH-(aq)",
+      "D) 4OH-(aq) → O2(g) + 2H2O(l) + 4e-"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "An electrochemical cell has a negative standard cell potential (E°cell = -0.44 V). What does this value indicate about the reaction under standard conditions?",
+    "options": [
+      "A) The reaction is highly spontaneous in the forward direction.",
+      "B) The reaction is non-spontaneous in the forward direction, but spontaneous in the reverse.",
+      "C) The reaction has achieved dynamic chemical equilibrium.",
+      "D) The reaction cannot occur in either direction because the value is negative."
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "During the electrolysis of a dilute aqueous sodium sulfate (Na2SO4) solution using inert platinum electrodes, what products are formed at the anode and cathode respectively?",
+    "options": [
+      "A) Sodium metal at the cathode, Chlorine gas at the anode",
+      "B) Hydrogen gas at the cathode, Oxygen gas at the anode",
+      "C) Oxygen gas at the cathode, Hydrogen gas at the anode",
+      "D) Sulfur dioxide at the anode, Sodium metal at the cathode"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the oxidation number of the sulfur atom in a peroxydisulfate anion (S2O8^2-) assuming standard terminal oxygens are -2 and peroxide oxygens are -1?",
+    "options": [
+      "A) +4",
+      "B) +6",
+      "C) +7",
+      "D) +8"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "If a constant electric current of 5.0 Amperes is passed through an aqueous silver nitrate (AgNO3) solution for exactly 965 seconds, how many moles of solid silver metal will plate out?",
+    "options": [
+      "A) 0.05 moles",
+      "B) 0.10 moles",
+      "C) 0.50 moles",
+      "D) 1.00 moles"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following changes will systematically cause an increase in the cell potential (Ecell) of the galvanic cell: Zn(s) + Cu2+(aq) → Zn2+(aq) + Cu(s)?",
+    "options": [
+      "A) Increasing the concentration of Zn2+(aq) ions",
+      "B) Increasing the concentration of Cu2+(aq) ions",
+      "C) Increasing the mass of the solid copper electrode",
+      "D) Decreasing the surface area of the zinc anode"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What happens to the chemical composition of the electrolyte inside a standard Lead-Acid storage battery during its discharge cycle?",
+    "options": [
+      "A) Sulfuric acid is generated, increasing the density of the solution.",
+      "B) Sulfuric acid is consumed and water is produced, lowering the density of the solution.",
+      "C) Lead dioxide is completely converted into gaseous lead hydride.",
+      "D) The concentration of the electrolyte remains perfectly unchanged."
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following species is the strongest reducing agent under standard conditions, given: E°(Li+/Li) = -3.05V, E°(Zn2+/Zn) = -0.76V, E°(Cu2+/Cu) = +0.34V, E°(F2/F-) = +2.87V?",
+    "options": [
+      "A) F- ion",
+      "B) Li+ ion",
+      "C) Li metal",
+      "D) F2 gas"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "In the balancing of the half-reaction: Cr2O7^2- + H+ + e- → Cr3+ + H2O in an acidic medium, what are the correct coefficients for H+ and electrons (e-) respectively?",
+    "options": [
+      "A) 7 H+ and 3 e-",
+      "B) 14 H+ and 6 e-",
+      "C) 14 H+ and 3 e-",
+      "D) 7 H+ and 6 e-"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What structural feature characterizes the electrochemical reaction within a dry alkaline cell over a classic acidic Leclanché dry cell?",
+    "options": [
+      "A) It utilizes a liquid mercury cathode instead of graphite.",
+      "B) It employs a potassium hydroxide (KOH) paste, preventing rapid structural corrosion of the zinc container.",
+      "C) It cannot be utilized in small electronic devices due to high volatility.",
+      "D) It generates pure hydrogen gas as a stable secondary byproduct."
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "How many Faradays of electricity are theoretically required to reduce exactly one mole of dichromate ions (Cr2O7^2-) completely into chromium(III) ions (Cr3+) in an acidic solution?",
+    "options": [
+      "A) 2 Faradays",
+      "B) 3 Faradays",
+      "C) 6 Faradays",
+      "D) 14 Faradays"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following statement elements regarding standard reduction potentials (E°) is structurally false?",
+    "options": [
+      "A) A half-cell reaction with a positive E° is spontaneous relative to the SHE.",
+      "B) E° values are intensive properties and do not scale with the amount of substance.",
+      "C) Flipping a half-reaction changes the mathematical sign of its E° value.",
+      "D) Multiplying a half-reaction by a factor of 2 doubles its absolute E° value."
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "What is the main compound deposited on the surface of iron during the commercial protection process known as galvanization?",
+    "options": [
+      "A) Copper metal",
+      "B) Zinc metal",
+      "C) Chromium metal",
+      "D) Aluminum oxide"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "An electrolytic cell contains three separate compartments connected in series holding molten AlCl3, MgCl2, and NaCl. If 3 moles of electrons are passed, what is the ratio of moles of Al, Mg, and Na deposited?",
+    "options": [
+      "A) 1 : 2 : 3",
+      "B) 3 : 2 : 1",
+      "C) 1 : 1.5 : 3",
+      "D) 1 : 1 : 1"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What unique role does manganese dioxide (MnO2) fulfill inside a standard acidic zinc-carbon Leclanché dry cell?",
+    "options": [
+      "A) It acts as the primary sacrificial anode material.",
+      "B) It serves as a depolarizer by oxidizing generated hydrogen gas into water.",
+      "C) It lowers the internal electrical resistance of the starch paste.",
+      "D) It prevents the leakage of ammonium chloride solution."
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following organic or inorganic transformations represents a true, non-disproportionation reduction reaction?",
+    "options": [
+      "A) CO2 → CO3^2-",
+      "B) H2O2 → H2O + O2",
+      "C) NO3- → NH4+",
+      "D) SO2 → SO4^2-"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is the standard cell potential (E°cell) for a cell built using the half-reactions: Fe2+(aq) + 2e- → Fe(s) [E° = -0.44 V] and Ag+(aq) + e- → Ag(s) [E° = +0.80 V]?",
+    "options": [
+      "A) +0.36 V",
+      "B) -0.36 V",
+      "C) +1.24 V",
+      "D) +2.04 V"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Why does iron rust much faster in ocean water than in pure freshwater under identical environmental exposure constraints?",
+    "options": [
+      "A) Dissolved salts increase the electrical conductivity of the aqueous medium, accelerating ion migration.",
+      "B) Ocean water contains a lower concentration of dissolved oxygen gas molecules.",
+      "C) Salt particles react directly with iron to produce volatile iron chloride gases.",
+      "D) Pure water behaves as a stronger oxidizing agent than sodium chloride solutions."
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "According to the Nernst equation, if a concentration cell is constructed using two identical silver electrodes immersed in 0.10 M Ag+ and 1.0 M Ag+ solutions at 298 K, what is the initial standard potential (E°cell) of this cell?",
+    "options": [
+      "A) It depends heavily on log(10).",
+      "B) It is exactly 0.00 Volts because the electrodes are identical.",
+      "C) It equals +0.0592 Volts.",
+      "D) It drops below zero instantly."
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What unique structural component is formed at both the anode and cathode electrodes during the discharge phase of a standard Lead-Acid battery?",
+    "options": [
+      "A) Lead dioxide (PbO2)",
+      "B) Lead sulfate (PbSO4)",
+      "C) Elemental sponge lead (Pb)",
+      "D) Basic lead carbonate"
+    ],
+    "answer": "B"
+  }
+]
+
