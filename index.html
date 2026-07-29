@@ -78,3 +78,52 @@
                 </button>
             </div>
         </div>
+        <!-- ==========================================
+           GAME WORKSPACE LAYOUT (COUPLED TO SCRIPT)
+           ========================================== -->
+        <div id="gameArea" style="display: none;">
+
+            <!-- Precision Monospaced Tabular Countdown Engine Clock -->
+            <div id="timer" class="timer">⏱ 40:00</div>
+
+            <!-- Interactive Active Question Board -->
+            <h2 id="question">Press START EXAM</h2>
+
+            <!-- Core Option Selector Infrastructure Stack -->
+            <div id="answer-buttons" class="options-stack options">
+                <button id="btnA" class="btn option-btn option"></button>
+                <button id="btnB" class="btn option-btn option"></button>
+                <button id="btnC" class="btn option-btn option"></button>
+                <button id="btnD" class="btn option-btn option"></button>
+            </div>
+
+            <!-- Core Game State Action Layout Footer Buttons -->
+            <div class="footer-actions controls">
+                <button id="startBtn" class="btn-action start" onclick="startGame()">
+                    ▶ START EXAM
+                </button>
+                
+                <button id="backBtn" class="btn-action back" style="display: none;">
+                    ⬅ Back to Select Another Level
+                </button>
+            </div>
+
+            <!-- Live HUD Session Dashboard Tracking Metrics -->
+            <div id="score" class="scoreElement score">
+                ⭐ Score: 0 | ❤️ Lives: 3 | 📚 Level: None
+            </div>
+
+            <!-- End-Game Assessment Grades Summary Panel Container -->
+            <div id="resultArea" class="result-area result"></div>
+
+        </div> <!-- End #gameArea -->
+
+    </div> <!-- End .card -->
+
+</div> <!-- End .app -->
+
+<!-- Core High-Performance Game Runtime script -->
+<script src="script.js"></script>
+
+</body>
+</html>
