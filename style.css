@@ -165,7 +165,7 @@ h1 {
 #question {
     font-size: 22px;
     font-weight: bold;
-    color: green;
+    color: black;
     margin-bottom: 20px;
     line-height: 1.5;
 }
@@ -253,7 +253,7 @@ h1 {
 }
 
 #musicBtn:hover, #music-btn:hover {
-    background: #ffffff;
+    background: golden;
     transform: scale(1.05);
 }
 
